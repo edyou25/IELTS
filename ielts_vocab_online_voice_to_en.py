@@ -6,10 +6,12 @@ import os
 from googletrans import Translator
 import signal
 import sys
+import tempfile
+import threading
+import queue
 
 words = [
-    "boarding pass", "credit card", "student discount", "entry fee", "group booking",
-    "customer service", "library card", "parking permit", "mobile phone", "return ticket"
+    "boarding pass", "business trip", "credit card", "customer service", "data analysis"
 ]
 
 VOICE = "en-GB-RyanNeural"
@@ -21,7 +23,9 @@ VOICE = "en-US-AriaNeural"      # Female
 # VOICE = "en-AU-NatashaNeural"   # Female Australian
 give_chinese = True  # Set to True to give Chinese translation
 
-pygame.mixer.init()
+# Initialize pygame properly for both audio and event handling
+pygame.init()  # Initialize all pygame modules
+pygame.mixer.init()  # Ensure mixer is initialized
 
 async def fetch_translation(text):
     tr = Translator()
@@ -63,28 +67,85 @@ async def speak_and_test(words):
     incorrect_words = []
     correct_count = 0
     
+    # Create a unique temp directory for this session
+    temp_dir = tempfile.mkdtemp(prefix="ielts_audio_")
+    
+    # Track if the directory exists for later cleanup
+    temp_dir_exists = True
+    
     for idx, word in enumerate(words, 1):
-        temp_file = os.path.join(base_dir, f"temp_{idx}_{int(time.time())}.mp3")
-        temp_files.append(temp_file)
         print(f"\n[{idx}/{len(words)}] 🔊 Please write the word/phrase you hear:")
         tts = edge_tts.Communicate(text=word, voice=VOICE)
+        
+        # Create unique filename for each word to avoid permission issues
+        temp_file = os.path.join(temp_dir, f"word_{idx}_{int(time.time())}.mp3")
         await tts.save(temp_file)
         
-        try:
-            pygame.mixer.music.load(temp_file)
-            pygame.mixer.music.play()
-            while pygame.mixer.music.get_busy():
-                pygame.time.Clock().tick(10)
-            pygame.mixer.music.unload()
-            pygame.mixer.music.set_volume(0)  # Help release resources
-            time.sleep(0.5)  # Increase delay to ensure file is released
-        except Exception as e:
-            print(f"Error: {e}")
+        # Create a queue for replay commands
+        replay_queue = queue.Queue()
+        replay_stop = threading.Event()
         
-        time.sleep(0.5)
+        # Function to handle audio playback in background
+        def audio_playback_thread():
+            try:
+                # Play the audio
+                pygame.mixer.music.load(temp_file)
+                pygame.mixer.music.set_volume(1.0)
+                pygame.mixer.music.play()
+                
+                # Continue checking for replay requests while not stopped
+                while not replay_stop.is_set():
+                    # Check if there's a replay command in queue
+                    try:
+                        cmd = replay_queue.get(block=False)
+                        if cmd == "replay":
+                            pygame.mixer.music.play()
+                    except queue.Empty:
+                        pass
+                    
+                    time.sleep(0.1)
+            except Exception as e:
+                print(f"Audio playback error: {e}")
         
+        # Start audio playback in background thread
+        audio_thread = threading.Thread(target=audio_playback_thread)
+        audio_thread.daemon = True
+        audio_thread.start()
+        
+        # Start keyboard listener thread for replay ('r' key)
+        def keyboard_listener():
+            if not msvcrt_available:
+                return
+                
+            while not replay_stop.is_set():
+                try:
+                    import msvcrt
+                    if msvcrt.kbhit():
+                        key = msvcrt.getch().decode('utf-8', errors='ignore').lower()
+                        if key == 'r':
+                            replay_queue.put("replay")
+                            print("Replaying audio...")
+                except:
+                    pass
+                time.sleep(0.1)
+        
+        kb_thread = threading.Thread(target=keyboard_listener)
+        kb_thread.daemon = True
+        kb_thread.start()
+        
+        # print("Type your answer (press 'r' to replay):")
         user_input = input("").strip().lower()
         correct = word.lower()
+        
+        # Signal threads to stop
+        replay_stop.set()
+        
+        # Wait a moment to ensure threads have stopped using the file
+        time.sleep(0.2)
+        
+        # Explicitly release the file from pygame
+        pygame.mixer.music.unload()
+        time.sleep(0.2)
         
         if user_input == correct:
             print("✅ Correct!")
@@ -100,14 +161,25 @@ async def speak_and_test(words):
         except Exception as e:
             print(f"Unable to get translation: {e}")
         
+        # Delete the temporary audio file immediately after use
         try:
             if os.path.exists(temp_file):
                 os.remove(temp_file)
-        except PermissionError:
-            print(f"Cannot delete temp file, it will be cleaned up when program ends")
+            # print("✓ Temp file deleted")
+        except Exception as e:
+            print(f"Could not delete temp file: {e}")
+            # Add to global list only if immediate deletion failed
+            temp_files.append(temp_file)
         
         time.sleep(1)
 
+    # Try to remove the temp directory if it's empty
+    try:
+        if temp_dir_exists and os.path.exists(temp_dir):
+            os.rmdir(temp_dir)
+    except:
+        pass
+    
     print("\n" + "="*50)
     accuracy = correct_count / len(words) * 100
     print(f"📊 Test Results: Total {len(words)} words, {correct_count} correct, Accuracy {accuracy:.1f}%")
@@ -123,6 +195,14 @@ async def speak_and_test(words):
         print("]")
 
 if __name__ == "__main__":
+    # Check if msvcrt is available (Windows only)
+    msvcrt_available = False
+    try:
+        import msvcrt
+        msvcrt_available = True
+    except ImportError:
+        pass
+        
     try:
         asyncio.run(speak_and_test(words))
     finally:

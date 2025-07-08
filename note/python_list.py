@@ -51,6 +51,7 @@ words = [
     "fridge", "occupation", "sightseeing", "curtain", "website", "exhibition",
     "counselor", "itinerary", "gallery", "resume", "firefighter", "battery"
 ]
+
 # some phrases
 words = [
     "boarding pass", "business trip", "credit card", "customer service", "data analysis",
@@ -62,6 +63,10 @@ words = [
     "personal details", "post office", "public transport", "reference letter", "registration form",
     "recycling bin", "return ticket", "safety regulation", "student discount", "tour guide",
     "traffic rules", "travel agency", "visa application", "working hours", "writing task"
+]
+# 第一次听写错误
+words = [
+    "driving license", "first aid", "online registration", "safety regulation", "writing task"
 ]
 
 # 300 words from
