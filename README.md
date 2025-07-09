@@ -1,5 +1,7 @@
 # IELTS Tools
 
+> 一些雅思单词学习工具
+
 ``` text
 .
 ├─ielts_gen_vocab_md_tts.py         # list转markdown
@@ -51,5 +53,3 @@
 
 ---
 
-> "你会听到我赞美未来的呼喊" 
->  -- *光明, 汪峰*
