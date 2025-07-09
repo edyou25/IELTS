@@ -10,23 +10,34 @@ current_dir = os.path.dirname(current_path)
 
 # Load word list from user-provided data
 words = [
-    "boarding pass", "business trip", "credit card", "customer service", "data analysis",
-    "driving license", "emergency exit", "entry fee", "environmental protection", "family name",
-    "first aid", "fitness center", "full-time job", "group booking", "health insurance",
-    "identity card", "information desk", "internet access", "language exchange", "library card",
-    "local resident", "lost property", "luggage claim", "membership fee", "mobile phone",
-    "national holiday", "online registration", "part-time job", "parking permit", "payment method",
-    "personal details", "post office", "public transport", "reference letter", "registration form",
-    "recycling bin", "return ticket", "safety regulation", "student discount", "tour guide",
-    "traffic rules", "travel agency", "visa application", "working hours", "writing task"
+    "expressway/freeway", "study lounge", "housemaid", "workaholic", "tenant", "collapse",
+    "recession", "residence", "staple", "hospitable", "skiing", "pork", 
+    "blaze a trail", "do odd jobs", "convenience store", "compromise", "editorial", "telephone booth",      
+    "catalogue", "periodical room", "anesthetist", "overdue", "outlet", "department store",
+    "symptom", "job-hopping", "put on reserve", "out of stock", "fit as a fiddle", "syllabus",
+    "wage", "furnace", "spare room", "perseverance", "prosperous", "run for",
+    "on business", "wear out", "infectious illness", "sophomore", "roundtrip", 
+    "inflation",    "call on",    "hitch-hike",
+    "baby crib",    "breeze",    "drop-out",    "mutton",    "stationery",    "sewage treatment",
+    "infirmary",    "monetary",    "conductor",    "cutlery",    "deforestation rate",    "paperback edition",
+    "in poor shape",    "sneeze",    "downpour",    "buffet",    "surplus",    "sideboard",
+    "recruit",    "muggy",    "plough through",    "diabetes",    "have a temperature",    "fracture",
+    "dwell",    "depression",    "check out", "hung up", 
+    "call on", "hitch-hike", "baby crib",  "accommodate", "turn down", "epidemic",
+    "resume", "crack", "in stock", "attending/chief doctor", "loaf", "bankrupt",
+    "shelf", "appetizer", "fix the dinner", "ventilation", "speech contest", "dental decay",
+    "shuttle", "past the prime", "diligent", "napkin", "multiple glazing", "gust",
+    "hang up", "latest number", "periodical", "household expenses", "reference room", "bid",
+    "tribute", "hacker", "inexperienced", "circulation", "forecast", "out of print"
 ]
 
-vocabulary_name = "oit-1-363"
+
+vocabulary_name = "oit-1-363-1st108err"
 
 md_name = vocabulary_name + ".md"
 tts_name = vocabulary_name + ".txt"
 
-cols = 3  # Number of columns in the markdown table
+cols = 2  # Number of columns in the markdown table
 
 words = list(dict.fromkeys(words))
 

@@ -69,7 +69,7 @@ words = [
     "driving license", "first aid", "online registration", "safety regulation", "writing task"
 ]
 
-# 300 words from
+# 363 words from
 # https://ieltsonlinetests.com/zh-hans/listening-tips/3305564.html
 words = [
     "climate variation", "fine", "expressway/freeway", "economic crisis", "change", "hard-working",
@@ -133,4 +133,27 @@ words = [
     "make a reservation", "physical exercise", "circulation", "forecast", "digital video camera", "out of print",
     "long-distance call", "landlord/landlady", "tube/underground", "interview", "senior student", "candidate",
     "raw", "junior student", "live broadcast"
+]
+
+# 第一次听听写不认识108个
+words = [
+    "expressway/freeway", "study lounge", "housemaid", "workaholic", "tenant", "collapse",
+    "recession", "residence", "staple", "hospitable", "skiing", "pork", 
+    "blaze a trail", "do odd jobs", "convenience store", "compromise", "editorial", "telephone booth",      
+    "catalogue", "periodical room", "anesthetist", "overdue", "outlet", "department store",
+    "symptom", "job-hopping", "put on reserve", "out of stock", "fit as a fiddle", "syllabus",
+    "wage", "furnace", "spare room", "perseverance", "prosperous", "run for",
+    "on business", "wear out", "infectious illness", "sophomore", "roundtrip", 
+    "inflation",    "call on",    "hitch-hike",
+    "baby crib",    "breeze",    "drop-out",    "mutton",    "stationery",    "sewage treatment",
+    "infirmary",    "monetary",    "conductor",    "cutlery",    "deforestation rate",    "paperback edition",
+    "in poor shape",    "sneeze",    "downpour",    "buffet",    "surplus",    "sideboard",
+    "recruit",    "muggy",    "plough through",    "diabetes",    "have a temperature",    "fracture",
+    "dwell",    "depression",    "check out", "hung up", 
+    "call on", "hitch-hike", "baby crib",  "accommodate", "turn down", "epidemic",
+    "resume", "crack", "in stock", "attending/chief doctor", "loaf", "bankrupt",
+    "shelf", "appetizer", "fix the dinner", "ventilation", "speech contest", "dental decay",
+    "shuttle", "past the prime", "diligent", "napkin", "multiple glazing", "gust",
+    "hang up", "latest number", "periodical", "household expenses", "reference room", "bid",
+    "tribute", "hacker", "inexperienced", "circulation", "forecast", "out of print"
 ]

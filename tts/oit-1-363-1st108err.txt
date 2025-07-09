@@ -1,0 +1,105 @@
+expressway/freeway {{pause:5000}}
+study lounge {{pause:5000}}
+housemaid {{pause:5000}}
+workaholic {{pause:5000}}
+tenant {{pause:5000}}
+collapse {{pause:5000}}
+recession {{pause:5000}}
+residence {{pause:5000}}
+staple {{pause:5000}}
+hospitable {{pause:5000}}
+skiing {{pause:5000}}
+pork {{pause:5000}}
+blaze a trail {{pause:5000}}
+do odd jobs {{pause:5000}}
+convenience store {{pause:5000}}
+compromise {{pause:5000}}
+editorial {{pause:5000}}
+telephone booth {{pause:5000}}
+catalogue {{pause:5000}}
+periodical room {{pause:5000}}
+anesthetist {{pause:5000}}
+overdue {{pause:5000}}
+outlet {{pause:5000}}
+department store {{pause:5000}}
+symptom {{pause:5000}}
+job-hopping {{pause:5000}}
+put on reserve {{pause:5000}}
+out of stock {{pause:5000}}
+fit as a fiddle {{pause:5000}}
+syllabus {{pause:5000}}
+wage {{pause:5000}}
+furnace {{pause:5000}}
+spare room {{pause:5000}}
+perseverance {{pause:5000}}
+prosperous {{pause:5000}}
+run for {{pause:5000}}
+on business {{pause:5000}}
+wear out {{pause:5000}}
+infectious illness {{pause:5000}}
+sophomore {{pause:5000}}
+roundtrip {{pause:5000}}
+inflation {{pause:5000}}
+call on {{pause:5000}}
+hitch-hike {{pause:5000}}
+baby crib {{pause:5000}}
+breeze {{pause:5000}}
+drop-out {{pause:5000}}
+mutton {{pause:5000}}
+stationery {{pause:5000}}
+sewage treatment {{pause:5000}}
+infirmary {{pause:5000}}
+monetary {{pause:5000}}
+conductor {{pause:5000}}
+cutlery {{pause:5000}}
+deforestation rate {{pause:5000}}
+paperback edition {{pause:5000}}
+in poor shape {{pause:5000}}
+sneeze {{pause:5000}}
+downpour {{pause:5000}}
+buffet {{pause:5000}}
+surplus {{pause:5000}}
+sideboard {{pause:5000}}
+recruit {{pause:5000}}
+muggy {{pause:5000}}
+plough through {{pause:5000}}
+diabetes {{pause:5000}}
+have a temperature {{pause:5000}}
+fracture {{pause:5000}}
+dwell {{pause:5000}}
+depression {{pause:5000}}
+check out {{pause:5000}}
+hung up {{pause:5000}}
+accommodate {{pause:5000}}
+turn down {{pause:5000}}
+epidemic {{pause:5000}}
+resume {{pause:5000}}
+crack {{pause:5000}}
+in stock {{pause:5000}}
+attending/chief doctor {{pause:5000}}
+loaf {{pause:5000}}
+bankrupt {{pause:5000}}
+shelf {{pause:5000}}
+appetizer {{pause:5000}}
+fix the dinner {{pause:5000}}
+ventilation {{pause:5000}}
+speech contest {{pause:5000}}
+dental decay {{pause:5000}}
+shuttle {{pause:5000}}
+past the prime {{pause:5000}}
+diligent {{pause:5000}}
+napkin {{pause:5000}}
+multiple glazing {{pause:5000}}
+gust {{pause:5000}}
+hang up {{pause:5000}}
+latest number {{pause:5000}}
+periodical {{pause:5000}}
+household expenses {{pause:5000}}
+reference room {{pause:5000}}
+bid {{pause:5000}}
+tribute {{pause:5000}}
+hacker {{pause:5000}}
+inexperienced {{pause:5000}}
+circulation {{pause:5000}}
+forecast {{pause:5000}}
+out of print {{pause:5000}}
