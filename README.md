@@ -1,4 +1,7 @@
 # IELTS Tools
+
+
+
 ---
 
 #### ielts_vocab_radom.py
@@ -38,4 +41,8 @@
 - md可以通过这个extension转pdf或html
 - https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced
 
+
 ---
+
+> "你会听到我赞美未来的呼喊" 
+>  -- *光明, 汪峰*
