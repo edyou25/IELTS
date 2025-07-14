@@ -50,6 +50,11 @@
 - md可以通过这个extension转pdf或html
 - https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced
 
+#### ielts_gen_vocab_phonetic_md.py
+- 生成单词表markdown table，用于背诵
+- 包含音标
+
+
 
 ---
 
@@ -57,3 +62,5 @@
 - 手动复制网页前端body到temp.html
 - 从小红书抓评论，整理到markdown
 - 给大模型归纳评价（手动）
+
+<!-- conda env export > environment.yml -->
