@@ -1,91 +1,61 @@
-| No. | Word | Chinese | No. | Word | Chinese |
-|-----|------|---------|-----|------|---------|
-| 1 | abruptly | 突然 | 90 | lap | 圈 |
-| 2 | absorbed | 吸收 | 91 | latter | 后者 |
-| 3 | abusively | 虐待性 | 92 | lauded | 称赞 |
-| 4 | accordance | 符合 | 93 | lime | 酸橙 |
-| 5 | adequate | 足够的 | 94 | literacy | 扫盲 |
-| 6 | advocates | 拥护者 | 95 | lucrative | 有利可图 |
-| 7 | agendas | 议程 | 96 | maladies | 疾病 |
-| 8 | altitude | 高度 | 97 | marble | 大理石 |
-| 9 | anticipate | 预料 | 98 | masculine | 男性 |
-| 10 | anticipating | 期待 | 99 | medicals | 医疗 |
-| 11 | aqueducts | 渡槽 | 100 | minded | 有智力 |
-| 12 | archipelago | 群岛 | 101 | morale | 士气 |
-| 13 | arson | 纵火 | 102 | necessarily | 一定 |
-| 14 | artistic | 艺术 | 103 | niece | 侄女 |
-| 15 | ascent | 上升 | 104 | nutrients | 营养 |
-| 16 | augmented | 增强 | 105 | obscure | 朦胧 |
-| 17 | avail | 可用 | 106 | october | 十月 |
-| 18 | ballet | 芭蕾舞 | 107 | odd | 奇怪的 |
-| 19 | bank | 银行 | 108 | omit | 忽略 |
-| 20 | banquet | 宴会 | 109 | opposite | 对面的 |
-| 21 | beads | 珠子 | 110 | outmoded | 陈旧 |
-| 22 | bedsit | 床位 | 111 | overrun | 超支 |
-| 23 | begs | 乞求 | 112 | past | 过去的 |
-| 24 | bizarre | 奇怪 | 113 | pattern | 图案 |
-| 25 | blend | 混合 | 114 | peasants | 农民 |
-| 26 | bolstered | 加固 | 115 | percussion | 打击乐器 |
-| 27 | canoe | 独木舟 | 116 | persuasive | 有说服力 |
-| 28 | carnival | 狂欢 | 117 | pharmacy | 药店 |
-| 29 | catered | 餐饮 | 118 | playwrights | 剧作家 |
-| 30 | ceramics | 陶瓷 | 119 | predators | 掠食者 |
-| 31 | charcoal | 木炭 | 120 | preserve | 保存 |
-| 32 | chronological | 时间顺序 | 121 | priority | 优先事项 |
-| 33 | clarinet | 单簧管 | 122 | prominent | 著名的 |
-| 34 | clay | 黏土 | 123 | prone | 易于 |
-| 35 | coating | 涂层 | 124 | proportion | 部分 |
-| 36 | comets | 彗星 | 125 | publicised | 公开 |
-| 37 | commissioned | 委托 | 126 | radical | 激进的 |
-| 38 | complicated | 复杂的 | 127 | ramp | 坡道 |
-| 39 | composition | 作品 | 128 | rather | 相当 |
-| 40 | comprehend | 理解 | 129 | reaffirm | 重申 |
-| 41 | compromised | 妥协 | 130 | reduction | 减少 |
-| 42 | compulsory | 强制性的 | 131 | rehearse | 排练 |
-| 43 | concentrate | 集中 | 132 | remuneration | 报酬 |
-| 44 | connotative | 含义 | 133 | renowned | 著名 |
-| 45 | consultation | 咨询 | 134 | repatriation | 遣返 |
-| 46 | consumption | 消耗 | 135 | resemble | 类似 |
-| 47 | contagious | 传染性 | 136 | reservations | 预订 |
-| 48 | contradictory | 矛盾 | 137 | respiratory | 呼吸道 |
-| 49 | coordination | 协调 | 138 | ribbons | 丝带 |
-| 50 | cope | 应付 | 139 | scraper | 刮刀 |
-| 51 | counteract | 抵消 | 140 | second | 第二 |
-| 52 | dementia | 失智 | 141 | sector | 部门 |
-| 53 | destruction | 破坏 | 142 | shipwrecked | 沉船 |
-| 54 | deterioration | 恶化 | 143 | shoulder | 肩膀 |
-| 55 | diary | 日记 | 144 | solitary | 孤 |
-| 56 | diminishing | 减少 | 145 | souvenirs | 纪念品 |
-| 57 | distinct | 清楚的 | 146 | sphere | 领域 |
-| 58 | distinction | 区别 | 147 | stamp | 邮票 |
-| 59 | diversify | 多样化 | 148 | striking | 引人注目 |
-| 60 | drawing | 绘画 | 149 | submission | 提交 |
-| 61 | drummer | 鼓手 | 150 | summit | 首脑 |
-| 62 | eerie | 怪异 | 151 | superior | 优越的 |
-| 63 | ethical | 道德 | 152 | swiss | 瑞士 |
-| 64 | exacerbated | 恶化 | 153 | synthetic | 合成的 |
-| 65 | expertise | 专业知识 | 154 | taxation | 税收 |
-| 66 | explicit | 显式 | 155 | tedious | 乏味 |
-| 67 | exploitation | 开发 | 156 | terrace | 阳台 |
-| 68 | exponentially | 指数 | 157 | textiles | 纺织品 |
-| 69 | feminine | 女性 | 158 | thermometer | 温度计 |
-| 70 | figures | 数字 | 159 | thorough | 彻底 |
-| 71 | filth | 污物 | 160 | thrive | 蓬勃发展 |
-| 72 | flirtation | 调情 | 161 | thrived | 蓬勃发展 |
-| 73 | flute | 长笛 | 162 | tidy | 整齐的 |
-| 74 | fraud | 欺诈罪 | 163 | traits | 特质 |
-| 75 | genuine | 真的 | 164 | transcend | 超越 |
-| 76 | glazes | 釉 | 165 | transparency | 透明度 |
-| 77 | glitch | 毛刺 | 166 | trivial | 琐碎的 |
-| 78 | hierarchies | 层次结构 | 167 | undermines | 破坏 |
-| 79 | hills | 丘陵 | 168 | underpinnings | 基础 |
-| 80 | hut | 小屋 | 169 | vaccinations | 疫苗接种 |
-| 81 | illustrator | 插画家 | 170 | vibrant | 充满活力 |
-| 82 | implicit | 隐式 | 171 | vitamins | 维生素 |
-| 83 | inferior | 下 | 172 | wardens | 看守 |
-| 84 | infuse | 注入 | 173 | warehouse | 仓库 |
-| 85 | ingredient | 成分 | 174 | weight | 重量 |
-| 86 | initiative | 倡议 | 175 | whereas | 然而 |
-| 87 | insulating | 绝缘 | 176 | yacht | 游艇 |
-| 88 | intimate | 亲密的 | | | |
-| 89 | lace | 蕾丝 | | | |
+| No. | Word | Chinese | No. | Word | Chinese | No. | Word | Chinese |
+|-----|------|---------|-----|------|---------|-----|------|---------|
+| 1 | abruptly | 突然 | 60 | drawing | 绘画 | 119 | predators | 掠食者 |
+| 2 | absorbed | 吸收 | 61 | drummer | 鼓手 | 120 | preserve | 保存 |
+| 3 | abusively | 虐待性 | 62 | eerie | 怪异 | 121 | priority | 优先事项 |
+| 4 | accordance | 符合 | 63 | ethical | 道德 | 122 | prominent | 著名的 |
+| 5 | adequate | 足够的 | 64 | exacerbated | 恶化 | 123 | prone | 易于 |
+| 6 | advocates | 拥护者 | 65 | expertise | 专业知识 | 124 | proportion | 部分 |
+| 7 | agendas | 议程 | 66 | explicit | 显式 | 125 | publicised | 公开 |
+| 8 | altitude | 高度 | 67 | exploitation | 开发 | 126 | radical | 激进的 |
+| 9 | anticipate | 预料 | 68 | exponentially | 指数 | 127 | ramp | 坡道 |
+| 10 | anticipating | 期待 | 69 | feminine | 女性 | 128 | rather | 相当 |
+| 11 | aqueducts | 渡槽 | 70 | figures | 数字 | 129 | reaffirm | 重申 |
+| 12 | archipelago | 群岛 | 71 | filth | 污物 | 130 | reduction | 减少 |
+| 13 | arson | 纵火 | 72 | flirtation | 调情 | 131 | rehearse | 排练 |
+| 14 | artistic | 艺术 | 73 | flute | 长笛 | 132 | remuneration | 报酬 |
+| 15 | ascent | 上升 | 74 | fraud | 欺诈罪 | 133 | renowned | 著名 |
+| 16 | augmented | 增强 | 75 | genuine | 真的 | 134 | repatriation | 遣返 |
+| 17 | avail | 可用 | 76 | glazes | 釉 | 135 | resemble | 类似 |
+| 18 | ballet | 芭蕾舞 | 77 | glitch | 毛刺 | 136 | reservations | 预订 |
+| 19 | bank | 银行 | 78 | hierarchies | 层次结构 | 137 | respiratory | 呼吸道 |
+| 20 | banquet | 宴会 | 79 | hills | 丘陵 | 138 | ribbons | 丝带 |
+| 21 | beads | 珠子 | 80 | hut | 小屋 | 139 | scraper | 刮刀 |
+| 22 | bedsit | 床位 | 81 | illustrator | 插画家 | 140 | second | 第二 |
+| 23 | begs | 乞求 | 82 | implicit | 隐式 | 141 | sector | 部门 |
+| 24 | bizarre | 奇怪 | 83 | inferior | 下 | 142 | shipwrecked | 沉船 |
+| 25 | blend | 混合 | 84 | infuse | 注入 | 143 | shoulder | 肩膀 |
+| 26 | bolstered | 加固 | 85 | ingredient | 成分 | 144 | solitary | 孤 |
+| 27 | canoe | 独木舟 | 86 | initiative | 倡议 | 145 | souvenirs | 纪念品 |
+| 28 | carnival | 狂欢 | 87 | insulating | 绝缘 | 146 | sphere | 领域 |
+| 29 | catered | 餐饮 | 88 | intimate | 亲密的 | 147 | stamp | 邮票 |
+| 30 | ceramics | 陶瓷 | 89 | lace | 蕾丝 | 148 | striking | 引人注目 |
+| 31 | charcoal | 木炭 | 90 | lap | 圈 | 149 | submission | 提交 |
+| 32 | chronological | 时间顺序 | 91 | latter | 后者 | 150 | summit | 首脑 |
+| 33 | clarinet | 单簧管 | 92 | lauded | 称赞 | 151 | superior | 优越的 |
+| 34 | clay | 黏土 | 93 | lime | 酸橙 | 152 | swiss | 瑞士 |
+| 35 | coating | 涂层 | 94 | literacy | 扫盲 | 153 | synthetic | 合成的 |
+| 36 | comets | 彗星 | 95 | lucrative | 有利可图 | 154 | taxation | 税收 |
+| 37 | commissioned | 委托 | 96 | maladies | 疾病 | 155 | tedious | 乏味 |
+| 38 | complicated | 复杂的 | 97 | marble | 大理石 | 156 | terrace | 阳台 |
+| 39 | composition | 作品 | 98 | masculine | 男性 | 157 | textiles | 纺织品 |
+| 40 | comprehend | 理解 | 99 | medicals | 医疗 | 158 | thermometer | 温度计 |
+| 41 | compromised | 妥协 | 100 | minded | 有智力 | 159 | thorough | 彻底 |
+| 42 | compulsory | 强制性的 | 101 | morale | 士气 | 160 | thrive | 蓬勃发展 |
+| 43 | concentrate | 集中 | 102 | necessarily | 一定 | 161 | thrived | 蓬勃发展 |
+| 44 | connotative | 含义 | 103 | niece | 侄女 | 162 | tidy | 整齐的 |
+| 45 | consultation | 咨询 | 104 | nutrients | 营养 | 163 | traits | 特质 |
+| 46 | consumption | 消耗 | 105 | obscure | 朦胧 | 164 | transcend | 超越 |
+| 47 | contagious | 传染性 | 106 | october | 十月 | 165 | transparency | 透明度 |
+| 48 | contradictory | 矛盾 | 107 | odd | 奇怪的 | 166 | trivial | 琐碎的 |
+| 49 | coordination | 协调 | 108 | omit | 忽略 | 167 | undermines | 破坏 |
+| 50 | cope | 应付 | 109 | opposite | 对面的 | 168 | underpinnings | 基础 |
+| 51 | counteract | 抵消 | 110 | outmoded | 陈旧 | 169 | vaccinations | 疫苗接种 |
+| 52 | dementia | 失智 | 111 | overrun | 超支 | 170 | vibrant | 充满活力 |
+| 53 | destruction | 破坏 | 112 | past | 过去的 | 171 | vitamins | 维生素 |
+| 54 | deterioration | 恶化 | 113 | pattern | 图案 | 172 | wardens | 看守 |
+| 55 | diary | 日记 | 114 | peasants | 农民 | 173 | warehouse | 仓库 |
+| 56 | diminishing | 减少 | 115 | percussion | 打击乐器 | 174 | weight | 重量 |
+| 57 | distinct | 清楚的 | 116 | persuasive | 有说服力 | 175 | whereas | 然而 |
+| 58 | distinction | 区别 | 117 | pharmacy | 药店 | 176 | yacht | 游艇 |
+| 59 | diversify | 多样化 | 118 | playwrights | 剧作家 | | | |

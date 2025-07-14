@@ -48,7 +48,7 @@ vocabulary_name = "ielts-bro-1-176"
 md_name = vocabulary_name + ".md"
 tts_name = vocabulary_name + ".txt"
 
-cols = 2  # Number of columns in the markdown table
+cols = 3  # Number of columns in the markdown table
 
 words = list(dict.fromkeys(words))
 
