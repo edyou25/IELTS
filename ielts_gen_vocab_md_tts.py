@@ -10,29 +10,40 @@ current_dir = os.path.dirname(current_path)
 
 # Load word list from user-provided data
 words = [
-    "expressway/freeway", "study lounge", "housemaid", "workaholic", "tenant", "collapse",
-    "recession", "residence", "staple", "hospitable", "skiing", "pork", 
-    "blaze a trail", "do odd jobs", "convenience store", "compromise", "editorial", "telephone booth",      
-    "catalogue", "periodical room", "anesthetist", "overdue", "outlet", "department store",
-    "symptom", "job-hopping", "put on reserve", "out of stock", "fit as a fiddle", "syllabus",
-    "wage", "furnace", "spare room", "perseverance", "prosperous", "run for",
-    "on business", "wear out", "infectious illness", "sophomore", "roundtrip", 
-    "inflation",    "call on",    "hitch-hike",
-    "baby crib",    "breeze",    "drop-out",    "mutton",    "stationery",    "sewage treatment",
-    "infirmary",    "monetary",    "conductor",    "cutlery",    "deforestation rate",    "paperback edition",
-    "in poor shape",    "sneeze",    "downpour",    "buffet",    "surplus",    "sideboard",
-    "recruit",    "muggy",    "plough through",    "diabetes",    "have a temperature",    "fracture",
-    "dwell",    "depression",    "check out", "hung up", 
-    "call on", "hitch-hike", "baby crib",  "accommodate", "turn down", "epidemic",
-    "resume", "crack", "in stock", "attending/chief doctor", "loaf", "bankrupt",
-    "shelf", "appetizer", "fix the dinner", "ventilation", "speech contest", "dental decay",
-    "shuttle", "past the prime", "diligent", "napkin", "multiple glazing", "gust",
-    "hang up", "latest number", "periodical", "household expenses", "reference room", "bid",
-    "tribute", "hacker", "inexperienced", "circulation", "forecast", "out of print"
+    "abruptly",    "absorbed",    "abusively",    "accordance",    "adequate",    "advocates",
+    "agendas",    "altitude",    "anticipate",    "anticipating",    "aqueducts",    "archipelago",
+    "arson",    "artistic",    "ascent",    "augmented",    "avail",    "ballet",
+    "bank",    "banquet",    "beads",    "bedsit",    "begs",    "bizarre",
+    "blend",    "bolstered",    "canoe",    "carnival",    "catered",    "ceramics",
+    "charcoal",    "chronological",    "clarinet",    "clay",    "coating",    "comets",
+    "commissioned",    "complicated",    "composition",    "comprehend",    "compromised",    "compulsory",
+    "concentrate",    "connotative",    "consultation",    "consumption",    "contagious",    "contradictory",
+    "coordination",    "cope",    "counteract",    "dementia",    "destruction",    "deterioration",
+    "diary",    "diminishing",    "distinct",    "distinction",    "diversify",    "drawing",
+    "drummer",    "eerie",    "ethical",    "exacerbated",    "expertise",    "explicit",
+    "exploitation",    "exponentially",    "feminine",    "figures",    "filth",    "flirtation",
+    "flute",    "fraud",    "genuine",    "glazes",    "glitch",    "hierarchies",
+    "hills",    "hut",    "illustrator",    "implicit",    "inferior",    "infuse",
+    "ingredient",    "initiative",    "insulating",    "intimate",    "lace",    "lap",
+    "latter",    "lauded",    "lime",    "literacy",    "lucrative",    "maladies",
+    "marble",    "masculine",    "medicals",    "minded",    "morale",    "necessarily",
+    "niece",    "nutrients",    "obscure",    "october",    "odd",    "omit",
+    "opposite",    "outmoded",    "overrun",    "past",    "pattern",    "peasants",
+    "percussion",    "persuasive",    "pharmacy",    "playwrights",    "predators",    "preserve",
+    "priority",    "prominent",    "prone",    "proportion",    "publicised",    "radical",
+    "ramp",    "rather",    "reaffirm",    "reduction",    "rehearse",    "remuneration",
+    "renowned",    "repatriation",    "resemble",    "reservations",    "respiratory",    "ribbons",
+    "scraper",    "second",    "sector",    "shipwrecked",    "shoulder",    "solitary",
+    "souvenirs",    "sphere",    "stamp",    "striking",    "submission",    "summit",
+    "superior",    "swiss",    "synthetic",    "taxation",    "tedious",    "terrace",
+    "textiles",    "thermometer",    "thorough",    "thrive",    "thrived",    "tidy",
+    "traits",    "transcend",    "transparency",    "trivial",    "undermines",    "underpinnings",
+    "vaccinations",    "vibrant",    "vitamins",    "wardens",    "warehouse",    "weight",
+    "whereas",    "yacht"
 ]
 
 
-vocabulary_name = "oit-1-363-1st108err"
+vocabulary_name = "ielts-bro-1-176"
 
 md_name = vocabulary_name + ".md"
 tts_name = vocabulary_name + ".txt"

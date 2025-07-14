@@ -6,7 +6,12 @@ with open(os.path.join(current_dir, "temp.txt"), "r", encoding="utf-8") as f:
     lines = f.readlines()
 
 results = []
-for line in lines:
+# 只保留0 ，6， 12， 18
+# for line in lines:
+for i in range(0, len(lines), 6):
+    line = lines[i].strip()
+    if not line:
+        continue
     match = re.search(r"([A-Za-z][A-Za-z\s/\-'.]*[A-Za-z])", line)
     if match:
         phrase = match.group(1).strip()
