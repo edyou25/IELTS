@@ -1,1055 +1,149 @@
-distinct
-英 [dɪ'stɪŋ(k)t]
-美 [dɪ'stɪŋkt]
-adj. 明显的；独特的；清楚的；有区别的
-标记为已掌握
-
 souvenirs
 英 [,suːvə'nɪəz]
 美 ['sʊvə,nɪrz]
 n. 纪念品；旅游纪念品；回忆
-标记为已掌握
+标记为生词
 
 canoe
 英 [kəˈnuː]
 美 [kəˈnuː]
 n. 独木舟；轻舟,vi. 乘独木舟,vt. 用独木舟运
-标记为已掌握
+标记为生词
 
 altitude
 英 ['æltɪtjuːd]
 美 ['æltɪtud]
 n. 高地；高度；[数] 顶垂线；（等级和地位等的）高级；海拔
-标记为已掌握
+标记为生词
 
 thermometer
 英 [θəˈmɒmɪtə(r)]
 美 [θərˈmɑːmɪtər]
 n. 温度计；体温计
-标记为已掌握
+标记为生词
 
 comets
 英 []
 美 []
 n. [天] 彗星（comet的复数）,n. (Comets)人名；(法)科梅
-标记为已掌握
-
-past
-英 [pɑːst]
-美 [pæst]
-n. 过去；往事,prep. 越过；晚于,adj. 过去的；结束的,adv. 过；经过
-标记为已掌握
+标记为生词
 
 october
 英 [ɒk'təʊbə]
 美 [ɑk'tobɚ]
 n. [天] 十月
-标记为已掌握
-
-tedious
-英 ['tiːdɪəs]
-美 ['tidɪəs]
-adj. 沉闷的；冗长乏味的
-标记为已掌握
-
-hierarchies
-英 ['haɪərɑːkɪz]
-美 ['haɪərɑrkɪz]
-n. 阶层，层级；[数] 分层，分类
-标记为已掌握
-
-insulating
-英 [ˈɪnsjuleɪtɪŋ]
-美 [ˈɪnsəleɪtɪŋ]
-adj. 绝缘的；隔热的,v. 使绝缘（insulate的ing形式）；隔离
-标记为已掌握
-
-concentrate
-英 ['kɒns(ə)ntreɪt]
-美 ['kɑnsn'tret]
-n. 浓缩，精选；浓缩液,vi. 集中；浓缩；全神贯注；聚集,vt. 集中；浓缩
-标记为已掌握
-
-complicated
-英 ['kɒmplɪkeɪtɪd]
-美 ['kɑmplɪketɪd]
-adj. 难懂的，复杂的
-标记为已掌握
-
-prominent
-英 ['prɒmɪnənt]
-美 ['prɑmɪnənt]
-adj. 突出的，显著的；杰出的；卓越的
-标记为已掌握
-
-wardens
-英 ['wɔːd(ə)n]
-美 ['wɔrdn]
-n. 区长；看守人；典狱官；学监,n. (Warden)人名；(德、瑞典)瓦尔登；(英)沃登
-标记为已掌握
-
-warehouse
-英 ['weəhaʊs]
-美 ['wɛrhaʊs]
-n. 仓库；货栈；大商店,vt. 储入仓库；以他人名义购进（股票）
-标记为已掌握
+标记为生词
 
 tidy
 英 ['taɪdɪ]
 美 ['taɪdi]
 n. 椅子的背罩,adj. 整齐的；相当大的,vi. 整理；收拾,vt. 整理；收拾；弄整齐,n. (Tidy)人名；(英)泰迪
-标记为已掌握
+标记为生词
 
 diary
 英 ['daɪərɪ]
 美 ['daɪəri]
 n. 日志，日记；日记簿
-标记为已掌握
-
-accordance
-英 [ə'kɔːd(ə)ns]
-美 [ə'kɔrdns]
-n. 一致；和谐
-标记为已掌握
-
-obscure
-英 [əb'skjʊə]
-美 [əb'skjʊr]
-adj. 昏暗的，朦胧的；晦涩的，不清楚的；隐蔽的；不著名的，无名的,vt. 使…模糊不清，掩盖；隐藏；使难理解,n. 某种模糊的或不清楚的东西
-标记为已掌握
-
-preserve
-英 [prɪˈzɜːv]
-美 [prɪˈzɜːrv]
-vt. 保存；保护；维持；腌；禁猎,n. 保护区；禁猎地；加工成的食品；（某人或群体的）专门活动
-标记为已掌握
-
-ramp
-英 [ræmp]
-美 [ræmp]
-n. 斜坡，坡道；敲诈,vt. 敲诈；使有斜面,vi. 蔓延；狂跳乱撞；敲诈
-标记为已掌握
-
-persuasive
-英 [pə'sweɪsɪv]
-美 [pɚ'swesɪv]
-adj. 有说服力的；劝诱的，劝说的
-标记为已掌握
-
-ribbons
-英 []
-美 ['rɪbən]
-n. 绶带，丝带；带状物（ribbon的复数）,v. 用缎带装饰；把…撕成碎条（ribbon的第三人称单数）
-标记为已掌握
-
-lace
-英 [leɪs]
-美 [les]
-n. 花边；鞋带；饰带；少量烈酒,vt. 饰以花边；结带子,vi. 系带子,n. (Lace)人名；(意)拉切
-标记为已掌握
+标记为生词
 
 textiles
 英 []
 美 []
 n. 纺织品；[纺] 纺织业；纺织面料；纺织品类（textile的复数）
-标记为已掌握
-
-aqueducts
-英 ['ækwɪdʌkt]
-美 ['ækwɪ'dʌkt]
-n. [水利] 渡槽；导水管；沟渠
-标记为已掌握
-
-filth
-英 [fɪlθ]
-美 [fɪlθ]
-n. 污秽；肮脏；猥亵；不洁
-标记为已掌握
-
-scraper
-英 ['skreɪpə]
-美 ['skrepɚ]
-n. 刮刀；铲土机；守财奴
-标记为已掌握
+标记为生词
 
 clay
 英 [kleɪ]
 美 [kle]
 n. [土壤] 粘土；泥土；肉体；似黏土的东西,vt. 用黏土处理,n. (Clay)人名；(英、法、西、意、葡)克莱
-标记为已掌握
-
-thrive
-英 [θraɪv]
-美 [θraɪv]
-vi. 繁荣，兴旺；茁壮成长
-标记为已掌握
-
-contagious
-英 [kən'teɪdʒəs]
-美 [kən'tedʒəs]
-adj. 感染性的；会蔓延的
-标记为已掌握
-
-begs
-英 [beg]
-美 [bɛɡ]
-vt. 乞讨；恳求；回避正题,vi. 乞讨；请求,n. (Beg)人名；(德、塞、巴基)贝格
-标记为已掌握
-
-intimate
-英 [ˈɪntɪmət]
-美 [ˈɪntɪmət]
-n. 知己；至交,adj. 亲密的；私人的；精通的；有性关系的,vt. 暗示；通知；宣布
-标记为已掌握
+标记为生词
 
 whereas
 英 [weər'æz]
 美 ['wɛr'æz]
 conj. 然而；鉴于；反之
-标记为已掌握
+标记为生词
 
 priority
 英 [praɪˈɒrəti]
 美 [praɪˈɔːrəti]
 n. 优先；优先权；数 优先次序；优先考虑的事
-标记为已掌握
-
-composition
-英 [ˌkɒmpəˈzɪʃn]
-美 [ˌkɑːmpəˈzɪʃn]
-n. 作文，作曲，作品；材 构成；合成物；成分
-标记为已掌握
-
-nutrients
-英 []
-美 []
-营养盐,[食品] 营养素
-标记为已掌握
-
-absorbed
-英 [əb'sɔːbd]
-美 [əbˈsɔbd]
-v. 吸收；使全神贯注（absorb的过去分词形式）,adj. 被吸收的；一心一意的
-标记为已掌握
-
-lime
-英 [laɪm]
-美 [laɪm]
-n. 石灰；酸橙；绿黄色,adj. 绿黄色的,vt. 撒石灰于；涂粘鸟胶于,n. (Lime)人名；(法)利姆
-标记为已掌握
-
-bolstered
-英 []
-美 []
-adj. 支撑着的；加固的（bolster的过去分词）
-标记为已掌握
-
-thrived
-英 []
-美 []
-v. 兴盛，繁荣（thrive的过去式和过去分词形式）
-标记为已掌握
-
-bizarre
-英 [bɪˈzɑː(r)]
-美 [bɪˈzɑːr]
-adj. 奇异的（指态度，容貌，款式等）
-标记为已掌握
+标记为生词
 
 ballet
 英 [ˈbæleɪ]
 美 [bæˈleɪ]
 n. 芭蕾舞，芭蕾舞曲，芭蕾舞剧；芭蕾舞团；芭蕾式交流,n. (Ballet) （法、美）巴莱（人名）
-标记为已掌握
-
-shipwrecked
-英 ['ʃiprekt]
-美 ['ʃiprekt]
-adj. 遭遇海难的,v. 遭遇海难，船只失事（shipwreck 的过去式和过去分词）
-标记为已掌握
-
-swiss
-英 [swɪs]
-美 [swɪs]
-n. 瑞士人；瑞士腔调,adj. 瑞士的；瑞士人的；瑞士风格的
-标记为已掌握
-
-niece
-英 [niːs]
-美 [nis]
-n. 外甥女，侄女,n. (Niece)人名；(英)尼斯
-标记为已掌握
-
-distinction
-英 [dɪ'stɪŋ(k)ʃ(ə)n]
-美 [dɪ'stɪŋkʃən]
-n. 区别；差别；特性；荣誉、勋章
-标记为已掌握
-
-drawing
-英 ['drɔː(r)ɪŋ]
-美 ['drɔɪŋ]
-n. 图画；牵引；素描术,v. 绘画；吸引（draw的ing形式）；拖曳
-标记为已掌握
-
-illustrator
-英 ['ɪləstreɪtə]
-美 ['ɪləstretɚ]
-n. 插图画家；说明者；图解者
-标记为已掌握
+标记为生词
 
 inferior
 英 [ɪnˈfɪəriə(r)]
 美 [ɪnˈfɪriər]
 n. 下级；次品,adj. 差的；自卑的；下级的，下等的
-标记为已掌握
-
-terrace
-英 [ˈterəs]
-美 [ˈterəs]
-n. 平台；梯田；阳台,adj. （女服）叠层式的,vt. 使成梯田，使成阶地；使有平台屋顶,vi. 成阶地；成梯田；筑成坛,n. (Terrace)人名；(英)特勒斯
-标记为已掌握
+标记为生词
 
 superior
 英 [suːˈpɪəriə(r); sjuːˈpɪəriə(r)]
 美 [suːˈpɪriər]
 n. 上级，长官；优胜者，高手；长者,adj. 上级的；优秀的，出众的；高傲的
-标记为已掌握
+标记为生词
 
 marble
 英 ['mɑːb(ə)l]
 美 ['mɑrbl]
 n. 大理石；大理石制品；弹珠,adj. 大理石的；冷酷无情的,n. (Marble)人名；(英)马布尔
-标记为已掌握
-
-rehearse
-英 [rɪ'hɜːs]
-美 [rɪ'hɝs]
-vt. 排练；预演,vi. 排练；演习
-标记为已掌握
-
-explicit
-英 [ɪkˈsplɪsɪt]
-美 [ɪkˈsplɪsɪt]
-adj. 明确的；清楚的；直率的；详述的
-标记为已掌握
-
-implicit
-英 [ɪm'plɪsɪt]
-美 [ɪm'plɪsɪt]
-adj. 含蓄的；暗示的；盲从的
-标记为已掌握
-
-avail
-英 [əˈveɪl]
-美 [əˈveɪl]
-v. 有助于；（使）对某人有利,n. 效用，利益
-标记为已掌握
-
-clarinet
-英 [ˌklærəˈnet]
-美 [ˌklærəˈnet]
-n. 单簧管；竖笛，黑管
-标记为已掌握
-
-percussion
-英 [pə'kʌʃ(ə)n]
-美 [pɚ'kʌʃən]
-n. [临床] 叩诊；振动；碰撞；敲打乐器；打击乐器组
-标记为已掌握
-
-drummer
-英 ['drʌmə]
-美 ['drʌmɚ]
-n. 鼓手；旅行推销员；跑街,n. (Drummer)人名；(德)德鲁默尔；(法)德吕梅；(英)德鲁默
-标记为已掌握
+标记为生词
 
 carnival
 英 ['kɑːnɪv(ə)l]
 美 ['kɑrnɪvl]
 n. 狂欢节，嘉年华会；饮宴狂欢
-标记为已掌握
-
-dementia
-英 [dɪˈmenʃə]
-美 [dɪˈmenʃə]
-n. 内科 痴呆
-标记为已掌握
-
-reduction
-英 [rɪ'dʌkʃ(ə)n]
-美 [rɪ'dʌkʃən]
-n. 减少；下降；缩小；还原反应
-标记为已掌握
-
-yacht
-英 [jɒt]
-美 [jɑːt]
-v. 乘游艇，驾游艇；驾帆船比赛,n. 游艇，快艇；轻舟,n. (Yacht) （美、加、土、法、荷、俄）约特（人名）
-标记为已掌握
-
-overrun
-英 [əʊvə'rʌn]
-美 ['ovərʌn]
-n. 泛滥成灾；超出限度,vt. 泛滥；超过；蹂躏,vi. 泛滥；蔓延
-标记为已掌握
-
-pattern
-英 ['pæt(ə)n]
-美 [ˈpætərn]
-n. 模式；图案；样品,vt. 模仿；以图案装饰,vi. 形成图案
-标记为已掌握
-
-chronological
-英 [krɒnə'lɒdʒɪk(ə)l]
-美 [,krɑnə'lɑdʒɪkl]
-adj. 按年代顺序排列的；依时间前后排列而记载的
-标记为已掌握
+标记为生词
 
 vitamins
 英 ['vaɪtəmɪnz]
 美 ['vaɪtəmɪnz]
 n. [生化] 维生素；[生化] 维他命
-标记为已掌握
+标记为生词
 
 shoulder
 英 ['ʃəʊldə]
 美 ['ʃoldɚ]
 n. 肩，肩膀；肩部,vi. 用肩推挤，用肩顶,vt. 肩负，承担
-标记为已掌握
-
-adequate
-英 ['ædɪkwət]
-美 [ˈædɪkwət]
-adj. 充足的；适当的；胜任的
-标记为已掌握
-
-compromised
-英 []
-美 []
-vt. 妥协；连累（compromise的过去分词）,adj. 妥协的；妥协让步的，缺乏抵抗力的
-标记为已掌握
-
-morale
-英 [mə'rɑːl]
-美 [mə'ræl]
-n. 士气，斗志,n. (Morale)人名；(意、西)莫拉莱
-标记为已掌握
-
-coordination
-英 [kəʊˌɔː.dɪˈneɪ.ʃən]
-美 [ko,ɔrdɪ'neʃən]
-n. 协调，调和；对等，同等
-标记为已掌握
-
-advocates
-英 ['ædvəkeɪt]
-美 ['ædvəkɪt]
-n. 拥护者；提倡者（advocate的复数）；代讼人,vt. 主张（advocate的第三人称单数）；提倡
-标记为已掌握
-
-outmoded
-英 [aʊt'məʊdɪd]
-美 [,aʊt'modɪd]
-adj. 过时的，不流行的,v. 使不流行（outmode的过去分词）
-标记为已掌握
-
-sector
-英 [ˈsektə(r)]
-美 [ˈsektər]
-n. 部门；扇形，扇区；象限仪；函数尺,vt. 把…分成扇形
-标记为已掌握
-
-solitary
-英 ['sɒlɪt(ə)rɪ]
-美 ['sɑlətɛri]
-n. 独居者；隐士,adj. 孤独的；独居的
-标记为已掌握
-
-maladies
-英 ['mælədɪ]
-美 ['mælədi]
-n. 弊病；疾病；腐败,n. (Malady)人名；(英)马拉迪
-标记为已掌握
-
-synthetic
-英 [sɪn'θetɪk]
-美 [sɪn'θɛtɪk]
-n. 合成物,adj. 综合的；合成的，人造的
-标记为已掌握
-
-taxation
-英 [tæk'seɪʃ(ə)n]
-美 [tæk'seʃən]
-n. 课税，征税；税款
-标记为已掌握
-
-destruction
-英 [dɪ'strʌkʃ(ə)n]
-美 [dɪ'strʌkʃən]
-n. 破坏，毁灭；摧毁
-标记为已掌握
-
-consumption
-英 [kən'sʌm(p)ʃ(ə)n]
-美 [kən'sʌmpʃən]
-n. 消费；消耗；肺痨
-标记为已掌握
-
-literacy
-英 ['lɪt(ə)rəsɪ]
-美 ['lɪtərəsi]
-n. 读写能力；精通文学
-标记为已掌握
-
-compulsory
-英 [kəmˈpʌlsəri]
-美 [kəmˈpʌlsəri]
-n. （花样滑冰、竞技体操等的）规定动作,adj. 义务的；必修的；被强制的
-标记为已掌握
-
-consultation
-英 [ˌkɒnslˈteɪʃn]
-美 [ˌkɑːnslˈteɪʃn]
-n. 咨询；磋商；临床 会诊；讨论会
-标记为已掌握
-
-reservations
-英 [rezə'veɪʃ(ə)nz]
-美 [,rɛzɚ'veʃənz]
-n. 保留；预定（reservation的复数形式）
-标记为已掌握
-
-hills
-英 [hɪlz]
-美 [hɪlz]
-n. [地理] 丘陵（hill的复数形式）
-标记为已掌握
-
-summit
-英 ['sʌmɪt]
-美 ['sʌmɪt]
-n. 顶点；最高级会议；最高阶层,adj. 最高级的；政府首脑的
-标记为已掌握
-
-ascent
-英 [əˈsent]
-美 [əˈsent]
-n. 上升；上坡路；登高
-标记为已掌握
-
-hut
-英 [hʌt]
-美 [hʌt]
-n. 小屋；临时营房,vt. 使住在小屋中；驻扎,vi. 住在小屋中；驻扎,n. (Hut)人名；(阿拉伯、罗、塞)胡特
-标记为已掌握
-
-lap
-英 [læp]
-美 [læp]
-n. 一圈；膝盖；下摆；山坳,vt. 使重叠；拍打；包围,vi. 重叠；轻拍；围住,n. (Lap)人名；(越)立
-标记为已掌握
-
-sphere
-英 [sfɪə(r)]
-美 [sfɪr]
-n. 范围；球体,adj. 球体的,vt. 包围；放入球内；使…成球形
-标记为已掌握
-
-ingredient
-英 [ɪn'griːdɪənt]
-美 [ɪn'ɡridɪənt]
-n. 原料；要素；组成部分,adj. 构成组成部分的
-标记为已掌握
-
-charcoal
-英 ['tʃɑːkəʊl]
-美 ['tʃɑrkol]
-n. 木炭；炭笔,vt. 用木炭画（过去式charcoaled，过去分词charcoaled，现在分词charcoaling，第三人称单数charcoals）
-标记为已掌握
-
-radical
-英 [ˈrædɪkl]
-美 [ˈrædɪkl]
-n. 基础；激进分子；物化 原子团；数 根数,adj. 激进的；根本的；彻底的
-标记为已掌握
-
-vibrant
-英 ['vaɪbrənt]
-美 ['vaɪbrənt]
-adj. 振动的；充满生气的；响亮的；战栗的,n. (Vibrant)人名；(德)维布兰特
-标记为已掌握
-
-diminishing
-英 [di'miniʃiŋ]
-美 [di'miniʃiŋ]
-v. 减少；递减；衰减；削弱…的权势（diminish的现在分词）,adj. 逐渐缩小的；衰减的
-标记为已掌握
-
-banquet
-英 ['bæŋkwɪt]
-美 ['bæŋkwɪt]
-n. 宴会，盛宴；宴请，款待,vt. 宴请，设宴款待,vi. 参加宴会,n. (Banquet)人名；(法)邦凯；(西)班克特
-标记为已掌握
-
-infuse
-英 [ɪn'fjuːz]
-美 [ɪn'fjuz]
-vt. 灌输；使充满；浸渍,vi. （茶叶、草药等）被泡
-标记为已掌握
-
-catered
-英 ['keɪtə]
-美 ['ketɚ]
-vt. 投合，迎合；满足需要；提供饮食及服务,n. (Cater)人名；(英)凯特
-标记为已掌握
-
-reaffirm
-英 [riːə'fɜːm]
-美 ['riə'fɝm]
-vt. 再肯定，重申；再断言
-标记为已掌握
-
-counteract
-英 [ˌkaʊntərˈækt]
-美 [ˌkaʊntərˈækt]
-vt. 抵消；中和；阻碍
-标记为已掌握
-
-transcend
-英 [træn'send; trɑːn-]
-美 [træn'sɛnd]
-vt. 胜过，超越
-标记为已掌握
-
-augmented
-英 [ɔːɡ'mentɪd]
-美 [ɔg'mɛntɪd]
-adj. 增广的；增音的；扩张的
-标记为已掌握
-
-odd
-英 [ɒd]
-美 [ɑːd]
-n. 奇数；怪人；奇特的事物,adj. 奇数的；古怪的；剩余的；临时的；零散的,n. (Odd)人名；(英、西、挪、瑞典)奥德
-标记为已掌握
-
-abruptly
-英 [ə'brʌptli]
-美 [ə'brʌptli]
-adv. 突然地；唐突地
-标记为已掌握
-
-omit
-英 [əˈmɪt]
-美 [əˈmɪt]
-vt. 省略；遗漏；删除；疏忽
-标记为已掌握
-
-undermines
-英 []
-美 []
-vt. 逐渐损毁；暗中破坏；在…下挖掘
-标记为已掌握
-
-deterioration
-英 [dɪˌtɪəriəˈreɪʃn]
-美 [dɪˌtɪriəˈreɪʃn]
-n. 恶化；退化；堕落
-标记为已掌握
-
-lauded
-英 [lɔːd]
-美 [lɔd]
-vt. 赞美；称赞,n. 赞美；称赞；颂歌,n. (Laud)人名；(英、瑞典)劳德
-标记为已掌握
-
-renowned
-英 [rɪˈnaʊnd]
-美 [rɪˈnaʊnd]
-v. 使有声誉（renown的过去分词）,adj. 著名的；有声望的
-标记为已掌握
-
-eerie
-英 ['ɪərɪ]
-美 ['iəri]
-adj. 可怕的；怪异的
-标记为已掌握
-
-glitch
-英 [glɪtʃ]
-美 [ɡlɪtʃ]
-n. 小故障；失灵；[电子] 短时脉冲波干扰,n. (Glitch)人名；(英)格利奇
-标记为已掌握
-
-artistic
-英 [ɑː'tɪstɪk]
-美 [ɑr'tɪstɪk]
-adj. 艺术的；风雅的；有美感的
-标记为已掌握
-
-resemble
-英 [rɪˈzembl]
-美 [rɪˈzembl]
-vt. 类似，像
-标记为已掌握
-
-genuine
-英 ['dʒenjʊɪn]
-美 ['dʒɛnjʊɪn]
-adj. 真实的，真正的；诚恳的
-标记为已掌握
-
-striking
-英 ['straɪkɪŋ]
-美 ['straɪkɪŋ]
-v. 打（strike的ing形式）,adj. 显著的，突出的，惊人的；打击的；罢工的
-标记为已掌握
-
-prone
-英 [prəʊn]
-美 [proʊn]
-adj. 俯卧的；有…倾向的，易于…的,n. (Prone)人名；(意、法)普罗内
-标记为已掌握
-
-traits
-英 []
-美 [tret]
-n. 特性，特质，性格（trait的复数）
-标记为已掌握
-
-cope
-英 [kəʊp]
-美 [kop]
-n. 长袍,vi. 处理；对付；竞争,n. (Cope)人名；(英)科普；(西)科佩
-标记为已掌握
+标记为生词
 
 figures
 英 ['figəs]
 美 ['figəs]
 n. 价格，金额，[数] 数字；人物（figure的复数）；[数] 图形，图表；规定动作,n. (Figures)人名；(英)菲格斯
-标记为已掌握
-
-thorough
-英 ['θʌrə]
-美 [ˈθʌrəʊ; θʌro]
-adj. 彻底的；十分的；周密的
-标记为已掌握
-
-remuneration
-英 [rɪˌmjuːnəˈreɪʃn]
-美 [rɪˌmjuːnəˈreɪʃn]
-n. 报酬；酬劳，赔偿
-标记为已掌握
-
-transparency
-英 [trænsˈpærənsi]
-美 [trænsˈpærənsi]
-n. 透明，透明度；幻灯片；有图案的玻璃
-标记为已掌握
-
-agendas
-英 []
-美 []
-n. 会议议程（agenda的复数）
-标记为已掌握
-
-publicised
-英 ['pʌblɪsaɪz]
-美 ['pʌblisaiz]
-vt. 宣传，宣扬；公布，颂
-标记为已掌握
-
-latter
-英 ['lætə]
-美 ['lætɚ]
-adj. 后者的；近来的；后面的；较后的,n. (Latter)人名；(英、德、捷)拉特
-标记为已掌握
-
-comprehend
-英 [ˌkɒmprɪˈhend]
-美 [ˌkɑːmprɪˈhend]
-vt. 理解；包含；由…组成
-标记为已掌握
-
-anticipate
-英 [ænˈtɪsɪpeɪt]
-美 [ænˈtɪsɪpeɪt]
-v. 预料，预期；预见，预计（并做准备）； 期盼，期望； 先于……做，早于……行动；在期限内履行（义务），偿还（债务）；提前使用
-标记为已掌握
-
-lucrative
-英 [ˈluːkrətɪv]
-美 [ˈluːkrətɪv]
-adj. 获利多的
-标记为已掌握
-
-initiative
-英 [ɪ'nɪʃɪətɪv; -ʃə-]
-美 [ɪ'nɪʃətɪv]
-n. 主动权；首创精神；新方案；倡议,adj. 主动的；自发的；起始的
-标记为已掌握
-
-glazes
-英 []
-美 []
-n. [陶瓷] 釉料（glaze的复数）；釉彩,v. 给（陶器等）上釉；给…上光（动词glaze的单数）
-标记为已掌握
-
-coating
-英 ['kəʊtɪŋ]
-美 ['kotɪŋ]
-n. 涂层；包衣；衣料,v. 给…穿上外衣；盖上（coat的ing形式）
-标记为已掌握
-
-beads
-英 [bi:dz]
-美 [bi:dz]
-玻璃粉
-标记为已掌握
-
-bank
-英 [bæŋk]
-美 [bæŋk]
-n. 银行；岸；浅滩；储库,n. (Bank)人名；(英、德、俄)班克；(法、匈)邦克,vt. 将…存入银行；倾斜转弯,vi. 堆积；倾斜转弯
-标记为已掌握
-
-ceramics
-英 [sə'ræmɪks]
-美 [sə'ræmɪks]
-n. 陶瓷工艺；陶瓷制品
-标记为已掌握
-
-blend
-英 [blend]
-美 [blɛnd]
-n. 混合；掺合物,vi. 混合；协调,vt. 混合
-标记为已掌握
-
-contradictory
-英 [ˌkɒntrəˈdɪktəri]
-美 [ˌkɑːntrəˈdɪktəri]
-n. 对立物；矛盾因素,adj. 矛盾的；反对的；反驳的；抗辩的
-标记为已掌握
-
-weight
-英 [weɪt]
-美 [wet]
-n. 重量，重力；负担；砝码；重要性,vt. 加重量于，使变重,n. (Weight)人名；(英)韦特；(捷)魏格特
-标记为已掌握
-
-opposite
-英 ['ɒpəzɪt; -sɪt]
-美 [ˈɑpəzɪt; ˈɑpəsɪt]
-n. 对立面；反义词,prep. 在…的对面,adj. 相反的；对面的；对立的,adv. 在对面
-标记为已掌握
+标记为生词
 
 necessarily
 英 ['nesəs(ə)rɪlɪ; ,nesə'serɪlɪ]
 美 [,nɛsə'sɛrəli]
 adv. 必要地；必定地，必然地
-标记为已掌握
-
-minded
-英 ['maɪndɪd]
-美 ['maɪndɪd]
-adj. 有意的；有思想的；具有意志的,v. 介意；照顾（mind的过去式）
-标记为已掌握
-
-expertise
-英 [ˌekspɜːˈtiːz]
-美 [ˌekspɜːrˈtiːz]
-n. 专门知识；专门技术；专家的意见
-标记为已掌握
-
-bedsit
-英 [bed'sɪt]
-美 ['bɛdsɪt]
-n. 卧室兼起居室,vt. 租用卧室兼起居室
-标记为已掌握
-
-connotative
-英 ['kɔnəuteitiv]
-美 ['kɔnəuteitiv]
-adj. 内涵的；隐含的；含蓄的
-标记为已掌握
-
-submission
-英 [səbˈmɪʃn]
-美 [səbˈmɪʃn]
-n. 投降；提交（物）；服从；（向法官提出的）意见；谦恭
-标记为已掌握
-
-flirtation
-英 [flɜːˈteɪʃn]
-美 [flɜːrˈteɪʃn]
-n. 调情；调戏；挑逗；不认真的考虑
-标记为已掌握
-
-anticipating
-英 [æn'tɪsɪpeɪtɪŋ]
-美 [æn'tɪsəˌpetɪŋ]
-v. 期待；预期（anticipate的ing形式）；使提前发生,adj. 预期的；期望的
-标记为已掌握
-
-underpinnings
-英 []
-美 []
-n. 基础；[矿业] 支柱（underpinning的复数形式）
-标记为已掌握
-
-respiratory
-英 [rɪ'spaɪərətrɪ; 'respɪrətrɪ]
-美 [rɪ'spaɪərətɔːrɪ; rɪ'spaɪrəˌtɔrɪ]
-adj. 呼吸的
-标记为已掌握
-
-exponentially
-英 [ˌekspəˈnenʃəli]
-美 [ˌekspəˈnenʃəli]
-adv. 以指数方式
-标记为已掌握
-
-exploitation
-英 [ˌeksplɔɪˈteɪʃn]
-美 [ˌeksplɔɪˈteɪʃn]
-n. 开发，开采；利用；广告推销；剥削
-标记为已掌握
-
-exacerbated
-英 []
-美 []
-vt. 加重（病情，痛苦等）；使…恶化；激怒（exacerbate的过去式）
-标记为已掌握
-
-archipelago
-英 [ˌɑːkɪˈpeləɡəʊ]
-美 [ˌɑːrkɪˈpeləɡoʊ]
-n. 群岛，列岛；多岛的海区
-标记为已掌握
-
-repatriation
-英 [ˌriːˌpætriˈeɪʃn]
-美 [ˌriːˌpeɪtriˈeɪʃn]
-n. 遣送回国；调回本国
-标记为已掌握
-
-abusively
-英 [ə'bjusivli]
-美 [ə'bjusivli]
-adv. 滥用地；辱骂地
-标记为已掌握
-
-playwrights
-英 []
-美 []
-n. 剧作家（playwright的复数）
-标记为已掌握
-
-commissioned
-英 [kə'mɪʃənd]
-美 [kə'miʃənd]
-v. 委任（commission的过去分词）,adj. 受委任的，受任命的；服役的，现役的
-标记为已掌握
+标记为生词
 
 proportion
 英 [prəˈpɔːʃn]
 美 [prəˈpɔːrʃn]
 n. 比例，占比；部分；面积；均衡,vt. 使成比例；使均衡；分摊
-标记为已掌握
+标记为生词
 
 predators
 英 []
 美 [ˈprɛdətərz]
 [动] 捕食者,[动] 食肉动物（predator的复数）
-标记为已掌握
+标记为生词
 
 pharmacy
 英 [ˈfɑːməsi]
 美 [ˈfɑːrməsi]
 n. 药房；配药学，药剂学；制药业；一批备用药品
-标记为已掌握
-
-second
-英 ['sek(ə)nd]
-美 ['sɛkənd]
-n. 秒；第二名；瞬间；二等品,n. (Second)人名；(法)塞孔,num. 第二,adj. 第二的；次要的；附加的,vt. 支持,adv. 第二；其次；居第二位
-标记为已掌握
-
-medicals
-英 []
-美 []
-n. 医生；体格检查（medical的复数）
-标记为已掌握
-
-vaccinations
-英 [,væksɪ'neɪʃən]
-美 [,væksn'eʃən]
-n. 接种疫苗；种痘
-标记为已掌握
-
-diversify
-英 [daɪˈvɜːsɪfaɪ]
-美 [daɪˈvɜːrsɪfaɪ]
-v. 增加……的品种；扩大经营范围；从事多种经营；（使）多样化，不同；进行多种投资
-标记为已掌握
-
-peasants
-英 []
-美 []
-农民
-标记为已掌握
-
-stamp
-英 [stæmp]
-美 [stæmp]
-n. 邮票；印记；标志；跺脚,vt. 铭记；标出；盖章于…；贴邮票于…；用脚踩踏,vi. 跺脚；捣碎；毁掉,n. (Stamp)人名；(德)施坦普；(英)斯坦普
-标记为已掌握
-
-fraud
-英 [frɔːd]
-美 [frɔːd]
-n. 欺骗；骗子；诡计,n. (Fraud)人名；(法)弗罗
-标记为已掌握
-
-ethical
-英 [ˈeθɪkl]
-美 [ˈeθɪkl]
-n. 处方药,adj. 伦理的；道德的；凭处方出售的
-标记为已掌握
-
-arson
-英 ['ɑːs(ə)n]
-美 ['ɑrsn]
-n. 纵火；纵火罪,n. (Arson)人名；(法)阿尔松
-标记为已掌握
-
-masculine
-英 [ˈmæskjəlɪn]
-美 [ˈmæskjəlɪn]
-n. 男性；阳性，阳性词,adj. 男性的；阳性的；男子气概的
-标记为已掌握
-
-feminine
-英 ['femɪnɪn]
-美 ['fɛmənɪn]
-adj. 女性的；妇女（似）的；阴性的；娇柔的
-标记为已掌握
-
-trivial
-英 [ˈtrɪviəl]
-美 [ˈtrɪviəl]
-adj. 不重要的，琐碎的；琐细的
-标记为已掌握
-
-rather
-英 ['rɑːðə]
-美 ['ræðɚ]
-n. (Rather)人名；(英)拉瑟,int. 当然啦（回答问题时用）,adv. 宁可，宁愿；相当
-标记为已掌握
+标记为生词
 
 flute
 英 [fluːt]
 美 [fluːt]
 n. 长笛；【工程设计】(刀具的)出屑槽,vt. 用长笛吹奏,vi. 吹长笛
-标记为已掌握
+标记为生词

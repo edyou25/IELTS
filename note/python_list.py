@@ -191,3 +191,20 @@ words = [
     "implicit", "repatriation", "dementia", "clarinet", "archipelago", "solitary",
     "begs", "cope"
 ]
+
+## gpt给出必须掌握的300词，反复出错的词
+words = [
+    "allergy", "mattress", "secretary", "welfare", "designer", "hostel",
+    "sanitation", "transportation", "accountant", "pharmacist", "canteen", "principal",
+    "experience", "gymnasium", "extension", "reimbursement", "itinerary", "seminar",
+    "balcony"
+]
+
+# 雅思哥听写错误25
+words = [
+    "altitude",    "ballet",    "canoe",    "carnival",    "clay",    "comets",
+    "diary",    "figures",    "flute",    "inferior",    "marble",    "necessarily",
+    "october",    "pharmacy",    "predators",    "priority",    "proportion",    "shoulder",
+    "souvenirs",    "superior",    "textiles",    "thermometer",    "tidy",    "vitamins",
+    "whereas"
+]
