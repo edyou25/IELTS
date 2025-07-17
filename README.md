@@ -2,6 +2,17 @@
 
 > 一些雅思学习工具，包括单词、听力、阅读、写作、考场分析
 
+#### setup
+安装听写基本环境（听写语音包、google翻译）
+```shell
+conda env create -f env.yml
+```
+安装扩展环境（基本环境，以及音标生成、语法检查、某社交媒体app评论抓取）
+```shell
+conda env create -f env_ext.yml
+```
+
+
 ``` text
 .
 ├─ielts_gen_vocab_md_tts.py         # list转markdown
