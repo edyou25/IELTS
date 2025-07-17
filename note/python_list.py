@@ -208,3 +208,47 @@ words = [
     "souvenirs",    "superior",    "textiles",    "thermometer",    "tidy",    "vitamins",
     "whereas"
 ]
+
+# Education
+words = [
+    "study group", "graduate", "junior student", "mental fatigue", "laptop", "coursework",
+    "performance", "teamwork", "academic reputation", "information literacy", "dissertation", "enrollment",
+    "problem-based learning", "mid-term exam", "teacher assistant", "academic performance", "state school", "course outline",
+    "vocational training", "student union", "grade point average", "self-directed learning", "exam paper", "project-based assessment",
+    "interactive learning", "student advisor", "e-learning", "continuous assessment", "application form", "whiteboard",
+    "study skills", "viva", "examiner", "assessment", "prerequisite", "peer pressure",
+    "virtual classroom", "flexible timetable", "diploma", "term paper", "reference book", "critical thinking",
+    "full-time student", "special education", "independent study", "final exam", "timetable", "elective course",
+    "tuition fees", "collaborative learning", "practical experience", "principal", "extracurricular activity", "supervisor",
+    "guidance counselor", "undergraduate", "motivation", "multiple choice", "break time", "syllabus",
+    "classroom", "major subject", "textbook", "presentation", "marking criteria", "fail the exam",
+    "degree", "boarding school", "campus", "commencement", "bachelor degree", "senior student",
+    "public school", "first draft", "education system", "memorization", "private school", "re-sit the exam",
+    "seminar", "revision", "nursery school", "certificate", "skills development", "part-time job",
+    "informal learning", "student loan", "master degree", "plagiarism", "topic sentence", "lecture",
+    "academic transcript", "study abroad", "internship", "mock exam", "peer review", "foundation course",
+    "curriculum", "writing task", "procrastination", "teaching method", "time management", "role-play",
+    "exchange student", "inclusive education", "online course", "self-discipline", "written assignment", "group discussion",
+    "portfolio", "compulsory course", "online tutorial", "gap year", "semester", "higher education",
+    "lecture notes", "school uniform", "essay", "innovation", "mature student", "attendance",
+    "student engagement", "prospectus", "dropout rate", "field trip", "postgraduate", "library card",
+    "orientation week", "professor", "subject", "autonomy", "questionnaire", "tutor",
+    "notebook", "academic integrity", "smart board", "kindergarten", "literacy", "workload",
+    "scholarship", "assignment", "thesis", "register", "lifelong learning", "headmaster",
+    "deadline", "note-taking", "homework", "admission office", "progress report", "qualification",
+    "creativity", "reading list", "language acquisition", "university ranking", "distance learning", "quiz"
+]
+
+# Education 55错词
+words = [
+    "laptop", "coursework", "information literacy", "dissertation", "teacher assistant", "grade point average",
+    "self-directed learning", "exam paper", "student advisor", "continuous assessment", "prerequisite", "peer pressure",
+    "independent study", "timetable", "collaborative learning", "practical experience", "principal", "extracurricular activity",
+    "guidance counselor", "multiple choice", "break time", "syllabus", "commencement", "bachelor degree",
+    "memorization", "private school", "re-sit the exam", "student loan", "plagiarism", "topic sentence",
+    "mock exam", "writing task", "procrastination", "role-play", "exchange student", "self-discipline",
+    "portfolio", "compulsory course", "online tutorial", "school uniform", "mature student", "attendance",
+    "prospectus", "dropout rate", "field trip", "orientation week", "subject", "questionnaire",
+    "academic integrity", "kindergarten", "workload", "headmaster", "note-taking", "admission office",
+    "language acquisition"
+]

@@ -1,0 +1,55 @@
+laptop {{pause:5000}}
+coursework {{pause:5000}}
+information literacy {{pause:5000}}
+dissertation {{pause:5000}}
+teacher assistant {{pause:5000}}
+grade point average {{pause:5000}}
+self-directed learning {{pause:5000}}
+exam paper {{pause:5000}}
+student advisor {{pause:5000}}
+continuous assessment {{pause:5000}}
+prerequisite {{pause:5000}}
+peer pressure {{pause:5000}}
+independent study {{pause:5000}}
+timetable {{pause:5000}}
+collaborative learning {{pause:5000}}
+practical experience {{pause:5000}}
+principal {{pause:5000}}
+extracurricular activity {{pause:5000}}
+guidance counselor {{pause:5000}}
+multiple choice {{pause:5000}}
+break time {{pause:5000}}
+syllabus {{pause:5000}}
+commencement {{pause:5000}}
+bachelor degree {{pause:5000}}
+memorization {{pause:5000}}
+private school {{pause:5000}}
+re-sit the exam {{pause:5000}}
+student loan {{pause:5000}}
+plagiarism {{pause:5000}}
+topic sentence {{pause:5000}}
+mock exam {{pause:5000}}
+writing task {{pause:5000}}
+procrastination {{pause:5000}}
+role-play {{pause:5000}}
+exchange student {{pause:5000}}
+self-discipline {{pause:5000}}
+portfolio {{pause:5000}}
+compulsory course {{pause:5000}}
+online tutorial {{pause:5000}}
+school uniform {{pause:5000}}
+mature student {{pause:5000}}
+attendance {{pause:5000}}
+prospectus {{pause:5000}}
+dropout rate {{pause:5000}}
+field trip {{pause:5000}}
+orientation week {{pause:5000}}
+subject {{pause:5000}}
+questionnaire {{pause:5000}}
+academic integrity {{pause:5000}}
+kindergarten {{pause:5000}}
+workload {{pause:5000}}
+headmaster {{pause:5000}}
+note-taking {{pause:5000}}
+admission office {{pause:5000}}
+language acquisition {{pause:5000}}

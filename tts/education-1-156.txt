@@ -1,0 +1,156 @@
+study group {{pause:5000}}
+graduate {{pause:5000}}
+junior student {{pause:5000}}
+mental fatigue {{pause:5000}}
+laptop {{pause:5000}}
+coursework {{pause:5000}}
+performance {{pause:5000}}
+teamwork {{pause:5000}}
+academic reputation {{pause:5000}}
+information literacy {{pause:5000}}
+dissertation {{pause:5000}}
+enrollment {{pause:5000}}
+problem-based learning {{pause:5000}}
+mid-term exam {{pause:5000}}
+teacher assistant {{pause:5000}}
+academic performance {{pause:5000}}
+state school {{pause:5000}}
+course outline {{pause:5000}}
+vocational training {{pause:5000}}
+student union {{pause:5000}}
+grade point average {{pause:5000}}
+self-directed learning {{pause:5000}}
+exam paper {{pause:5000}}
+project-based assessment {{pause:5000}}
+interactive learning {{pause:5000}}
+student advisor {{pause:5000}}
+e-learning {{pause:5000}}
+continuous assessment {{pause:5000}}
+application form {{pause:5000}}
+whiteboard {{pause:5000}}
+study skills {{pause:5000}}
+viva {{pause:5000}}
+examiner {{pause:5000}}
+assessment {{pause:5000}}
+prerequisite {{pause:5000}}
+peer pressure {{pause:5000}}
+virtual classroom {{pause:5000}}
+flexible timetable {{pause:5000}}
+diploma {{pause:5000}}
+term paper {{pause:5000}}
+reference book {{pause:5000}}
+critical thinking {{pause:5000}}
+full-time student {{pause:5000}}
+special education {{pause:5000}}
+independent study {{pause:5000}}
+final exam {{pause:5000}}
+timetable {{pause:5000}}
+elective course {{pause:5000}}
+tuition fees {{pause:5000}}
+collaborative learning {{pause:5000}}
+practical experience {{pause:5000}}
+principal {{pause:5000}}
+extracurricular activity {{pause:5000}}
+supervisor {{pause:5000}}
+guidance counselor {{pause:5000}}
+undergraduate {{pause:5000}}
+motivation {{pause:5000}}
+multiple choice {{pause:5000}}
+break time {{pause:5000}}
+syllabus {{pause:5000}}
+classroom {{pause:5000}}
+major subject {{pause:5000}}
+textbook {{pause:5000}}
+presentation {{pause:5000}}
+marking criteria {{pause:5000}}
+fail the exam {{pause:5000}}
+degree {{pause:5000}}
+boarding school {{pause:5000}}
+campus {{pause:5000}}
+commencement {{pause:5000}}
+bachelor degree {{pause:5000}}
+senior student {{pause:5000}}
+public school {{pause:5000}}
+first draft {{pause:5000}}
+education system {{pause:5000}}
+memorization {{pause:5000}}
+private school {{pause:5000}}
+re-sit the exam {{pause:5000}}
+seminar {{pause:5000}}
+revision {{pause:5000}}
+nursery school {{pause:5000}}
+certificate {{pause:5000}}
+skills development {{pause:5000}}
+part-time job {{pause:5000}}
+informal learning {{pause:5000}}
+student loan {{pause:5000}}
+master degree {{pause:5000}}
+plagiarism {{pause:5000}}
+topic sentence {{pause:5000}}
+lecture {{pause:5000}}
+academic transcript {{pause:5000}}
+study abroad {{pause:5000}}
+internship {{pause:5000}}
+mock exam {{pause:5000}}
+peer review {{pause:5000}}
+foundation course {{pause:5000}}
+curriculum {{pause:5000}}
+writing task {{pause:5000}}
+procrastination {{pause:5000}}
+teaching method {{pause:5000}}
+time management {{pause:5000}}
+role-play {{pause:5000}}
+exchange student {{pause:5000}}
+inclusive education {{pause:5000}}
+online course {{pause:5000}}
+self-discipline {{pause:5000}}
+written assignment {{pause:5000}}
+group discussion {{pause:5000}}
+portfolio {{pause:5000}}
+compulsory course {{pause:5000}}
+online tutorial {{pause:5000}}
+gap year {{pause:5000}}
+semester {{pause:5000}}
+higher education {{pause:5000}}
+lecture notes {{pause:5000}}
+school uniform {{pause:5000}}
+essay {{pause:5000}}
+innovation {{pause:5000}}
+mature student {{pause:5000}}
+attendance {{pause:5000}}
+student engagement {{pause:5000}}
+prospectus {{pause:5000}}
+dropout rate {{pause:5000}}
+field trip {{pause:5000}}
+postgraduate {{pause:5000}}
+library card {{pause:5000}}
+orientation week {{pause:5000}}
+professor {{pause:5000}}
+subject {{pause:5000}}
+autonomy {{pause:5000}}
+questionnaire {{pause:5000}}
+tutor {{pause:5000}}
+notebook {{pause:5000}}
+academic integrity {{pause:5000}}
+smart board {{pause:5000}}
+kindergarten {{pause:5000}}
+literacy {{pause:5000}}
+workload {{pause:5000}}
+scholarship {{pause:5000}}
+assignment {{pause:5000}}
+thesis {{pause:5000}}
+register {{pause:5000}}
+lifelong learning {{pause:5000}}
+headmaster {{pause:5000}}
+deadline {{pause:5000}}
+note-taking {{pause:5000}}
+homework {{pause:5000}}
+admission office {{pause:5000}}
+progress report {{pause:5000}}
+qualification {{pause:5000}}
+creativity {{pause:5000}}
+reading list {{pause:5000}}
+language acquisition {{pause:5000}}
+university ranking {{pause:5000}}
+distance learning {{pause:5000}}
+quiz {{pause:5000}}

@@ -5,10 +5,8 @@ import sys
 import time
 import os
 
-words = [
+from temp import words 
 
-    "raw", "junior student", "live broadcast"
-]
 do_translate = True  # Set to True to enable translation
 async def fetch_translation(text, src='en', dest='zh-cn'):
     tr = Translator()

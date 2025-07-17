@@ -10,9 +10,9 @@ import tempfile
 import threading
 import queue
 
-words = [
-    "boarding pass", "business trip", "credit card", "customer service", "data analysis"
-]
+from temp import words 
+
+
 
 VOICE = "en-GB-RyanNeural"
 # Valid Edge TTS voices (not related to googletrans)

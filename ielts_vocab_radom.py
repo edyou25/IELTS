@@ -4,12 +4,8 @@ import random
 
 
 # Load word list from user-provided data
-words = [
-    "accountant",    "allergy",    "balcony",    "canteen",    "designer",    "experience",
-    "extension",    "gymnasium",    "hostel",    "itinerary",    "mattress",    "pharmacist",
-    "principal",    "reimbursement",    "sanitation",    "secretary",    "seminar",    "transportation",
-    "welfare"
-]
+from temp import words 
+
 words = list(dict.fromkeys(words))
 
 random.shuffle(words)
