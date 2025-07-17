@@ -258,3 +258,34 @@ words = [
     "guidance counselor", "compulsory course", "questionnaire", "academic integrity"
 ]
 
+# Science and Technology 词汇 1-165
+words = [
+    "robot", "run", "utility", "radiation", "file", "explore",
+    "discovery", "monitor", "energy", "useful", "exploration", "upload",
+    "benefit", "virus", "consume", "transfer", "standard", "wireless",
+    "intelligent", "convenient", "practical", "range", "realistic", "automated",
+    "visible", "data", "storage", "sustainable", "modern", "breakthrough",
+    "scientific", "speed", "improve", "launch", "information", "impact",
+    "improvement", "biological", "innovative", "satellite", "capacity", "method",
+    "machine", "database", "factor", "artificial", "select", "manual",
+    "engineer", "outcome", "experiment", "traditional", "chemical", "observation",
+    "replace", "Internet", "record", "tool", "production", "sensor",
+    "sample", "survey", "affordable", "reaction", "reliability", "technical",
+    "program", "access", "failure", "display", "connection", "automation",
+    "issue", "instrument", "application", "consumer", "install", "power",
+    "universe", "interface", "system", "visual", "operation", "innovation",
+    "solution", "reduction", "limit", "skill", "product", "environmental",
+    "manufacture", "value", "test", "function", "trial", "software",
+    "engineering", "variable", "reliable", "quality", "code", "electronic",
+    "laboratory", "input", "feature", "security", "advanced", "defect",
+    "perform", "research", "digital", "performance", "suitable", "electric",
+    "transmit", "output", "efficient", "mechanical", "structure", "track",
+    "development", "challenge", "study", "computer", "component", "support",
+    "trend", "project", "user", "safety", "electricity", "source",
+    "scientist", "update", "touch", "complex", "lack", "robotic",
+    "network", "scanner", "communication", "signal", "highly", "specialist",
+    "requirement", "temperature", "high-tech", "equipment", "feedback", "battery",
+    "waste", "invention", "technology", "error", "virtual", "investigation",
+    "device", "hardware", "theory", "type", "predict", "generate",
+    "simulation", "process", "electrical"
+]
