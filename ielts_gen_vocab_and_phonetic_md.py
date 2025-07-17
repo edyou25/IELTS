@@ -20,8 +20,7 @@ except LookupError:
     d = cmudict.dict()
 
 # Load word list from user-provided data
-from temp import words
-vocabulary_name = "ielts-bro-test"
+from temp import words, vocabulary_name
 
 md_name = vocabulary_name + ".md"
 

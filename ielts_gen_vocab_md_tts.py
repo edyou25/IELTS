@@ -9,11 +9,9 @@ current_path = os.path.abspath(__file__)
 current_dir = os.path.dirname(current_path)
 
 # Load word list from user-provided data
-from temp import words 
+from temp import words, vocabulary_name
 
 
-
-vocabulary_name = "education-1-156-1-57err"
 
 md_name = vocabulary_name + ".md"
 tts_name = vocabulary_name + ".txt"
