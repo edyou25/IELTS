@@ -3,12 +3,7 @@ import random
 import language_tool_python
 
 # Load word list from user-provided data
-words = [
-    "accountant", "allergy", "balcony", "canteen", "designer", "experience",
-    "extension", "gymnasium", "hostel", "itinerary", "mattress", "pharmacist",
-    "principal", "reimbursement", "sanitation", "secretary", "seminar", "transportation",
-    "welfare"
-]
+from temp import words
 
 class VocabularySentencePractice:
     def __init__(self, word_list):

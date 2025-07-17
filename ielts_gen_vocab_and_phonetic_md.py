@@ -20,39 +20,7 @@ except LookupError:
     d = cmudict.dict()
 
 # Load word list from user-provided data
-words = [
-    "consumption", "playwrights", "submission", "radical", "thorough", "diminishing",
-    "diary", "exponentially", "coating", "latter", "insulating", "pharmacy",
-    "carnival", "ramp", "pattern", "feminine", "prominent", "maladies",
-    "taxation", "eerie", "explicit", "transcend", "augmented", "thrive",
-    "contagious", "inferior", "lime", "shoulder", "stamp", "drawing",
-    "sector", "ceramics", "fraud", "summit", "ascent", "compromised",
-    "peasants", "ribbons", "beads", "tedious", "destruction", "niece",
-    "absorbed", "whereas", "thrived", "bank", "glitch", "literacy",
-    "diversify", "textiles", "bizarre", "rehearse", "genuine", "bolstered",
-    "drummer", "adequate", "anticipate", "vibrant", "anticipating", "ballet",
-    "composition", "proportion", "blend", "opposite", "flute", "counteract",
-    "lace", "renowned", "reaffirm", "charcoal", "publicised", "trivial",
-    "superior", "bedsit", "distinction", "clay", "avail", "glazes",
-    "figures", "shipwrecked", "rather", "striking", "terrace", "remuneration",
-    "priority", "reservations", "yacht", "odd", "distinct", "souvenirs",
-    "concentrate", "respiratory", "ingredient", "undermines", "expertise", "advocates",
-    "transparency", "minded", "exploitation", "altitude", "thermometer", "commissioned",
-    "morale", "deterioration", "canoe", "chronological", "preserve", "exacerbated",
-    "omit", "weight", "lap", "sphere", "hills", "compulsory",
-    "prone", "october", "filth", "second", "hut", "traits",
-    "synthetic", "reduction", "resemble", "lauded", "banquet", "necessarily",
-    "aqueducts", "artistic", "persuasive", "predators", "percussion", "catered",
-    "hierarchies", "intimate", "vaccinations", "warehouse", "outmoded", "agendas",
-    "medicals", "infuse", "swiss", "vitamins", "wardens", "tidy",
-    "abruptly", "arson", "nutrients", "masculine", "comets", "overrun",
-    "complicated", "accordance", "comprehend", "connotative", "consultation", "past",
-    "underpinnings", "initiative", "ethical", "marble", "coordination", "illustrator",
-    "flirtation", "scraper", "obscure", "contradictory", "abusively", "lucrative",
-    "implicit", "repatriation", "dementia", "clarinet", "archipelago", "solitary",
-    "begs", "cope"
-]
-
+from temp import words
 vocabulary_name = "ielts-bro-test"
 
 md_name = vocabulary_name + ".md"

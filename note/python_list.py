@@ -252,3 +252,9 @@ words = [
     "academic integrity", "kindergarten", "workload", "headmaster", "note-taking", "admission office",
     "language acquisition"
 ]
+
+# 第二次听写错误
+words = [
+    "guidance counselor", "compulsory course", "questionnaire", "academic integrity"
+]
+
