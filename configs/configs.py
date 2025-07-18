@@ -1,6 +1,6 @@
-vocabulary_name = "snt-165-215"
+vocabulary_name = "hnm-1-150"
 
-cols = 2
+cols = 3
 
 # VOICE = "en-GB-RyanNeural"
 # Valid Edge TTS voices (not related to googletrans)

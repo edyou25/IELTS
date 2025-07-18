@@ -1,0 +1,129 @@
+wellness {{pause:5000}}
+balanced diet {{pause:5000}}
+nutrition {{pause:5000}}
+vitamin {{pause:5000}}
+protein {{pause:5000}}
+carbohydrates {{pause:5000}}
+minerals {{pause:5000}}
+hydration {{pause:5000}}
+calorie intake {{pause:5000}}
+healthy lifestyle {{pause:5000}}
+physical exercise {{pause:5000}}
+outdoor activities {{pause:5000}}
+mental health {{pause:5000}}
+stress management {{pause:5000}}
+anxiety {{pause:5000}}
+depression {{pause:5000}}
+fitness {{pause:5000}}
+flexibility {{pause:5000}}
+cardiovascular health {{pause:5000}}
+immunity {{pause:5000}}
+vaccination {{pause:5000}}
+preventive care {{pause:5000}}
+medical check-up {{pause:5000}}
+healthcare {{pause:5000}}
+healthcare system {{pause:5000}}
+doctor {{pause:5000}}
+general practitioner {{pause:5000}}
+specialist {{pause:5000}}
+clinic {{pause:5000}}
+hospital {{pause:5000}}
+emergency ward {{pause:5000}}
+outpatient {{pause:5000}}
+inpatient {{pause:5000}}
+surgeon {{pause:5000}}
+operation {{pause:5000}}
+surgery {{pause:5000}}
+anaesthetist {{pause:5000}}
+nurse {{pause:5000}}
+pharmacist {{pause:5000}}
+prescription {{pause:5000}}
+medication {{pause:5000}}
+drug {{pause:5000}}
+antibiotic {{pause:5000}}
+painkiller {{pause:5000}}
+side effect {{pause:5000}}
+treatment {{pause:5000}}
+therapy {{pause:5000}}
+rehabilitation {{pause:5000}}
+physiotherapy {{pause:5000}}
+alternative medicine {{pause:5000}}
+herbal remedy {{pause:5000}}
+chronic disease {{pause:5000}}
+acute illness {{pause:5000}}
+bacterial infection {{pause:5000}}
+viral infection {{pause:5000}}
+common cold {{pause:5000}}
+flu {{pause:5000}}
+pandemic {{pause:5000}}
+epidemic {{pause:5000}}
+symptom {{pause:5000}}
+fever {{pause:5000}}
+headache {{pause:5000}}
+sore throat {{pause:5000}}
+runny nose {{pause:5000}}
+cough {{pause:5000}}
+ache {{pause:5000}}
+fracture {{pause:5000}}
+allergy {{pause:5000}}
+asthma {{pause:5000}}
+diabetes {{pause:5000}}
+high blood pressure {{pause:5000}}
+obesity {{pause:5000}}
+overweight {{pause:5000}}
+undernutrition {{pause:5000}}
+malnutrition {{pause:5000}}
+vitamin deficiency {{pause:5000}}
+dehydration {{pause:5000}}
+infection control {{pause:5000}}
+sanitation {{pause:5000}}
+hygiene {{pause:5000}}
+handwashing {{pause:5000}}
+public health {{pause:5000}}
+health awareness {{pause:5000}}
+health education {{pause:5000}}
+health campaign {{pause:5000}}
+health insurance {{pause:5000}}
+health expenditure {{pause:5000}}
+cost-effective {{pause:5000}}
+patient {{pause:5000}}
+patient care {{pause:5000}}
+bedridden {{pause:5000}}
+consultation {{pause:5000}}
+diagnosis {{pause:5000}}
+medical imaging {{pause:5000}}
+X-ray {{pause:5000}}
+ultrasound {{pause:5000}}
+MRI {{pause:5000}}
+CT scan {{pause:5000}}
+blood test {{pause:5000}}
+prescribe {{pause:5000}}
+monitor {{pause:5000}}
+follow-up {{pause:5000}}
+recovery {{pause:5000}}
+convalescence {{pause:5000}}
+palliative care {{pause:5000}}
+terminal illness {{pause:5000}}
+end-of-life care {{pause:5000}}
+mental wellbeing {{pause:5000}}
+counselling {{pause:5000}}
+therapy session {{pause:5000}}
+support group {{pause:5000}}
+lifestyle disease {{pause:5000}}
+risk factor {{pause:5000}}
+early intervention {{pause:5000}}
+health screening {{pause:5000}}
+annual check-up {{pause:5000}}
+preventive measure {{pause:5000}}
+vaccination programme {{pause:5000}}
+community health {{pause:5000}}
+telemedicine {{pause:5000}}
+remote diagnosis {{pause:5000}}
+mobile clinic {{pause:5000}}
+health visitor {{pause:5000}}
+midwife {{pause:5000}}
+birth control {{pause:5000}}
+reproductive health {{pause:5000}}
+maternal health {{pause:5000}}
+neonatal care {{pause:5000}}
+child vaccination {{pause:5000}}
