@@ -11,7 +11,7 @@ import threading
 import queue
 
 from words import words
-from configs import VOICE
+from configs.configs import VOICE
 
 
 give_chinese = True  # Set to True to give Chinese translation

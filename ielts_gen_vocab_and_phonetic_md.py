@@ -20,7 +20,7 @@ except LookupError:
     d = cmudict.dict()
 
 # Load word list from user-provided data
-from configs import vocabulary_name, cols
+from configs.configs import vocabulary_name, cols
 from words import words
 
 md_name = vocabulary_name + ".md"

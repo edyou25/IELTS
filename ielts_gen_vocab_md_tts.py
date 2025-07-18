@@ -9,7 +9,7 @@ current_path = os.path.abspath(__file__)
 current_dir = os.path.dirname(current_path)
 
 # Load word list from user-provided data
-from configs import vocabulary_name, cols
+from configs.configs import vocabulary_name, cols
 from words import words
 
 
