@@ -20,11 +20,11 @@ except LookupError:
     d = cmudict.dict()
 
 # Load word list from user-provided data
-from temp import words, vocabulary_name
+from configs import vocabulary_name, cols
+from words import words
 
 md_name = vocabulary_name + ".md"
 
-cols = 2  # Number of columns in the markdown table
 
 words = list(dict.fromkeys(words))
 

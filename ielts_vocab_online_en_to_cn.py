@@ -10,7 +10,7 @@ import tempfile
 import threading
 import queue
 
-from temp import words 
+from words import words 
 
 do_translate = False  # Set to True to enable translation
 read_vocabulary = False  # Set to True to read vocabulary aloud

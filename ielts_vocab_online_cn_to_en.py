@@ -5,7 +5,7 @@ import sys
 import time
 import os
 
-from temp import words 
+from words import words 
 
 do_translate = True  # Set to True to enable translation
 async def fetch_translation(text, src='en', dest='zh-cn'):

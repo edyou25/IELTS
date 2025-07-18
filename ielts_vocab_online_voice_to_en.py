@@ -10,17 +10,10 @@ import tempfile
 import threading
 import queue
 
-from temp import words 
+from words import words
+from configs import VOICE
 
 
-
-VOICE = "en-GB-RyanNeural"
-# Valid Edge TTS voices (not related to googletrans)
-VOICE = "en-US-AriaNeural"      # Female
-# VOICE = "en-US-JennyNeural"     # Female
-# VOICE = "en-US-GuyNeural"       # Male
-# VOICE = "en-GB-SoniaNeural"     # Female British
-# VOICE = "en-AU-NatashaNeural"   # Female Australian
 give_chinese = True  # Set to True to give Chinese translation
 
 # Initialize pygame properly for both audio and event handling

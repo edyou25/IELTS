@@ -3,7 +3,7 @@ import random
 import language_tool_python
 
 # Load word list from user-provided data
-from temp import words
+from words import words
 
 class VocabularySentencePractice:
     def __init__(self, word_list):

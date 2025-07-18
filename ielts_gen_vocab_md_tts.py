@@ -9,14 +9,14 @@ current_path = os.path.abspath(__file__)
 current_dir = os.path.dirname(current_path)
 
 # Load word list from user-provided data
-from temp import words, vocabulary_name
+from configs import vocabulary_name, cols
+from words import words
 
 
 
 md_name = vocabulary_name + ".md"
 tts_name = vocabulary_name + ".txt"
 
-cols = 3  # Number of columns in the markdown table
 
 words = list(dict.fromkeys(words))
 

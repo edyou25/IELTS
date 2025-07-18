@@ -4,7 +4,7 @@ import random
 
 
 # Load word list from user-provided data
-from temp import words 
+from words import words 
 
 words = list(dict.fromkeys(words))
 
