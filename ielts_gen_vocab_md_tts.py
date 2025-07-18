@@ -55,7 +55,6 @@ async def fetch_translations_with_progress(word_list):
                 meanings.append(word)  # Fallback to original word
                 pbar.update(1)
     
-    print("✅ Translation completed!")
     return meanings
 
 # Fetch translations with progress bar
