@@ -37,5 +37,5 @@ conda env create -f env_ext.yml
     - 包含音标
 - ielts_red_note_comments.py
     - 手动复制网页前端body到temp.html
-    - 从小红书抓评论，整理到markdown
+    - 从某社交软件抓评论，整理到markdown
     - 给大模型归纳评价（手动）
