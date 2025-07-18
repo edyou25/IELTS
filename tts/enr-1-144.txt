@@ -1,0 +1,143 @@
+environment {{pause:5000}}
+environmental {{pause:5000}}
+natural environment {{pause:5000}}
+habitat {{pause:5000}}
+ecosystem {{pause:5000}}
+biodiversity {{pause:5000}}
+wildlife {{pause:5000}}
+flora {{pause:5000}}
+fauna {{pause:5000}}
+species {{pause:5000}}
+endangered species {{pause:5000}}
+extinct {{pause:5000}}
+pollution {{pause:5000}}
+air pollution {{pause:5000}}
+water pollution {{pause:5000}}
+soil pollution {{pause:5000}}
+noise pollution {{pause:5000}}
+light pollution {{pause:5000}}
+plastic pollution {{pause:5000}}
+toxic waste {{pause:5000}}
+industrial waste {{pause:5000}}
+sewage {{pause:5000}}
+litter {{pause:5000}}
+smog {{pause:5000}}
+acid rain {{pause:5000}}
+chemical contamination {{pause:5000}}
+oil spill {{pause:5000}}
+hazardous materials {{pause:5000}}
+pollutant {{pause:5000}}
+carbon dioxide {{pause:5000}}
+greenhouse gases {{pause:5000}}
+greenhouse effect {{pause:5000}}
+carbon footprint {{pause:5000}}
+global warming {{pause:5000}}
+climate change {{pause:5000}}
+climate crisis {{pause:5000}}
+temperature rise {{pause:5000}}
+flood {{pause:5000}}
+drought {{pause:5000}}
+heatwave {{pause:5000}}
+storm {{pause:5000}}
+extreme weather {{pause:5000}}
+melting ice caps {{pause:5000}}
+sea level rise {{pause:5000}}
+resource {{pause:5000}}
+natural resources {{pause:5000}}
+renewable resources {{pause:5000}}
+non-renewable resources {{pause:5000}}
+water resource {{pause:5000}}
+forest resource {{pause:5000}}
+mineral {{pause:5000}}
+fossil fuel {{pause:5000}}
+coal {{pause:5000}}
+oil {{pause:5000}}
+natural gas {{pause:5000}}
+hydropower {{pause:5000}}
+solar energy {{pause:5000}}
+wind energy {{pause:5000}}
+geothermal energy {{pause:5000}}
+tidal energy {{pause:5000}}
+biomass {{pause:5000}}
+renewable energy {{pause:5000}}
+clean energy {{pause:5000}}
+energy efficiency {{pause:5000}}
+energy conservation {{pause:5000}}
+conservation {{pause:5000}}
+conservationist {{pause:5000}}
+preserve {{pause:5000}}
+protect {{pause:5000}}
+wildlife conservation {{pause:5000}}
+nature conservation {{pause:5000}}
+environmental protection {{pause:5000}}
+reforestation {{pause:5000}}
+afforestation {{pause:5000}}
+deforestation {{pause:5000}}
+habitat destruction {{pause:5000}}
+habitat restoration {{pause:5000}}
+sustainable {{pause:5000}}
+sustainability {{pause:5000}}
+sustainable development {{pause:5000}}
+eco-friendly {{pause:5000}}
+environmentally friendly {{pause:5000}}
+eco-tourism {{pause:5000}}
+green living {{pause:5000}}
+waste reduction {{pause:5000}}
+recycling {{pause:5000}}
+reusable {{pause:5000}}
+biodegradable {{pause:5000}}
+compost {{pause:5000}}
+circular economy {{pause:5000}}
+zero waste {{pause:5000}}
+pollute {{pause:5000}}
+contaminate {{pause:5000}}
+dispose of {{pause:5000}}
+dump {{pause:5000}}
+emit {{pause:5000}}
+reduce emissions {{pause:5000}}
+mitigate {{pause:5000}}
+combat {{pause:5000}}
+tackle {{pause:5000}}
+regulate {{pause:5000}}
+enforce {{pause:5000}}
+monitor {{pause:5000}}
+environmental policy {{pause:5000}}
+regulation {{pause:5000}}
+legislation {{pause:5000}}
+environmental awareness {{pause:5000}}
+public awareness {{pause:5000}}
+environmental campaign {{pause:5000}}
+climate action {{pause:5000}}
+pressure group {{pause:5000}}
+non-governmental organization {{pause:5000}}
+NGO {{pause:5000}}
+international cooperation {{pause:5000}}
+carbon trading {{pause:5000}}
+emission trading {{pause:5000}}
+climate agreement {{pause:5000}}
+Paris Agreement {{pause:5000}}
+climate resilience {{pause:5000}}
+environmental ethics {{pause:5000}}
+ecological footprint {{pause:5000}}
+carbon neutrality {{pause:5000}}
+carbon offsetting {{pause:5000}}
+environmental justice {{pause:5000}}
+environmental degradation {{pause:5000}}
+habitat fragmentation {{pause:5000}}
+water scarcity {{pause:5000}}
+soil erosion {{pause:5000}}
+desertification {{pause:5000}}
+marine ecosystem {{pause:5000}}
+coral reef {{pause:5000}}
+rainforest {{pause:5000}}
+wetland {{pause:5000}}
+grassland {{pause:5000}}
+urbanization {{pause:5000}}
+overpopulation {{pause:5000}}
+industrialization {{pause:5000}}
+landfill {{pause:5000}}
+waste management {{pause:5000}}
+sanitation {{pause:5000}}
+stormwater management {{pause:5000}}
+green infrastructure {{pause:5000}}
+urban green space {{pause:5000}}
