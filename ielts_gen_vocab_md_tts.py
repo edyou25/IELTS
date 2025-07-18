@@ -66,5 +66,6 @@ for row in range(rows_per_column):
     md_lines.append("".join(line_parts) + "|")
 
 with open(os.path.join(current_dir + "//md", md_name), "w", encoding="utf-8") as f:
+    f.write(f"### {vocabulary_name}\n\n")
     f.write("\n".join(md_lines))
 
