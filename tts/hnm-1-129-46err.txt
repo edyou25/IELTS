@@ -1,0 +1,46 @@
+protein {{pause:5000}}
+carbohydrates {{pause:5000}}
+minerals {{pause:5000}}
+cardiovascular health {{pause:5000}}
+immunity {{pause:5000}}
+preventive care {{pause:5000}}
+healthcare {{pause:5000}}
+anaesthetist {{pause:5000}}
+pharmacist {{pause:5000}}
+prescription {{pause:5000}}
+painkiller {{pause:5000}}
+therapy {{pause:5000}}
+rehabilitation {{pause:5000}}
+physiotherapy {{pause:5000}}
+alternative medicine {{pause:5000}}
+herbal remedy {{pause:5000}}
+chronic disease {{pause:5000}}
+bacterial infection {{pause:5000}}
+viral infection {{pause:5000}}
+common cold {{pause:5000}}
+flu {{pause:5000}}
+sore throat {{pause:5000}}
+runny nose {{pause:5000}}
+cough {{pause:5000}}
+allergy {{pause:5000}}
+asthma {{pause:5000}}
+diabetes {{pause:5000}}
+high blood pressure {{pause:5000}}
+obesity {{pause:5000}}
+undernutrition {{pause:5000}}
+malnutrition {{pause:5000}}
+vitamin deficiency {{pause:5000}}
+sanitation {{pause:5000}}
+hygiene {{pause:5000}}
+health campaign {{pause:5000}}
+health expenditure {{pause:5000}}
+cost-effective {{pause:5000}}
+bedridden {{pause:5000}}
+consultation {{pause:5000}}
+MRI {{pause:5000}}
+CT scan {{pause:5000}}
+convalescence {{pause:5000}}
+palliative care {{pause:5000}}
+therapy session {{pause:5000}}
+maternal health {{pause:5000}}
+neonatal care {{pause:5000}}

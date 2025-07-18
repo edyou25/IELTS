@@ -307,3 +307,44 @@ words = [
     "robotic surgery", "telemedicine", "cutting-edge", "data literacy", "data privacy", "machine learning",
     "scientific community", "renewable resource"
 ]
+
+# Health and Medicine 词汇 1-129
+words = [
+    "wellness", "balanced diet", "nutrition", "vitamin", "protein", "carbohydrates",
+    "minerals", "hydration", "calorie intake", "healthy lifestyle", "physical exercise",
+    "outdoor activities", "mental health", "stress management", "anxiety", "depression",
+    "fitness", "flexibility", "cardiovascular health", "immunity", "vaccination",
+    "preventive care", "medical check-up", "healthcare", "healthcare system", "doctor",
+    "general practitioner", "specialist", "clinic", "hospital", "emergency ward",
+    "outpatient", "inpatient", "surgeon", "operation", "surgery", "anaesthetist",
+    "nurse", "pharmacist", "prescription", "medication", "drug", "antibiotic",
+    "painkiller", "side effect", "treatment", "therapy", "rehabilitation",
+    "physiotherapy", "alternative medicine", "herbal remedy", "chronic disease",
+    "acute illness", "bacterial infection", "viral infection", "common cold", "flu",
+    "pandemic", "epidemic", "symptom", "fever", "headache", "sore throat",
+    "runny nose", "cough", "ache", "fracture", "allergy", "asthma", "diabetes",
+    "high blood pressure", "obesity", "overweight", "undernutrition", "malnutrition",
+    "vitamin deficiency", "dehydration", "infection control", "sanitation",
+    "hygiene", "handwashing", "public health", "health awareness", "health education",
+    "health campaign", "health insurance", "health expenditure", "cost-effective",
+    "patient", "patient care", "bedridden", "consultation", "diagnosis", "medical imaging",
+    "X-ray", "ultrasound", "MRI", "CT scan", "blood test", "prescribe", "monitor",
+    "follow-up", "recovery", "convalescence", "palliative care", "terminal illness",
+    "end-of-life care", "mental wellbeing", "counselling", "therapy session",
+    "support group", "lifestyle disease", "risk factor", "early intervention",
+    "health screening", "annual check-up", "preventive measure", "vaccination programme",
+    "community health", "telemedicine", "remote diagnosis", "mobile clinic",
+    "health visitor", "midwife", "birth control", "reproductive health", "maternal health",
+    "neonatal care", "child vaccination"
+]
+# 第一次听写错误 1-46
+words = [
+    "protein", "carbohydrates", "minerals", "cardiovascular health", "immunity", "preventive care",
+    "healthcare", "anaesthetist", "pharmacist", "prescription", "painkiller", "therapy",
+    "rehabilitation", "physiotherapy", "alternative medicine", "herbal remedy", "chronic disease", "bacterial infection",
+    "viral infection", "common cold", "flu", "sore throat", "runny nose", "cough",
+    "allergy", "asthma", "diabetes", "high blood pressure", "obesity", "undernutrition",
+    "malnutrition", "vitamin deficiency", "sanitation", "hygiene", "health campaign", "health expenditure",
+    "cost-effective", "bedridden", "consultation", "MRI", "CT scan", "convalescence",
+    "palliative care", "therapy session", "maternal health", "neonatal care"
+]
