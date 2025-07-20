@@ -410,4 +410,57 @@ words = ["fauna", "sewage", "litter", "smog", "hazardous materials", "carbon dio
     "industrialization", "stormwater management", "green infrastructure", "urban green space"
 ]
 
+# goverment and polilics 词汇 1-109
+words = [
+  # 政府结构与制度
+  "government", "administration", "cabinet", "executive", "legislature", "legislation",
+  "parliament", "constitution", "judiciary", "bureaucracy", "policy", "reform", "regulation",
+  "constitutionality", "federal", "unitary state", "devolution", "autonomy", "sovereignty",
+  "democracy", "republic", "monarchy",
+
+  # 选举与选区
+  "election", "ballot", "referendum", "campaign", "manifesto", "majority", "incumbent",
+  "constituency", "mandate", "suffrage", "electoral system", "psephology", "caucus", "voting turnout",
+
+  # 政治派别与意识形态
+  "political ideology", "left-wing", "right-wing", "bipartisan", "pluralism", "populism",
+  "authoritarianism", "totalitarianism", "autocracy", "oligarchy", "technocracy",
+  "democratic governance", "statism", "absolutism", "pluralistic society",
+
+  # 政治行为与社会影响
+  "political participation", "public opinion", "lobbying", "propaganda", "censorship",
+  "transparency", "accountability", "corruption", "red tape", "governance", "public policy",
+  "think-tank", "pressure group", "civil society", "political dissent",
+
+  # 国际关系与外交
+  "treaty", "sanction", "diplomat", "ambassador", "foreign policy", "geopolitics",
+  "international cooperation", "bilateral agreement", "multilateralism",
+
+  # 特殊政治过程与术语
+  "impeachment", "coup d'état", "junta", "regime", "authoritarian regime",
+  "electoral fraud", "legitimacy", "mandate", "succession planning",
+
+  # 政治主题扩展词汇
+  "demographic policy", "fiscal deficit", "subsidy", "budget", "public expenditure",
+  "welfare state", "social security", "pension scheme", "healthcare policy",
+  "education reform", "environmental legislation",
+
+  # 学术与高级表达
+  "policy implementation", "legislative reforms", "political sovereignty", "constitutionalism",
+  "democratic accountability", "political ideology", "government accountability",
+  "electoral systems design", "check and balance",
+
+  # 常见名词/形容词词汇
+  "incumbent", "opposition", "coalition government", "minority government",
+  "majority rule", "executive branch", "legislative branch", "judicial branch",
+  "separation of powers", "civil liberties", "human rights", "civil rights", "social justice"
+]
+# 听写17错词
+words = [
+    "civil liberties",    "civil society",    "corruption",    "electoral system",    "fiscal deficit",    "majority rule",
+    "policy implementation",    "suffrage",
+    "treaty", "embassy", "electoral fraud", "diplomatic negotiations", "judicial independence",
+    "unitary state", "civil service", "grassroots movement", "bureaucratic"
+]
+
 print("Total words:", len(words))

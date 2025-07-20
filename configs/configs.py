@@ -1,11 +1,11 @@
-vocabulary_name = "enr-1-144-41err"
+vocabulary_name = "gnp-1-109-17err"
 
 cols = 3
 
-# VOICE = "en-GB-RyanNeural"
+VOICE = "en-GB-RyanNeural"
 # Valid Edge TTS voices (not related to googletrans)
 # VOICE = "en-US-AriaNeural"      # Female
 # VOICE = "en-US-JennyNeural"     # Female
 # VOICE = "en-US-GuyNeural"       # Male
-VOICE = "en-GB-SoniaNeural"     # Female British
+# VOICE = "en-GB-SoniaNeural"     # Female British
 # VOICE = "en-AU-NatashaNeural"   # Female Australian
