@@ -34,7 +34,7 @@ async def fetch_translations_with_progress(word_list):
     print(f"Translating {len(word_list)} words...")
     
     # Create progress bar
-    with tqdm(total=len(word_list), desc="Translation Progress", 
+    with tqdm(total=len(word_list), 
               bar_format="{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}<{remaining}, {rate_fmt}]") as pbar:
         
         for i, word in enumerate(word_list):
