@@ -1,4 +1,4 @@
-vocabulary_name = "gnp-1-109-17err"
+vocabulary_name = "smart-1-96"
 
 cols = 3
 

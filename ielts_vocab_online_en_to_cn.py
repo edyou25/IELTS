@@ -13,7 +13,7 @@ import queue
 from words import words 
 
 do_translate = False  # Set to True to enable translation
-read_vocabulary = False  # Set to True to read vocabulary aloud
+read_vocabulary = True  # Set to True to read vocabulary aloud
 
 async def fetch_translation(text, src='en', dest='zh-cn'):
     tr = Translator()

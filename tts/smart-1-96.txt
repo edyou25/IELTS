@@ -1,0 +1,96 @@
+exercise {{pause:5000}}
+sportsmanship {{pause:5000}}
+cricket {{pause:5000}}
+basketball {{pause:5000}}
+soccer {{pause:5000}}
+rugby {{pause:5000}}
+swimming {{pause:5000}}
+tennis {{pause:5000}}
+badminton {{pause:5000}}
+squash {{pause:5000}}
+javelin {{pause:5000}}
+discus {{pause:5000}}
+high jump {{pause:5000}}
+cycling {{pause:5000}}
+canoeing {{pause:5000}}
+kayaking {{pause:5000}}
+mountain biking {{pause:5000}}
+rafting {{pause:5000}}
+surfing {{pause:5000}}
+windsurfing {{pause:5000}}
+paragliding {{pause:5000}}
+skydiving {{pause:5000}}
+bungee jumping {{pause:5000}}
+hang-gliding {{pause:5000}}
+abseiling {{pause:5000}}
+snowboarding {{pause:5000}}
+jet-skiing {{pause:5000}}
+bodyboarding {{pause:5000}}
+jogging {{pause:5000}}
+weightlifting {{pause:5000}}
+aerobics {{pause:5000}}
+archery {{pause:5000}}
+fencing {{pause:5000}}
+rowing {{pause:5000}}
+netball {{pause:5000}}
+marathon {{pause:5000}}
+powerlifting {{pause:5000}}
+gymnastics {{pause:5000}}
+musical instrument {{pause:5000}}
+genre {{pause:5000}}
+lyrics {{pause:5000}}
+melody {{pause:5000}}
+harmony {{pause:5000}}
+concert {{pause:5000}}
+live performance {{pause:5000}}
+orchestra {{pause:5000}}
+rhythm {{pause:5000}}
+solo {{pause:5000}}
+composer {{pause:5000}}
+acoustic quality {{pause:5000}}
+musical arrangement {{pause:5000}}
+rhythmic complexity {{pause:5000}}
+auditory perception {{pause:5000}}
+emotional resonance {{pause:5000}}
+tune {{pause:5000}}
+symphony {{pause:5000}}
+band {{pause:5000}}
+vocal {{pause:5000}}
+composition {{pause:5000}}
+rehearsal {{pause:5000}}
+backstage {{pause:5000}}
+mainstream music {{pause:5000}}
+classical music {{pause:5000}}
+folk music {{pause:5000}}
+audience {{pause:5000}}
+performance {{pause:5000}}
+art {{pause:5000}}
+culture {{pause:5000}}
+masterpiece {{pause:5000}}
+exhibit {{pause:5000}}
+gallery {{pause:5000}}
+sculpture {{pause:5000}}
+portrait {{pause:5000}}
+landscape {{pause:5000}}
+abstract {{pause:5000}}
+canvas {{pause:5000}}
+sketch {{pause:5000}}
+texture {{pause:5000}}
+motif {{pause:5000}}
+aesthetic {{pause:5000}}
+art appreciation {{pause:5000}}
+artefact {{pause:5000}}
+visual art {{pause:5000}}
+fine arts {{pause:5000}}
+literary art {{pause:5000}}
+performance art {{pause:5000}}
+choreograph {{pause:5000}}
+dance {{pause:5000}}
+drama {{pause:5000}}
+crafts {{pause:5000}}
+mural {{pause:5000}}
+venue {{pause:5000}}
+inspiration {{pause:5000}}
+expression {{pause:5000}}
+drama performance {{pause:5000}}
+scenic design {{pause:5000}}
