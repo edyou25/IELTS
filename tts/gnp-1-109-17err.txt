@@ -1,0 +1,17 @@
+civil liberties {{pause:5000}}
+civil society {{pause:5000}}
+corruption {{pause:5000}}
+electoral system {{pause:5000}}
+fiscal deficit {{pause:5000}}
+majority rule {{pause:5000}}
+policy implementation {{pause:5000}}
+suffrage {{pause:5000}}
+treaty {{pause:5000}}
+embassy {{pause:5000}}
+electoral fraud {{pause:5000}}
+diplomatic negotiations {{pause:5000}}
+judicial independence {{pause:5000}}
+unitary state {{pause:5000}}
+civil service {{pause:5000}}
+grassroots movement {{pause:5000}}
+bureaucratic {{pause:5000}}

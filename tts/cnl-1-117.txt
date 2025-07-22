@@ -1,0 +1,115 @@
+abduction {{pause:5000}}
+arson {{pause:5000}}
+assault {{pause:5000}}
+burglary {{pause:5000}}
+child abuse {{pause:5000}}
+drug trafficking {{pause:5000}}
+fraud {{pause:5000}}
+hacking {{pause:5000}}
+hijacking {{pause:5000}}
+human trafficking {{pause:5000}}
+kidnapping {{pause:5000}}
+manslaughter {{pause:5000}}
+murder {{pause:5000}}
+robbery {{pause:5000}}
+shoplifting {{pause:5000}}
+smuggling {{pause:5000}}
+terrorism {{pause:5000}}
+vandalism {{pause:5000}}
+white‑collar crime {{pause:5000}}
+pickpocketing {{pause:5000}}
+traffic offence {{pause:5000}}
+jaywalking {{pause:5000}}
+speeding {{pause:5000}}
+criminal {{pause:5000}}
+murderer {{pause:5000}}
+thief {{pause:5000}}
+robber {{pause:5000}}
+shoplifter {{pause:5000}}
+burglar {{pause:5000}}
+mugger {{pause:5000}}
+hijacker {{pause:5000}}
+kidnapper {{pause:5000}}
+terrorist {{pause:5000}}
+vandal {{pause:5000}}
+suspect {{pause:5000}}
+defendant {{pause:5000}}
+perpetrator {{pause:5000}}
+eyewitness {{pause:5000}}
+victim {{pause:5000}}
+accomplice {{pause:5000}}
+juvenile delinquent {{pause:5000}}
+arrest {{pause:5000}}
+charge {{pause:5000}}
+trial {{pause:5000}}
+court {{pause:5000}}
+judge {{pause:5000}}
+jury {{pause:5000}}
+verdict {{pause:5000}}
+guilty {{pause:5000}}
+innocent {{pause:5000}}
+evidence {{pause:5000}}
+testimony {{pause:5000}}
+prosecution {{pause:5000}}
+defense {{pause:5000}}
+convict {{pause:5000}}
+conviction {{pause:5000}}
+sentence {{pause:5000}}
+fine {{pause:5000}}
+imprisonment {{pause:5000}}
+life imprisonment {{pause:5000}}
+parole {{pause:5000}}
+probation {{pause:5000}}
+suspended sentence {{pause:5000}}
+confiscation {{pause:5000}}
+community service {{pause:5000}}
+house arrest {{pause:5000}}
+death penalty {{pause:5000}}
+capital punishment {{pause:5000}}
+punishment {{pause:5000}}
+rehabilitation {{pause:5000}}
+deterrent {{pause:5000}}
+recidivism / re‑offending {{pause:5000}}
+prevention {{pause:5000}}
+law enforcement {{pause:5000}}
+police {{pause:5000}}
+armed police {{pause:5000}}
+customs {{pause:5000}}
+border control {{pause:5000}}
+legislation {{pause:5000}}
+regulation {{pause:5000}}
+legalize {{pause:5000}}
+illegally {{pause:5000}}
+rights {{pause:5000}}
+human rights {{pause:5000}}
+civil liberties {{pause:5000}}
+justice {{pause:5000}}
+rule of law {{pause:5000}}
+due process {{pause:5000}}
+judicial independence {{pause:5000}}
+corruption {{pause:5000}}
+bribery {{pause:5000}}
+blackmail {{pause:5000}}
+extortion {{pause:5000}}
+tax evasion {{pause:5000}}
+embezzlement {{pause:5000}}
+identity theft {{pause:5000}}
+cybercrime {{pause:5000}}
+computer virus {{pause:5000}}
+hacker {{pause:5000}}
+scam {{pause:5000}}
+fraudulent {{pause:5000}}
+penalty {{pause:5000}}
+commit a crime {{pause:5000}}
+break the law {{pause:5000}}
+get away with murder {{pause:5000}}
+long arm of the law {{pause:5000}}
+daylight robbery {{pause:5000}}
+soft on crime {{pause:5000}}
+law-abiding {{pause:5000}}
+under suspicion {{pause:5000}}
+plead guilty {{pause:5000}}
+plead innocent {{pause:5000}}
+press charges {{pause:5000}}
+take into custody {{pause:5000}}
+bring to justice {{pause:5000}}

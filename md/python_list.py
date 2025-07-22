@@ -410,4 +410,161 @@ words = ["fauna", "sewage", "litter", "smog", "hazardous materials", "carbon dio
     "industrialization", "stormwater management", "green infrastructure", "urban green space"
 ]
 
+# goverment and polilics 词汇 1-109
+words = [
+  # 政府结构与制度
+  "government", "administration", "cabinet", "executive", "legislature", "legislation",
+  "parliament", "constitution", "judiciary", "bureaucracy", "policy", "reform", "regulation",
+  "constitutionality", "federal", "unitary state", "devolution", "autonomy", "sovereignty",
+  "democracy", "republic", "monarchy",
+
+  # 选举与选区
+  "election", "ballot", "referendum", "campaign", "manifesto", "majority", "incumbent",
+  "constituency", "mandate", "suffrage", "electoral system", "psephology", "caucus", "voting turnout",
+
+  # 政治派别与意识形态
+  "political ideology", "left-wing", "right-wing", "bipartisan", "pluralism", "populism",
+  "authoritarianism", "totalitarianism", "autocracy", "oligarchy", "technocracy",
+  "democratic governance", "statism", "absolutism", "pluralistic society",
+
+  # 政治行为与社会影响
+  "political participation", "public opinion", "lobbying", "propaganda", "censorship",
+  "transparency", "accountability", "corruption", "red tape", "governance", "public policy",
+  "think-tank", "pressure group", "civil society", "political dissent",
+
+  # 国际关系与外交
+  "treaty", "sanction", "diplomat", "ambassador", "foreign policy", "geopolitics",
+  "international cooperation", "bilateral agreement", "multilateralism",
+
+  # 特殊政治过程与术语
+  "impeachment", "coup d'état", "junta", "regime", "authoritarian regime",
+  "electoral fraud", "legitimacy", "mandate", "succession planning",
+
+  # 政治主题扩展词汇
+  "demographic policy", "fiscal deficit", "subsidy", "budget", "public expenditure",
+  "welfare state", "social security", "pension scheme", "healthcare policy",
+  "education reform", "environmental legislation",
+
+  # 学术与高级表达
+  "policy implementation", "legislative reforms", "political sovereignty", "constitutionalism",
+  "democratic accountability", "political ideology", "government accountability",
+  "electoral systems design", "check and balance",
+
+  # 常见名词/形容词词汇
+  "incumbent", "opposition", "coalition government", "minority government",
+  "majority rule", "executive branch", "legislative branch", "judicial branch",
+  "separation of powers", "civil liberties", "human rights", "civil rights", "social justice"
+]
+# 听写17错词
+words = [
+    "civil liberties",    "civil society",    "corruption",    "electoral system",    "fiscal deficit",    "majority rule",
+    "policy implementation",    "suffrage",
+    "treaty", "embassy", "electoral fraud", "diplomatic negotiations", "judicial independence",
+    "unitary state", "civil service", "grassroots movement", "bureaucratic"
+]
+
+# 法律 1-117
+words = [
+  # 犯罪类型（重大/轻微）
+  "abduction", "arson", "assault", "burglary", "child abuse", "drug trafficking",
+  "fraud", "hacking", "hijacking", "human trafficking", "kidnapping", "manslaughter",
+  "murder", "robbery", "shoplifting", "smuggling", "terrorism", "vandalism",
+  "white‑collar crime", "pickpocketing", "traffic offence", "jaywalking", "speeding",
+
+  # 犯罪者与相关人物
+  "criminal", "murderer", "thief", "robber", "shoplifter", "burglar", "mugger",
+  "hijacker", "kidnapper", "terrorist", "vandal", "suspect", "defendant", "perpetrator",
+  "eyewitness", "victim", "accomplice", "juvenile delinquent",
+
+  # 法律程序与参与者
+  "arrest", "charge", "trial", "court", "judge", "jury", "verdict", "guilty", "innocent",
+  "evidence", "testimony", "prosecution", "defense", "convict", "conviction", "sentence",
+  "fine", "imprisonment", "life imprisonment", "parole", "probation", "suspended sentence",
+  "confiscation", "community service", "house arrest", "death penalty", "capital punishment",
+
+  # 处罚与防范
+  "punishment", "rehabilitation", "deterrent", "recidivism / re‑offending", "prevention",
+  "law enforcement", "police", "armed police", "customs", "border control",
+
+  # 法律与政策
+  "legislation", "regulation", "legalize", "illegally", "rights", "human rights",
+  "civil liberties", "justice", "rule of law", "due process", "judicial independence",
+  "corruption", "bribery", "blackmail", "extortion", "white‑collar crime", "tax evasion",
+  "embezzlement", "identity theft", "cybercrime", "computer virus", "hacker", "scam", "fraudulent",
+  "fine", "penalty",
+
+  # 常用表达 & 词组
+  "commit a crime", "break the law", "get away with murder", "long arm of the law",
+  "daylight robbery", "soft on crime", "law-abiding", "under suspicion", "plead guilty",
+  "plead innocent", "press charges", "take into custody", "bring to justice"
+]
+# 18重点词
+words = [
+    "abduction", "assault", "smuggling", "vandalism", "traffic offence", "vandal",
+    "defendant", "perpetrator", "victim", "accomplice", "jury", "testimony",
+    "illegally", "bribery", "blackmail", "extortion", "law-abiding", "under suspicion"
+]
+
+# 文化旅游 词汇 107
+words = [
+  # 旅游与旅行
+  "accommodation", "all-inclusive", "hostel", "boutique hotel", "resort",
+  "homestay", "bed and breakfast", "cruise", "itinerary", "sightseeing",
+  "package tour", "backpacker", "eco-tourism", "overtourism", "tourist hotspot",
+  "heritage site", "tourist attraction", "destination branding", "local cuisine",
+  "culture shock", "language barrier", "guided tour", "excursion", "transportation",
+  "jet lag", "layover", "overbooked", "visa", "passport control", "customs",
+  "airport shuttle", "rail pass", "high-speed train", "ferry", "charter bus",
+  "cruise liner",
+
+  # 文化与体验
+  "cultural exchange", "cultural enrichment", "folklore", "heritage", "tradition",
+  "festivals", "cultural immersion", "interactions with locals", "handicrafts",
+  "cultural appreciation", "cultural preservation", "cultural commodification",
+  "community-based tourism", "social cohesion", "cultural festivals", "history",
+  "historical landmarks", "multicultural society", "cross-cultural influence", "authentic experience",
+
+  # 娱乐与媒体
+  "entertainment", "mainstream media", "streaming platform", "live performance",
+  "box office hit", "mass appeal", "niche audience", "audience engagement",
+  "visual spectacle", "narrative structure", "intellectual stimulation", "cinematic innovation",
+  "escapism", "book and films", "nightlife", "documentary", "concert", "festival", "exhibition",
+
+  # 可持续与影响
+  "sustainable tourism", "responsible travel", "carbon footprint", "conservation awareness",
+  "environmental impact", "infrastructure development", "tourism revenue", "economic opportunities",
+  "employment opportunities", "socioeconomic impact", "overcrowding", "local community",
+  "infrastructure", "tourism infrastructure", "social cohesion", "economic growth",
+
+  # 旅行行为与动词
+  "traveller", "tourist", "visit", "book", "reserve", "explore", "experience",
+  "sample", "participate in", "visit a site", "take a tour", "stay", "relax",
+  "discover", "blending in", "capture memories"
+]
+
+# 音乐、艺术和运动 96词
+words = [
+  # Sports
+  "exercise", "sportsmanship", "cricket", "basketball", "soccer", "rugby",
+  "swimming", "tennis", "badminton", "squash", "javelin", "discus",
+  "high jump", "cycling", "canoeing", "kayaking", "mountain biking",
+  "rafting", "surfing", "windsurfing", "paragliding", "skydiving",
+  "bungee jumping", "hang-gliding", "abseiling", "snowboarding", "jet-skiing",
+  "bodyboarding", "jogging", "weightlifting", "aerobics", "archery",
+  "fencing", "rowing", "netball", "marathon", "powerlifting", "gymnastics",
+  # Music
+  "musical instrument", "genre", "lyrics", "melody", "harmony", "concert",
+  "live performance", "orchestra", "rhythm", "solo", "composer", "acoustic quality",
+  "musical arrangement", "rhythmic complexity", "auditory perception", "emotional resonance",
+  "tune", "symphony", "band", "vocal", "composition", "rehearsal", "backstage",
+  "mainstream music", "classical music", "folk music", "audience", "performance",
+  # Arts
+  "art", "culture", "masterpiece", "exhibit", "gallery", "sculpture", "portrait",
+  "landscape", "abstract", "canvas", "sketch", "texture", "motif", "aesthetic",
+  "art appreciation", "artefact", "visual art", "fine arts", "literary art",
+  "performance art", "choreograph", "dance", "drama", "crafts", "mural", "venue",
+  "inspiration", "expression", "drama performance", "scenic design"
+]
+
+
 print("Total words:", len(words))

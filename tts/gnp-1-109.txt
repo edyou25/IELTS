@@ -1,0 +1,109 @@
+government {{pause:5000}}
+parliament {{pause:5000}}
+legislation {{pause:5000}}
+constitution {{pause:5000}}
+democracy {{pause:5000}}
+democratic {{pause:5000}}
+dictatorship {{pause:5000}}
+bureaucracy {{pause:5000}}
+policy {{pause:5000}}
+public policy {{pause:5000}}
+governance {{pause:5000}}
+transparency {{pause:5000}}
+accountability {{pause:5000}}
+corruption {{pause:5000}}
+sovereignty {{pause:5000}}
+authority {{pause:5000}}
+executive {{pause:5000}}
+legislature {{pause:5000}}
+judiciary {{pause:5000}}
+reform {{pause:5000}}
+cabinet {{pause:5000}}
+administration {{pause:5000}}
+referendum {{pause:5000}}
+election {{pause:5000}}
+campaign {{pause:5000}}
+voting turnout {{pause:5000}}
+constituency {{pause:5000}}
+suffrage {{pause:5000}}
+mandate {{pause:5000}}
+incumbent {{pause:5000}}
+opposition {{pause:5000}}
+coalition government {{pause:5000}}
+minority government {{pause:5000}}
+majority rule {{pause:5000}}
+electoral system {{pause:5000}}
+campaign finance {{pause:5000}}
+polling {{pause:5000}}
+policy implementation {{pause:5000}}
+legislative reforms {{pause:5000}}
+public expenditure {{pause:5000}}
+budget {{pause:5000}}
+subsidy {{pause:5000}}
+fiscal deficit {{pause:5000}}
+public service {{pause:5000}}
+civil liberties {{pause:5000}}
+human rights {{pause:5000}}
+censorship {{pause:5000}}
+propaganda {{pause:5000}}
+lobbying {{pause:5000}}
+pressure group {{pause:5000}}
+civil society {{pause:5000}}
+political participation {{pause:5000}}
+public opinion {{pause:5000}}
+demographic policy {{pause:5000}}
+international cooperation {{pause:5000}}
+treaty {{pause:5000}}
+sanction {{pause:5000}}
+diplomat {{pause:5000}}
+embassy {{pause:5000}}
+foreign policy {{pause:5000}}
+geopolitics {{pause:5000}}
+multilateralism {{pause:5000}}
+bilateral relations {{pause:5000}}
+global governance {{pause:5000}}
+peacekeeping {{pause:5000}}
+humanitarian aid {{pause:5000}}
+hard power {{pause:5000}}
+soft power {{pause:5000}}
+immigration policy {{pause:5000}}
+refugee crisis {{pause:5000}}
+terrorism {{pause:5000}}
+arms control {{pause:5000}}
+nuclear proliferation {{pause:5000}}
+electoral fraud {{pause:5000}}
+political polarization {{pause:5000}}
+diplomatic negotiations {{pause:5000}}
+separation of powers {{pause:5000}}
+rule of law {{pause:5000}}
+judicial independence {{pause:5000}}
+public trust {{pause:5000}}
+political ideology {{pause:5000}}
+pluralism {{pause:5000}}
+authoritarianism {{pause:5000}}
+totalitarianism {{pause:5000}}
+federalism {{pause:5000}}
+unitary state {{pause:5000}}
+monarchy {{pause:5000}}
+republic {{pause:5000}}
+autocracy {{pause:5000}}
+devolution {{pause:5000}}
+federal structure {{pause:5000}}
+democratic governance {{pause:5000}}
+policy analysis {{pause:5000}}
+civil service {{pause:5000}}
+government accountability {{pause:5000}}
+legitimacy {{pause:5000}}
+transitional justice {{pause:5000}}
+succession planning {{pause:5000}}
+electoral reform {{pause:5000}}
+civic engagement {{pause:5000}}
+public awareness {{pause:5000}}
+grassroots movement {{pause:5000}}
+spin doctor {{pause:5000}}
+veto {{pause:5000}}
+lame-duck {{pause:5000}}
+rhetoric {{pause:5000}}
+bureaucratic {{pause:5000}}
+alliance {{pause:5000}}
+trade agreement {{pause:5000}}

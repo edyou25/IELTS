@@ -1,0 +1,106 @@
+accommodation {{pause:5000}}
+all-inclusive {{pause:5000}}
+hostel {{pause:5000}}
+boutique hotel {{pause:5000}}
+resort {{pause:5000}}
+homestay {{pause:5000}}
+bed and breakfast {{pause:5000}}
+cruise {{pause:5000}}
+itinerary {{pause:5000}}
+sightseeing {{pause:5000}}
+package tour {{pause:5000}}
+backpacker {{pause:5000}}
+eco-tourism {{pause:5000}}
+overtourism {{pause:5000}}
+tourist hotspot {{pause:5000}}
+heritage site {{pause:5000}}
+tourist attraction {{pause:5000}}
+destination branding {{pause:5000}}
+local cuisine {{pause:5000}}
+culture shock {{pause:5000}}
+language barrier {{pause:5000}}
+guided tour {{pause:5000}}
+excursion {{pause:5000}}
+transportation {{pause:5000}}
+jet lag {{pause:5000}}
+layover {{pause:5000}}
+overbooked {{pause:5000}}
+visa {{pause:5000}}
+passport control {{pause:5000}}
+customs {{pause:5000}}
+airport shuttle {{pause:5000}}
+rail pass {{pause:5000}}
+high-speed train {{pause:5000}}
+ferry {{pause:5000}}
+charter bus {{pause:5000}}
+cruise liner {{pause:5000}}
+cultural exchange {{pause:5000}}
+cultural enrichment {{pause:5000}}
+folklore {{pause:5000}}
+heritage {{pause:5000}}
+tradition {{pause:5000}}
+festivals {{pause:5000}}
+cultural immersion {{pause:5000}}
+interactions with locals {{pause:5000}}
+handicrafts {{pause:5000}}
+cultural appreciation {{pause:5000}}
+cultural preservation {{pause:5000}}
+cultural commodification {{pause:5000}}
+community-based tourism {{pause:5000}}
+social cohesion {{pause:5000}}
+cultural festivals {{pause:5000}}
+history {{pause:5000}}
+historical landmarks {{pause:5000}}
+multicultural society {{pause:5000}}
+cross-cultural influence {{pause:5000}}
+authentic experience {{pause:5000}}
+entertainment {{pause:5000}}
+mainstream media {{pause:5000}}
+streaming platform {{pause:5000}}
+live performance {{pause:5000}}
+box office hit {{pause:5000}}
+mass appeal {{pause:5000}}
+niche audience {{pause:5000}}
+audience engagement {{pause:5000}}
+visual spectacle {{pause:5000}}
+narrative structure {{pause:5000}}
+intellectual stimulation {{pause:5000}}
+cinematic innovation {{pause:5000}}
+escapism {{pause:5000}}
+book and films {{pause:5000}}
+nightlife {{pause:5000}}
+documentary {{pause:5000}}
+concert {{pause:5000}}
+festival {{pause:5000}}
+exhibition {{pause:5000}}
+sustainable tourism {{pause:5000}}
+responsible travel {{pause:5000}}
+carbon footprint {{pause:5000}}
+conservation awareness {{pause:5000}}
+environmental impact {{pause:5000}}
+infrastructure development {{pause:5000}}
+tourism revenue {{pause:5000}}
+economic opportunities {{pause:5000}}
+employment opportunities {{pause:5000}}
+socioeconomic impact {{pause:5000}}
+overcrowding {{pause:5000}}
+local community {{pause:5000}}
+infrastructure {{pause:5000}}
+tourism infrastructure {{pause:5000}}
+economic growth {{pause:5000}}
+traveller {{pause:5000}}
+tourist {{pause:5000}}
+visit {{pause:5000}}
+book {{pause:5000}}
+reserve {{pause:5000}}
+explore {{pause:5000}}
+experience {{pause:5000}}
+sample {{pause:5000}}
+participate in {{pause:5000}}
+visit a site {{pause:5000}}
+take a tour {{pause:5000}}
+stay {{pause:5000}}
+relax {{pause:5000}}
+discover {{pause:5000}}
+blending in {{pause:5000}}
+capture memories {{pause:5000}}

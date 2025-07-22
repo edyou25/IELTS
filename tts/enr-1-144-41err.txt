@@ -1,0 +1,41 @@
+fauna {{pause:5000}}
+sewage {{pause:5000}}
+litter {{pause:5000}}
+smog {{pause:5000}}
+hazardous materials {{pause:5000}}
+carbon dioxide {{pause:5000}}
+flood {{pause:5000}}
+heatwave {{pause:5000}}
+melting ice caps {{pause:5000}}
+natural resources {{pause:5000}}
+non-renewable resources {{pause:5000}}
+natural gas {{pause:5000}}
+wind energy {{pause:5000}}
+renewable energy {{pause:5000}}
+protect {{pause:5000}}
+nature conservation {{pause:5000}}
+afforestation {{pause:5000}}
+habitat restoration {{pause:5000}}
+eco-friendly {{pause:5000}}
+biodegradable {{pause:5000}}
+compost {{pause:5000}}
+circular economy {{pause:5000}}
+zero waste {{pause:5000}}
+dispose of {{pause:5000}}
+emit {{pause:5000}}
+reduce emissions {{pause:5000}}
+legislation {{pause:5000}}
+pressure group {{pause:5000}}
+non-governmental organization {{pause:5000}}
+NGO {{pause:5000}}
+Paris Agreement {{pause:5000}}
+environmental ethics {{pause:5000}}
+carbon neutrality {{pause:5000}}
+environmental degradation {{pause:5000}}
+water scarcity {{pause:5000}}
+desertification {{pause:5000}}
+coral reef {{pause:5000}}
+industrialization {{pause:5000}}
+stormwater management {{pause:5000}}
+green infrastructure {{pause:5000}}
+urban green space {{pause:5000}}
