@@ -39,7 +39,7 @@ def extract_comments_from_html(file_path):
         print(f"{i}. {comment}")
     
     # Save to output file
-    with open(os.path.join(current_dir + "//md", "red_note_comments.md"), "w", encoding="utf-8") as f:
+    with open(os.path.join(current_dir + "//md", "red_note_comments2.md"), "w", encoding="utf-8") as f:
         for i, comment in enumerate(comments, 1):
             f.write(f"{i}. {comment}" + '\n')
     
