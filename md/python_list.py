@@ -566,5 +566,37 @@ words = [
   "inspiration", "expression", "drama performance", "scenic design"
 ]
 
+# wechat 词汇 1-205
+
+words = [
+"clash", "seige", "arrest", "resort", "desperate", "protest", "legislation",
+"unyielding", "scarce", "misconstruct", "amass", "leverage", "abuse", "staggering profit margin",
+"distinctive", "peninsula", "dismiss", "exploit", "procedure", "substance", "content", "merits",
+"intrinsic", "prospective", "portray", "diminish", "exert", "morphing into", "gleefully", "regime",
+"protagonist", "narrate", "disillusioned", "despise", "vague", "contradict", "dissent", "affair",
+"secluded", "propaganda", "eliminate", "rundown", "paranoia", "hatred", "daring", "pragmatic",
+"perpetual", "paradox", "grave", "attributed to", "quarrel", "devastate", "assessment", "compulsory",
+"rarely", "retractable", "open-air", "refurbished fitness suite", "entitle sb. to sth", "appealing",
+"drawing", "grant", "erosion", "expension", "emphasis", "vast", "crater", "pave", "elaborate",
+"passages", "pavillion", "relentless", "pavillions", "undergo", "restore", "silte", "depict",
+"stunning", "comprise", "revitalise", "all the less", "imperative", "prohibitively expensive",
+"emphasize", "surge", "persuasive", "delicate", "contractor", "rigorous", "harsh", "radical",
+"sanitation", "forge ahead", "prevalence", "mortality", "domastic", "apprentice", "monetary",
+"spontaneous", "suppress", "awe", "aspirations", "transaction", "clue", "halt", "livestock",
+"paradoxical", "respondents", "wet market", "dry market", "district", "subdivided flat",
+"discrimination", "big chains", "neat", "hardly a cause for concern", "strum the guitar", "accent",
+"sinister", "freelance", "pile up", "off the top of you head", "retreat", "deflection",
+"grossing franchise", "evoke", "douse", "a high note", "enlistment", "recruit", "annals of warfare",
+"distract", "subjective", "goes through", "controversial", "groan", "amicably", "sunbathing",
+"in a setting", "cricket", "peculiar", "colony", "ferry", "tram", "valley", "reputedly", "stumble upon",
+"gracious", "porcelain", "snag", "valuable", "leap into", "crack down", "seize", "cede", "duty-free shop",
+"communist", "grocery store", "segregation", "mortgage", "bun", "side-by-side", "slum", "aristocratic",
+"sip", "dissolve", "blend", "crop up", "sovereign", "freestyle/front crawl", "backstroke", "breaststroke",
+"butterfly", "bitter", "bitterness", "malicious", "be fed up with", "see glint of kindness in their eye",
+"elite", "secter", "outlier", "the tip of the iceberg", "preferable to", "eviction", "turmoil", "flee",
+"entrepreneurial", "textiles", "headquarter", "renowned", "asset", "commonplace", "inevitable",
+"capital flight", "hefty", "brew", "cram into", "be rigged", "be ladened with", "let alone", "collapse",
+"oligarch", "unprecedented", "tycoon", "dictate"
+]
 
 print("Total words:", len(words))

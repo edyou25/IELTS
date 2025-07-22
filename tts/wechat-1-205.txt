@@ -1,0 +1,205 @@
+clash {{pause:5000}}
+seige {{pause:5000}}
+arrest {{pause:5000}}
+resort {{pause:5000}}
+desperate {{pause:5000}}
+protest {{pause:5000}}
+legislation {{pause:5000}}
+unyielding {{pause:5000}}
+scarce {{pause:5000}}
+misconstruct {{pause:5000}}
+amass {{pause:5000}}
+leverage {{pause:5000}}
+abuse {{pause:5000}}
+staggering profit margin {{pause:5000}}
+distinctive {{pause:5000}}
+peninsula {{pause:5000}}
+dismiss {{pause:5000}}
+exploit {{pause:5000}}
+procedure {{pause:5000}}
+substance {{pause:5000}}
+content {{pause:5000}}
+merits {{pause:5000}}
+intrinsic {{pause:5000}}
+prospective {{pause:5000}}
+portray {{pause:5000}}
+diminish {{pause:5000}}
+exert {{pause:5000}}
+morphing into {{pause:5000}}
+gleefully {{pause:5000}}
+regime {{pause:5000}}
+protagonist {{pause:5000}}
+narrate {{pause:5000}}
+disillusioned {{pause:5000}}
+despise {{pause:5000}}
+vague {{pause:5000}}
+contradict {{pause:5000}}
+dissent {{pause:5000}}
+affair {{pause:5000}}
+secluded {{pause:5000}}
+propaganda {{pause:5000}}
+eliminate {{pause:5000}}
+rundown {{pause:5000}}
+paranoia {{pause:5000}}
+hatred {{pause:5000}}
+daring {{pause:5000}}
+pragmatic {{pause:5000}}
+perpetual {{pause:5000}}
+paradox {{pause:5000}}
+grave {{pause:5000}}
+attributed to {{pause:5000}}
+quarrel {{pause:5000}}
+devastate {{pause:5000}}
+assessment {{pause:5000}}
+compulsory {{pause:5000}}
+rarely {{pause:5000}}
+retractable {{pause:5000}}
+open-air {{pause:5000}}
+refurbished fitness suite {{pause:5000}}
+entitle sb. to sth {{pause:5000}}
+appealing {{pause:5000}}
+drawing {{pause:5000}}
+grant {{pause:5000}}
+erosion {{pause:5000}}
+expension {{pause:5000}}
+emphasis {{pause:5000}}
+vast {{pause:5000}}
+crater {{pause:5000}}
+pave {{pause:5000}}
+elaborate {{pause:5000}}
+passages {{pause:5000}}
+pavillion {{pause:5000}}
+relentless {{pause:5000}}
+pavillions {{pause:5000}}
+undergo {{pause:5000}}
+restore {{pause:5000}}
+silte {{pause:5000}}
+depict {{pause:5000}}
+stunning {{pause:5000}}
+comprise {{pause:5000}}
+revitalise {{pause:5000}}
+all the less {{pause:5000}}
+imperative {{pause:5000}}
+prohibitively expensive {{pause:5000}}
+emphasize {{pause:5000}}
+surge {{pause:5000}}
+persuasive {{pause:5000}}
+delicate {{pause:5000}}
+contractor {{pause:5000}}
+rigorous {{pause:5000}}
+harsh {{pause:5000}}
+radical {{pause:5000}}
+sanitation {{pause:5000}}
+forge ahead {{pause:5000}}
+prevalence {{pause:5000}}
+mortality {{pause:5000}}
+domastic {{pause:5000}}
+apprentice {{pause:5000}}
+monetary {{pause:5000}}
+spontaneous {{pause:5000}}
+suppress {{pause:5000}}
+awe {{pause:5000}}
+aspirations {{pause:5000}}
+transaction {{pause:5000}}
+clue {{pause:5000}}
+halt {{pause:5000}}
+livestock {{pause:5000}}
+paradoxical {{pause:5000}}
+respondents {{pause:5000}}
+wet market {{pause:5000}}
+dry market {{pause:5000}}
+district {{pause:5000}}
+subdivided flat {{pause:5000}}
+discrimination {{pause:5000}}
+big chains {{pause:5000}}
+neat {{pause:5000}}
+hardly a cause for concern {{pause:5000}}
+strum the guitar {{pause:5000}}
+accent {{pause:5000}}
+sinister {{pause:5000}}
+freelance {{pause:5000}}
+pile up {{pause:5000}}
+off the top of you head {{pause:5000}}
+retreat {{pause:5000}}
+deflection {{pause:5000}}
+grossing franchise {{pause:5000}}
+evoke {{pause:5000}}
+douse {{pause:5000}}
+a high note {{pause:5000}}
+enlistment {{pause:5000}}
+recruit {{pause:5000}}
+annals of warfare {{pause:5000}}
+distract {{pause:5000}}
+subjective {{pause:5000}}
+goes through {{pause:5000}}
+controversial {{pause:5000}}
+groan {{pause:5000}}
+amicably {{pause:5000}}
+sunbathing {{pause:5000}}
+in a setting {{pause:5000}}
+cricket {{pause:5000}}
+peculiar {{pause:5000}}
+colony {{pause:5000}}
+ferry {{pause:5000}}
+tram {{pause:5000}}
+valley {{pause:5000}}
+reputedly {{pause:5000}}
+stumble upon {{pause:5000}}
+gracious {{pause:5000}}
+porcelain {{pause:5000}}
+snag {{pause:5000}}
+valuable {{pause:5000}}
+leap into {{pause:5000}}
+crack down {{pause:5000}}
+seize {{pause:5000}}
+cede {{pause:5000}}
+duty-free shop {{pause:5000}}
+communist {{pause:5000}}
+grocery store {{pause:5000}}
+segregation {{pause:5000}}
+mortgage {{pause:5000}}
+bun {{pause:5000}}
+side-by-side {{pause:5000}}
+slum {{pause:5000}}
+aristocratic {{pause:5000}}
+sip {{pause:5000}}
+dissolve {{pause:5000}}
+blend {{pause:5000}}
+crop up {{pause:5000}}
+sovereign {{pause:5000}}
+freestyle/front crawl {{pause:5000}}
+backstroke {{pause:5000}}
+breaststroke {{pause:5000}}
+butterfly {{pause:5000}}
+bitter {{pause:5000}}
+bitterness {{pause:5000}}
+malicious {{pause:5000}}
+be fed up with {{pause:5000}}
+see glint of kindness in their eye {{pause:5000}}
+elite {{pause:5000}}
+secter {{pause:5000}}
+outlier {{pause:5000}}
+the tip of the iceberg {{pause:5000}}
+preferable to {{pause:5000}}
+eviction {{pause:5000}}
+turmoil {{pause:5000}}
+flee {{pause:5000}}
+entrepreneurial {{pause:5000}}
+textiles {{pause:5000}}
+headquarter {{pause:5000}}
+renowned {{pause:5000}}
+asset {{pause:5000}}
+commonplace {{pause:5000}}
+inevitable {{pause:5000}}
+capital flight {{pause:5000}}
+hefty {{pause:5000}}
+brew {{pause:5000}}
+cram into {{pause:5000}}
+be rigged {{pause:5000}}
+be ladened with {{pause:5000}}
+let alone {{pause:5000}}
+collapse {{pause:5000}}
+oligarch {{pause:5000}}
+unprecedented {{pause:5000}}
+tycoon {{pause:5000}}
+dictate {{pause:5000}}

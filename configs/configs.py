@@ -1,4 +1,4 @@
-vocabulary_name = "smart-1-96"
+vocabulary_name = "wechat-1-205"
 
 cols = 3
 

@@ -1,271 +1,416 @@
-[1/109] 🔊 Please write the word/phrase you hear:
-government
-✅ Correct!
-📝 Chinese translation: 政府
-
-[2/109] 🔊 Please write the word/phrase you hear:
-parliament
-✅ Correct!
-📝 Chinese translation: 议会
-
-[3/109] 🔊 Please write the word/phrase you hear:
-legislation
-✅ Correct!
-📝 Chinese translation: 立法
-
-[4/109] 🔊 Please write the word/phrase you hear:
-constitution
-✅ Correct!
-📝 Chinese translation: 宪法
-
-[5/109] 🔊 Please write the word/phrase you hear:
-democracy
-✅ Correct!
-📝 Chinese translation: 民主
-
-[6/109] 🔊 Please write the word/phrase you hear:
-democratic
-✅ Correct!
-📝 Chinese translation: 民主
-
-[7/109] 🔊 Please write the word/phrase you hear:
-dictatorship
-✅ Correct!
-📝 Chinese translation: 专政
-
-[8/109] 🔊 Please write the word/phrase you hear:
-bureaucracy
-✅ Correct!
-📝 Chinese translation: 官僚
-
-[9/109] 🔊 Please write the word/phrase you hear:
-policy
-✅ Correct!
-📝 Chinese translation: 政策
-
-[10/109] 🔊 Please write the word/phrase you hear:
-public policy
-✅ Correct!
-📝 Chinese translation: 公共政策
-
-[11/109] 🔊 Please write the word/phrase you hear:
-governance
-✅ Correct!
-📝 Chinese translation: 治理
-
-[12/109] 🔊 Please write the word/phrase you hear:
-transparency
-✅ Correct!
-📝 Chinese translation: 透明度
-
-[13/109] 🔊 Please write the word/phrase you hear:
-accountability
-✅ Correct!
-📝 Chinese translation: 问责制
-
-[14/109] 🔊 Please write the word/phrase you hear:
-cruption
-❌ Incorrect, should be: corruption
-📝 Chinese translation: 腐败
-
-[15/109] 🔊 Please write the word/phrase you hear:
-sovereignty
-✅ Correct!
-📝 Chinese translation: 主权
-
-[16/109] 🔊 Please write the word/phrase you hear:
-authority
-✅ Correct!
-📝 Chinese translation: 权威
-
-[17/109] 🔊 Please write the word/phrase you hear:
-executive
-✅ Correct!
-📝 Chinese translation: 管理人员
-
-[18/109] 🔊 Please write the word/phrase you hear:
-legislature
-✅ Correct!
-📝 Chinese translation: 立法机关
-
-[19/109] 🔊 Please write the word/phrase you hear:
-judiciary
-✅ Correct!
-Unable to get translation: 
-
-[20/109] 🔊 Please write the word/phrase you hear:
-reform 
-✅ Correct!
-📝 Chinese translation: 改革
-
-[21/109] 🔊 Please write the word/phrase you hear:
-cabinet
-✅ Correct!
-📝 Chinese translation: 内阁
-
-[22/109] 🔊 Please write the word/phrase you hear:
-administration
-✅ Correct!
-📝 Chinese translation: 行政
-
-[23/109] 🔊 Please write the word/phrase you hear:
-referendum
-✅ Correct!
-📝 Chinese translation: 全民公决
-
-[24/109] 🔊 Please write the word/phrase you hear:
-election
-✅ Correct!
-📝 Chinese translation: 选举
-
-[25/109] 🔊 Please write the word/phrase you hear:
-campaign
-✅ Correct!
-📝 Chinese translation: 活动
-
-[26/109] 🔊 Please write the word/phrase you hear:
-voting turnout
-✅ Correct!
-📝 Chinese translation: 投票投票
-
-[27/109] 🔊 Please write the word/phrase you hear:
-constituency
-✅ Correct!
-📝 Chinese translation: 选区
-
-[28/109] 🔊 Please write the word/phrase you hear:
-suferage
-❌ Incorrect, should be: suffrage
-📝 Chinese translation: 选举权
-
-[29/109] 🔊 Please write the word/phrase you hear:
-mandate
-✅ Correct!
-📝 Chinese translation: 授权
-
-[30/109] 🔊 Please write the word/phrase you hear:
-incumbent
-✅ Correct!
-📝 Chinese translation: 现任
-
-[31/109] 🔊 Please write the word/phrase you hear:
-opposition
-✅ Correct!
-📝 Chinese translation: 反对
-
-[32/109] 🔊 Please write the word/phrase you hear:
-coalition government
-✅ Correct!
-📝 Chinese translation: 联合政府
-
-[33/109] 🔊 Please write the word/phrase you hear:
-minority government
-✅ Correct!
-📝 Chinese translation: 少数派政府
-
-[34/109] 🔊 Please write the word/phrase you hear:
-majoraty tule
-❌ Incorrect, should be: majority rule
-📝 Chinese translation: 多数规则
-
-[35/109] 🔊 Please write the word/phrase you hear:
-electral system
-❌ Incorrect, should be: electoral system
-📝 Chinese translation: 选举制度
-
-[36/109] 🔊 Please write the word/phrase you hear:
-campaign finance
-✅ Correct!
-📝 Chinese translation: 竞选财务
-
-[37/109] 🔊 Please write the word/phrase you hear:
-polling
-✅ Correct!
-📝 Chinese translation: 轮询
-
-[38/109] 🔊 Please write the word/phrase you hear:
-policy implementaion
-❌ Incorrect, should be: policy implementation
-📝 Chinese translation: 政策实施
-
-[39/109] 🔊 Please write the word/phrase you hear:
-legislative reforms
-✅ Correct!
-📝 Chinese translation: 立法改革
-
-[40/109] 🔊 Please write the word/phrase you hear:
-public expenditure
-✅ Correct!
-📝 Chinese translation: 公共支出
-
-[41/109] 🔊 Please write the word/phrase you hear:
-budget
-✅ Correct!
-📝 Chinese translation: 预算
-
-[42/109] 🔊 Please write the word/phrase you hear:
-subsidy
-✅ Correct!
-📝 Chinese translation: 补贴
-
-[43/109] 🔊 Please write the word/phrase you hear:
-physical deficit
-❌ Incorrect, should be: fiscal deficit
-📝 Chinese translation: 财政赤字
-
-[44/109] 🔊 Please write the word/phrase you hear:
-public service
-✅ Correct!
-📝 Chinese translation: 公共服务
-
-[45/109] 🔊 Please write the word/phrase you hear:
-cival liberties
-❌ Incorrect, should be: civil liberties
-📝 Chinese translation: 民权
-
-[46/109] 🔊 Please write the word/phrase you hear:
-human rights
-✅ Correct!
-📝 Chinese translation: 人权
-
-[47/109] 🔊 Please write the word/phrase you hear:
-censorship
-✅ Correct!
-📝 Chinese translation: 审查制度
-
-[48/109] 🔊 Please write the word/phrase you hear:
-propaganda
-✅ Correct!
-📝 Chinese translation: 宣传
-
-[49/109] 🔊 Please write the word/phrase you hear:
-lobbying
-✅ Correct!
-📝 Chinese translation: 游说
-
-[50/109] 🔊 Please write the word/phrase you hear:
-pressure group
-✅ Correct!
-📝 Chinese translation: 压力组
-
-[51/109] 🔊 Please write the word/phrase you hear:
-cival society
-❌ Incorrect, should be: civil society
-📝 Chinese translation: 民间社会
-
-[52/109] 🔊 Please write the word/phrase you hear:
-political participation
-✅ Correct!
-📝 Chinese translation: 政治参与
-
-[53/109] 🔊 Please write the word/phrase you hear:
-public opinion
-✅ Correct!
-📝 Chinese translation: 舆论
-
-[54/109] 🔊 Please write the word/phrase you hear:
-demographic policy
-✅ Correct!
-📝 Chinese translation: 人口政策
-
-[55/109] 🔊 Please write the word/phrase you hear:
+西伯利亚狂想曲
+clash 冲突
+西伯利亚狂想曲
+seige 包围，围攻
+西伯利亚狂想曲
+arrest 逮捕
+西伯利亚狂想曲
+resort 求助
+西伯利亚狂想曲
+desperate 绝望的
+西伯利亚狂想曲
+Protest 抗议
+西伯利亚狂想曲
+legislation 立法
+林木森
+Unyielding 不屈服的
+林木森
+Scarce 罕见的
+林木森
+misconstruct 误解
+西伯利亚狂想曲
+amass 积累
+西伯利亚狂想曲
+leverage 杠杆作用，影响力
+西伯利亚狂想曲
+abuse 滥用
+西伯利亚狂想曲
+staggering profit margin 惊人的利润率
+西伯利亚狂想曲
+distinctive 独一无二的，独特的
+西伯利亚狂想曲
+Peninsula 半岛
+西伯利亚狂想曲
+dismiss 解雇，放弃，不予考虑
+西伯利亚狂想曲
+exploit 利用，开发
+西伯利亚狂想曲
+procedure 程序
+西伯利亚狂想曲
+substance 物质
+西伯利亚狂想曲
+content 构成，目录
+西伯利亚狂想曲
+merits 有优点
+西伯利亚狂想曲
+intrinsic 内在的
+西伯利亚狂想曲
+prospective 潜在的，未来的
+西伯利亚狂想曲
+portray 描绘
+西伯利亚狂想曲
+diminish 减少，贬低，削弱
+腖盘西伯利亚狂想曲
+exert 发挥
+西伯利亚狂想曲
+morphing into 变形
+西伯利亚狂想曲
+gleefully 高兴地
+縲差頁Ç亁蜛伯利亚狂想曲
+regime 政权
+西伯利亚狂想曲
+protagonist 主角
+西伯利亚狂想曲
+narrate 叙述
+西伯利亚狂想曲
+disillusioned 极度失望的
+西伯利亚狂想曲
+despise
+西伯利亚狂想曲
+vague 模糊的
+西伯利亚狂想曲
+contradict 矛盾
+西伯利亚狂想曲
+dissent 异议
+西伯利亚狂想曲
+affair 情事
+西伯利亚狂想曲
+secluded 偏僻的
+西伯利亚狂想曲
+propaganda 宣传
+西伯利亚狂想曲
+eliminate 消灭
+西伯利亚狂想曲
+rundown 破旧的
+西伯利亚狂想曲
+paranoia 偏执
+西伯利亚狂想曲
+hatred 憎恨
+西伯利亚狂想曲
+daring 大胆的
+西伯利亚狂想曲
+pragmatic 务实的
+西伯利亚狂想曲
+perpetual 永久的
+西伯利亚狂想曲
+paradox 悖论
+西伯利亚狂想曲
+grave 重大的，坟墓
+西伯利亚狂想曲
+attributed to 归因与
+西伯利亚狂想由
+quarrel争沙
+西伯利亚狂想曲
+devastate 重创、
+西伯利亚狂想曲
+assessment 评估
+西伯利亚狂想曲
+compulsory 强制性的
+西伯利亚狂想曲
+rarely 很少
+西伯利亚狂想曲
+retractable 可伸缩的
+西伯利亚狂想曲
+open-air 露天的
+西伯利亚狂想曲
+refurbished fitness suite 翻新的健身套房
+西伯利亚狂想曲
+entitle sb. to sth 赋予 sb. sth.的权力
+西伯利亚狂想曲
+appealing 有吸引力 的
+西伯利亚狂想曲
+drawing 图纸
+馎西伯利亚狂想曲
+grant 授权，奖金，拨款
+西伯利亚狂想曲
+erosion 侵蚀
+西伯利亚狂想曲
+expension 扩张
+西伯利亚狂想曲
+emphasis 强调
+西伯利亚狂想曲
+vast 广阔的
+西伯利亚狂想曲
+crater 坑
+西伯利亚狂想曲
+pave 铺设
+西伯利亚狂想曲
+elaborate 精心制作的
+西伯利亚狂想曲
+passages 段落
+西伯利亚狂想曲
+pavillion 亭子
+西伯利亚狂想曲
+relentless 不屈不挠的
+西伯利亚狂想曲
+pavillions 亭子
+西伯利亚狂想曲
+undergo 经过
+西伯利亚狂想曲
+restore 修复
+西伯利亚狂想曲
+silte 淤塞
+西伯利亚狂想曲
+depict 描绘
+西伯利亚狂想曲
+stunning 令人惊叹的
+西伯利亚狂想曲
+comprise 包括
+西伯利亚狂想曲
+revitalise 振兴
+五伯利亚狂想曲
+all the less 更何况
+西伯利亚狂想曲
+imperative 至关重要的
+西伯利亚狂想曲
+prohibitively expensive 望而却步的贵
+西伯利亚狂想曲
+emphasize 强调
+西伯利亚狂想曲
+surge 骤增
+西伯利亚狂想曲
+persuasive 有说服力的
+西伯利亚狂想曲
+delicate 精美的
+西伯利亚狂想曲
+contractor承包商
+西伯利亚狂想曲
+rigorous 严格的
+西伯利亚狂想曲
+harsh 严酷的
+西伯利亚狂想曲
+radical 激进的
+西伯利亚狂想曲
+sanitation 卫生
+西伯利亚狂想曲
+forge ahead 奋进
+西伯利亚狂想曲
+prevalence 盛行
+西伯利亚狂想曲
+mortality 死亡率
+西伯利亚狂想曲
+domastic 国内的，家庭的
+西伯利亚狂想曲
+apprentice 学徒
+西伯利亚狂想曲
+monetary 金钱的
+西伯利亚狂想曲
+spontaneous 自发的
+西伯利亚狂想曲
+suppress 压制
+西伯利亚狂想曲
+awe 敬畏
+西伯利亚狂想曲
+aspirations 愿望
+西伯利亚狂想曲
+transaction交易
+西伯利亚狂想曲
+clue 线索
+西伯利亚狂想曲
+halt 停止
+西伯利亚狂想曲
+livestock 牲囗
+西伯利亚狂想曲
+paradoxical 矛盾的
+西伯利亚狂想曲
+contradict 矛盾的
+西伯利亚狂想曲
+Respondents 受访者
+西伯利亚狂想曲
+wet market 传统市场(肉，鱼，农产品等)
+西伯利亚狂想曲
+dry market 干货市场(织物，厨具和电子产品等)
+西伯利亚狂想曲
+district
+西伯利亚狂想曲
+Subdivided flat 隔断房(房)
+西伯利亚狂想曲
+Discrimination 歧视
+西伯利亚狂想曲
+big chains 连锁店
+西伯利亚狂想曲
+neat 整洁的
+西伯利亚狂想曲
+hardly a cause for concern 几乎不用担心
+西伯利亚狂想曲
+strum the guitar 弹吉他
+西伯利亚狂想曲
+Accent □音
+西伯利亚狂想曲
+sinister险恶的
+西伯利亚狂想曲
+Freelance自由职业者
+西伯利亚狂想曲
+Pile up堆积
+西伯利亚狂想曲
+Narrate叙述
+西伯利亚狂想曲
+off the top of you head 脑海里出现的第一个
+西伯利亚狂想曲
+retreat 撤退，团建
+西伯利亚狂想曲
+deflection 偏移
+西伯利亚狂想曲
+grossing franchise 总票房
+西伯利亚狂想曲
+evoke 引起，唤起
+西伯利亚狂想曲
+douse 灭火
+西伯利亚狂想曲
+a high note 一个高音
+西伯利亚狂想曲
+enlistment 征军
+西伯利亚狂想曲
+recruit 招募
+西伯利亚狂想曲
+annals of warfare 战争史
+西伯利亚狂想曲
+distract 转移，使分心
+西伯利亚狂想曲
+subjective主观的
+西伯利亚狂想曲
+goes through 经历
+西伯利亚狂想曲
+controversial 有争议的
+西伯利亚狂想曲
+groan 呻吟
+西伯利亚狂想曲
+amicably有好地
+西伯利亚狂想曲
+sunbathing 日光浴
+西伯利亚狂想曲
+in a. setting 在一种...形形式/配置下
+西伯利亚狂想曲
+cricket 蟋蟀板球
+西伯利亚狂想曲
+peculiar 怪异的
+西伯利亚狂想曲
+colony 殖民地
+西伯利亚狂想曲
+ferry 渡轮
+西伯利亚狂想曲
+tram 有轨电车
+西伯利亚狂想曲
+valley 山谷
+西伯利亚狂想曲
+reputedly 据说
+西伯利亚狂想曲
+stumble upon 偶然遇到(直译是绊倒摔在..._上面)
+西伯利亚狂想曲
+gracious 优雅的
+西伯利亚狂想曲
+porcelain 瓷器
+西伯利亚狂想曲
+snag 麻烦，衣服的破洞
+西伯利亚狂想曲
+valuable 珍贵的
+西伯利亚狂想曲
+leap into 跃进
+西伯利亚狂想曲
+crack down 粉碎，严厉打击
+西伯利亚狂想曲
+seize 把握，抓捕，扣押
+西伯利亚狂想曲
+cede 割让
+西伯利亚狂想曲
+duty-free shop 免税店
+西伯利亚狂想曲
+communist 共产主义的
+西伯利亚狂想曲
+grocery store 杂货店
+西伯利亚狂想曲
+segregation 分割
+西伯利亚狂想曲
+mortgage 按揭贷款
+西伯利亚狂想曲
+bun 包子
+西伯利亚狂想曲
+side-by-side 各自
+西伯利亚狂想曲
+slum 贫民窟
+西伯利亚狂想曲
+aristocratic 贵族的
+西伯利亚狂想曲
+sip 小口饮用
+西伯利亚狂想曲
+dissolve 溶解
+西伯利亚狂想曲
+blend 混合
+西伯利亚狂想曲
+crop up 意外发生
+西伯利亚狂想曲
+sovereign 占据，统治u
+西伯利亚狂想曲
+Freestyle/Front Crawl 自由泳
+西伯利亚狂想曲
+Backstroke仰泳
+西伯利亚狂想曲
+Breaststroke 蛙泳
+西伯利亚狂想曲
+Butterfly 蝶泳
+西伯利亚狂想曲
+bitter 苦adj. bitterness苦n.
+西伯利亚狂想曲
+malicious 恶毒的
+西伯利亚狂想曲
+be fed up with 受够了
+西伯利亚狂想曲
+see glint of kindness in their eye 感受到善意
+西伯利亚狂想曲
+elite 上层人群
+西伯利亚狂想曲
+secter商业领域
+西伯利亚狂想由
+outlier 例外
+西伯利亚狂想曲
+the tip of the iceberg 冰山一角
+西伯利亚狂想曲
+preferable to 比.更好
+西伯利亚狂想曲
+eviction 驱逐
+西伯利亚狂想曲
+turmoil 骚动，混乱
+西伯利亚狂想曲
+flee 逃离，逃避
+西伯利亚狂想曲
+entrepreneurial 企业的
+西伯利亚狂想曲
+textiles 纺织业，纺织品
+西伯利亚狂想曲
+headquarter 总部
+西伯利亚狂想曲
+regime 政权
+西伯利亚狂想曲
+renowned 著名的
+西伯利亚狂想曲
+asset 财产
+西伯利亚狂想曲
+commonplace 常见的事
+西伯利亚狂想曲
+inevitable 不可避免的
+西伯利亚狂想曲
+capital flight 资本外逃
+西伯利亚狂想曲
+hefty 巨额的
+西伯利亚狂想曲
+brew 酝酿
+西伯利亚狂想曲
+scarce 缺乏的，不足的
+西伯利亚狂想曲
+cram into 挤进
+西伯利亚狂想曲
+be rigged 被操纵的
+西伯利亚狂想曲
+be ladened with 载满
+西伯利亚狂想曲
+let alone 更不必说
+西伯利亚狂想曲
+collapse 崩溃
+西伯利亚狂想曲
+oligarch 寡头
+西伯利亚狂想曲
+unprecedented 前所未有的
+西伯利亚狂想曲
+tycoon 大享
+西伯利亚狂想曲
+dictate 命令，决定
