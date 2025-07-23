@@ -26,3 +26,25 @@
 ---
 
 爷爷，背这三组四句话，写哪种题都能快速成文。如您需要，我也可以配套写一句话版的模板～
+
+## ✅ 一类：观点类 / 讨论类 / 利弊类（通用结构）
+
+Many people argue that [1].
+This essay will discuss both views and present my own opinion.
+I personally believe that [2].
+
+On the one hand, there are several reasons why [3] is beneficial.
+Firstly, [4], which means that [5].
+For instance, [6].
+Moreover, [7], leading to [8].
+Therefore, it is clear that [9] brings a number of advantages.
+
+On the other hand, some people believe that [10].
+They argue that [11], which may result in [12].
+For example, [13].
+Nevertheless, this perspective overlooks the fact that [14].
+As a result, the disadvantages of [15] may be exaggerated or context-dependent.
+
+In conclusion, while both sides have their arguments, I believe that [16].
+The advantages of [17] far outweigh the drawbacks in most cases.
+Thus, I support the view that [17].

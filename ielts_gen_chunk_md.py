@@ -27,7 +27,6 @@ def read_location_chunks(filename):
                 location = row[0]
                 # 将剩余的列作为 chunk_ids
                 chunk_ids = [int(x.strip()) for x in row[1:] if x.strip().isdigit()]
-                print(f"Location: {location}, Chunk IDs: {chunk_ids}")
                 loc_chunks[location] = chunk_ids
     return loc_chunks
 
@@ -68,23 +67,17 @@ def main():
     output_dir = os.path.join(output_dir, "chunks")
     os.makedirs(output_dir, exist_ok=True)
 
-    for idx, loc in enumerate(writing_order, start=1):
-        md_name = f"{idx}_{loc}.md"
-        md_path = os.path.join(output_dir, md_name)
+    md_name = f"chunks.md"
+    md_path = os.path.join(output_dir, md_name)
 
-        if loc not in loc_chunks:
-            print(f"Warning: {loc} not found in location_chunks.csv")
-            continue
 
-        chunk_ids = loc_chunks[loc]
-        md_lines = generate_md_lines(chunk_ids, chunks_dict)
+    chunk_ids = range(1, len(chunks_dict) + 1)  # Assuming chunk IDs are from 1 to 27
+    md_lines = generate_md_lines(chunk_ids, chunks_dict)
 
-        with open(md_path, "w", encoding="utf-8") as f:
-            f.write(f"### {loc}\n\n")
-            f.write("\n".join(md_lines))
-            f.write("\n")
-
-    print(f"共生成 {len(writing_order)} 个Markdown文件，保存在 {output_dir}")
+    with open(md_path, "w", encoding="utf-8") as f:
+        f.write(f"### chunks\n\n")
+        f.write("\n".join(md_lines))
+        f.write("\n")
 
 if __name__ == "__main__":
     main()
