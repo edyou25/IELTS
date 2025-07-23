@@ -39,7 +39,7 @@ def extract_improved_essays(file_path):
     
     # 组合Task 1文章
     if task1_essay:
-        print("\n".join(task1_essay))
+        print(" ".join(task1_essay))
 
     print("TASK 2")
     
@@ -58,7 +58,7 @@ def extract_improved_essays(file_path):
     
     # 组合Task 2文章
     if task2_essay:
-        print("\n".join(task2_essay))
+        print(" ".join(task2_essay))
 
 def main():
     filename = "18-1.md"
