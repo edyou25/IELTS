@@ -126,8 +126,24 @@ async def speak_and_test(words):
         kb_thread.daemon = True
         kb_thread.start()
         
-        # print("Type your answer (press 'r' to replay):")
+        # Timer thread for display
+        timer_stop = threading.Event()
+        start_time = time.time()
+        
+        def timer_display():
+            while not timer_stop.is_set():
+                elapsed = int(time.time() - start_time)
+                print(f"\r       ⏱️  Time: {elapsed}s", end="", flush=True)
+                time.sleep(1)
+        
+        timer_thread = threading.Thread(target=timer_display)
+        timer_thread.daemon = True
+        timer_thread.start()
+        
         user_input = input("").strip().lower()
+        timer_stop.set()  # Stop the timer
+        elapsed_time = int(time.time() - start_time)
+        
         correct = word.lower()
         
         # Signal threads to stop
