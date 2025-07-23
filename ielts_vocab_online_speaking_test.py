@@ -146,12 +146,12 @@ async def speak_and_test(words):
             print(f"❌ Incorrect, should be: {word}")
             incorrect_words.append(word)
         
-        try:
-            if give_chinese:
-                translation = await fetch_translation(word)
-            print(f"📝 Chinese translation: {translation}")
-        except Exception as e:
-            print(f"Unable to get translation: {e}")
+        # try:
+        #     if give_chinese:
+        #         translation = await fetch_translation(word)
+        #     print(f"📝 Chinese translation: {translation}")
+        # except Exception as e:
+        #     print(f"Unable to get translation: {e}")
         
         # Delete the temporary audio file immediately after use
         try:
