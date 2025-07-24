@@ -1,15 +1,15 @@
 ## Day 1
 ### Part 1 必备
 - [x] ⭐ Study or work
-- [ ] ⭐ Hometown
-- [ ] ⭐ Accommodation
-- [ ] ⭐ The area you live in
+- [x] ⭐ Hometown
+- [x] ⭐ Accommodation
+- [x] ⭐ The area you live in
 
 ### Part 1 新题
-- [ ] 🆕 Flowers
-- [ ] 🆕 Puzzles
-- [ ] 🆕 Public transport
-- [ ] 🆕 Names
+- [x] 🆕 Flowers
+- [x] 🆕 Puzzles
+- [x] 🆕 Public transport
+- [x] 🆕 Names
 
 ### Part 2/3 新题
 - [ ] 🆕 由不喜欢到喜欢的朋友
@@ -191,8 +191,7 @@ words = [
 Accommodation
 
 1.Are the transport facilities in your city very good?
-no, i think 
-im not talking about shenzhen.
+no, i dont think so
 l house is in a small town in north of china.
 there is no subway and airport.
 so almost everyone has a car.
@@ -256,3 +255,158 @@ yes, i hope so.
 because i love out door exercise very much.
 like simwing outdoor, cycling, hiking, and runing.
 so i like to move to the rural area to live.
+
+　　1. Do you love flowers?
+
+　　2. Do you know anyone who loves flowers?
+
+　　3. Are there a lot of flowers where you live?
+
+　　4. Would you take photos of flowers in your daily life?
+
+　　5. Do people in your country often send flowers to others?
+
+words = [
+    "Are the transport facilities in your city very good?",
+    "Which room does your family spend most of the time in?",
+    "Do you live in a house or a flat?",
+    "Do you plan to live here for a long time?",
+    "Do you live alone or with your family?",
+    "How long have you lived there?",
+    "What do you usually do in your house/flat/room?",
+    "Which is your favourite room in your home?",
+    "What's the difference between where you are living now and where you lived in the past? (If you want to say you have not lived elsewhere)",
+    "What can you see when you look out the window of your room?",
+    "Would you be willing to live in the countryside in the future?"
+]
+
+The area you live in
+
+1 Do you like the area that you live in now?
+
+2 Do you think the area you live in now is suitable for people of all ages?
+
+3 Are people in your area friendly?
+
+4 How has your area changed in recent years?
+
+5 Do you know any famous people in your area?
+
+6 Where do you like to go in your area?
+
+words = [
+    "Do you like the area that you live in now?",
+    "Do you think the area you live in now is suitable for people of all ages?",
+    "Are people in your area friendly?",
+    "How has your area changed in recent years?",
+    "Do you know any famous people in your area?",
+    "Where do you like to go in your area?"
+]
+
+　　1. Do you love flowers?
+
+　　2. Do you know anyone who loves flowers?
+
+　　3. Are there a lot of flowers where you live?
+
+　　4. Would you take photos of flowers in your daily life?
+
+　　5. Do people in your country often send flowers to others?
+no, i think
+in china, flowers are always used in a funeral.
+so if you do that, other people will feel affenced and angry.
+we always use gifts instead of flowers.
+
+
+words = [
+    "Do you love flowers?",
+    "Do you know anyone who loves flowers?",
+    "Are there a lot of flowers where you live?",
+    "Would you take photos of flowers in your daily life?",
+    "Do people in your country often send flowers to others?"
+]
+
+　　1. Did you like doing puzzles when you were a kid?
+no, just because i never heard about puzzles when i was i child.
+most times, i just played with other kids or played video games. 
+
+
+　　2. When do you do puzzles, during trips or when you feel bored?
+
+　　3. Do you like doing word puzzles or number puzzles?
+
+　　4. Do you think it is good for old people to do puzzles?
+yes.
+i think with puzzles, they can exercise their brains.
+so puzzles can help them to avoid some diseases.
+and if their kids like puzzles, they can make better communications with their kid using puzzles.
+
+words = [
+    "What kind of public transport do you usually take?",
+    "Did you take public transport when you were a kid?",
+    "Do most people prefer public transport?",
+    "When do you usually take public transport?"
+]
+
+
+1. Does your name have a special meaning?
+yes.
+my name means growing tall and strong in chinese.
+i used to feel very embarassed when i was a kid.
+because i am not tall and not strong. 
+other kids always laugh at me
+
+2. How do people choose names for their children?
+for me, i would like to choose some good wishes.
+for example, i wish my children could be healthy, wealthy, and happy. 
+and i will selected some charactors related to these.
+by the way, chinese name is combined by charactors, not words.
+
+
+3. Does anyone in your family have the same name with you?
+no.
+no in china, if a used a same name with a relative,
+it it very rode.
+so my 
+
+4. Are there any differences between how Chinese name their children now and in the past?
+yes.
+chiese names used to mainly contain some physical wishes, like growing tall, strong and beautiful.
+but now, it contains more mental wishes, like happiness and freedom.
+
+　　Describe a person you disliked at first but ended up being friends with.　
+
+　　You should say:
+
+　　Who he/she it
+
+　　How you knew him/her
+
+　　Why you disliked him/her at first but changed your mind
+
+　　And explain how you feel about the experience
+
+　　Part3 (待补充)
+
+　　1. What do you think of making friends online?
+
+　　2. Is it good idea to make friends who are much older than you?
+
+
+one of my classmates in university.
+same curriculum
+high grade
+feel stressful
+and i dont like someone who spend all the time on study.
+
+but then after the exams, i meet her in the fitnes center.
+she put on make up and looked very gorgous.
+i should admit that i was totally fascinated with her.
+
+but a have to say, i didn't just focus on he apperance.
+after chating with her, i found that she also had a colorful life, not just studying.
+
+i had a big prejudice on her.
+and i feeled very sorry about that.
+
+and now, she has been my girlfriend for 4 years.
