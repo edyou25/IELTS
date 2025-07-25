@@ -3,3 +3,4 @@ __pycache__/
 words.py
 configs/configs.py
 temp.txt
+translations_cache.json
