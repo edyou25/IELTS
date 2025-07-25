@@ -1,2 +1,5 @@
 test/
 __pycache__/
+words.py
+configs/configs.py
+temp.txt
