@@ -20,7 +20,7 @@ for i in range(0, len(lines), 6):
         if phrase:
             results.append(phrase.lower())
 
-results = sorted(set(results))
+# results = sorted(set(results))
 
 print("words = [")
 for i, word in enumerate(results):
