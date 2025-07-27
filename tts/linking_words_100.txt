@@ -1,0 +1,106 @@
+first {{pause:5000}}
+firstly {{pause:5000}}
+second {{pause:5000}}
+secondly {{pause:5000}}
+third {{pause:5000}}
+thirdly {{pause:5000}}
+then {{pause:5000}}
+next {{pause:5000}}
+finally {{pause:5000}}
+lastly {{pause:5000}}
+to begin with {{pause:5000}}
+to start with {{pause:5000}}
+subsequently {{pause:5000}}
+afterwards {{pause:5000}}
+meanwhile {{pause:5000}}
+at the same time {{pause:5000}}
+because {{pause:5000}}
+since {{pause:5000}}
+as {{pause:5000}}
+due to {{pause:5000}}
+owing to {{pause:5000}}
+thanks to {{pause:5000}}
+because of {{pause:5000}}
+for this reason {{pause:5000}}
+considering that {{pause:5000}}
+given that {{pause:5000}}
+so {{pause:5000}}
+therefore {{pause:5000}}
+thus {{pause:5000}}
+hence {{pause:5000}}
+as a result {{pause:5000}}
+as a consequence {{pause:5000}}
+consequently {{pause:5000}}
+accordingly {{pause:5000}}
+in effect {{pause:5000}}
+but {{pause:5000}}
+however {{pause:5000}}
+although {{pause:5000}}
+even though {{pause:5000}}
+though {{pause:5000}}
+while {{pause:5000}}
+whereas {{pause:5000}}
+on the other hand {{pause:5000}}
+in contrast {{pause:5000}}
+conversely {{pause:5000}}
+nevertheless {{pause:5000}}
+nonetheless {{pause:5000}}
+despite {{pause:5000}}
+in spite of {{pause:5000}}
+on the contrary {{pause:5000}}
+alternatively {{pause:5000}}
+and {{pause:5000}}
+also {{pause:5000}}
+moreover {{pause:5000}}
+furthermore {{pause:5000}}
+what is more {{pause:5000}}
+in addition {{pause:5000}}
+besides {{pause:5000}}
+not only that {{pause:5000}}
+as well {{pause:5000}}
+equally important {{pause:5000}}
+above all {{pause:5000}}
+indeed {{pause:5000}}
+significantly {{pause:5000}}
+for example {{pause:5000}}
+for instance {{pause:5000}}
+such as {{pause:5000}}
+namely {{pause:5000}}
+to illustrate {{pause:5000}}
+in particular {{pause:5000}}
+especially {{pause:5000}}
+like {{pause:5000}}
+including {{pause:5000}}
+to demonstrate {{pause:5000}}
+in conclusion {{pause:5000}}
+to sum up {{pause:5000}}
+in short {{pause:5000}}
+overall {{pause:5000}}
+in brief {{pause:5000}}
+all in all {{pause:5000}}
+to conclude {{pause:5000}}
+on the whole {{pause:5000}}
+generally speaking {{pause:5000}}
+in summary {{pause:5000}}
+as a whole {{pause:5000}}
+if {{pause:5000}}
+unless {{pause:5000}}
+provided that {{pause:5000}}
+as long as {{pause:5000}}
+in case {{pause:5000}}
+whether or not {{pause:5000}}
+assuming that {{pause:5000}}
+only if {{pause:5000}}
+on condition that {{pause:5000}}
+even if {{pause:5000}}
+while it is true that {{pause:5000}}
+granted that {{pause:5000}}
+admittedly {{pause:5000}}
+in spite of the fact that {{pause:5000}}
+despite the fact that {{pause:5000}}
+yet {{pause:5000}}
+in order to {{pause:5000}}
+so that {{pause:5000}}
+for the purpose of {{pause:5000}}
+with the aim of {{pause:5000}}
+to this end {{pause:5000}}

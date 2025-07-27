@@ -1,47 +1,46 @@
 words = [
-    # Static chart - multiples & weights
-    "double", "triple", "quadruple",
-    "A is three times as large as B", "A is three times that of B",
-    "a fifth", "almost a quarter", "just less than a third", "a little under half",
-    "about three quarters", "approximately 9 out of 10",
-    "almost", "just", "a little", "about", "approximately",
+    # 顺序 / 衔接
+    "first", "firstly", "second", "secondly", "third", "thirdly",
+    "then", "next", "finally", "lastly", "to begin with", "to start with",
+    "subsequently", "afterwards", "meanwhile", "at the same time",
 
-    # Dynamic chart - rise
-    "rise", "increase", "grow", "climb",
-    "jump", "surge", "soar", "skyrocket",
-    "peak at", "reach the peak", "reach the top", "reach the highest point at",
+    # 原因
+    "because", "since", "as", "due to", "owing to", "thanks to",
+    "because of", "for this reason", "considering that", "given that",
 
-    # Dynamic chart - fall
-    "dip", "fall", "decline", "drop", "decrease",
-    "slide", "plunge", "slump", "to the bottom of",
+    # 结果
+    "so", "therefore", "thus", "hence", "as a result", "as a consequence",
+    "consequently", "accordingly", "for this reason", "in effect",
 
-    # Dynamic chart - maintain
-    "stay constant", "stabilize", "level off", "reach a plateau at", "plateau at",
+    # 对比 / 转折
+    "but", "however", "although", "even though", "though", "while",
+    "whereas", "on the other hand", "in contrast", "conversely",
+    "nevertheless", "nonetheless", "despite", "in spite of",
+    "on the contrary", "alternatively",
 
-    # Dynamic chart - fluctuate
-    "fluctuate", "bounce",
+    # 递进 / 强调
+    "and", "also", "moreover", "furthermore", "what is more", "in addition",
+    "besides", "not only that", "as well", "equally important",
+    "above all", "indeed", "significantly",
 
-    # Dynamic chart - change scale and speed
-    "significantly", "considerably", "substantially", "dramatically",
-    "slightly", "moderately",
-    "quickly", "sharply", "rapidly", "suddenly",
-    "gradually", "consistently", "slowly",
+    # 举例
+    "for example", "for instance", "such as", "namely", "to illustrate",
+    "in particular", "especially", "like", "including", "to demonstrate",
 
-    # Flow chart - beginning
-    "The process starts from", "Initially", "At the beginning of the cycle",
-    "During the initial phase", "The beginning of the whole cycle is marked by",
+    # 总结 / 概括
+    "in conclusion", "to sum up", "in short", "overall", "in brief",
+    "all in all", "to conclude", "on the whole", "generally speaking",
+    "in summary", "as a whole",
 
-    # Flow chart - intermediate
-    "The second stage is", "The next step in the process is", "Next comes the third stage",
-    "When the third step is completed", "The following stage is", "Once ... is done / finished",
+    # 条件
+    "if", "unless", "provided that", "as long as", "in case", "whether or not",
+    "assuming that", "only if", "on condition that",
 
-    # Flow chart - end
-    "The final step is to", "... is the last step in the procedure", "Entering the final phase",
+    # 让步 / 退一步说
+    "even if", "although", "even though", "while it is true that",
+    "granted that", "admittedly", "in spite of the fact that", "nonetheless",
+    "despite the fact that", "yet",
 
-    # Flow chart - in process
-    "At the same time", "Simultaneously", "Meanwhile", "During",
-    "In the process of", "Over the course of",
-
-    # Flow chart - stages
-    "process", "procedures", "stages", "steps", "phases"
+    # 目的
+    "in order to", "so that", "for the purpose of", "with the aim of", "to this end"
 ]

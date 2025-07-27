@@ -1,4 +1,4 @@
-vocabulary_name = "ielts-bro-177-268"
+vocabulary_name = "linking_words_100"
 
 cols = 3
 
