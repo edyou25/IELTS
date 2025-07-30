@@ -15,6 +15,7 @@ for i in range(0, len(lines), 1):
     
     # Check for "Incorrect, should be:" pattern
     incorrect_match = re.search(r"Incorrect, should be:(.*?)$", line)
+    incorrect_match = re.search(r"(.*?) {{pause:5000}}", line)
     if incorrect_match:
         correction = incorrect_match.group(1).strip().lower()
         if correction:

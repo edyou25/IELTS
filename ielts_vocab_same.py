@@ -12,4 +12,4 @@ for i, word in enumerate(words3):
     print(f'    "{word}"{end}{sep}', end="")
 print("]")
 print(f"Total unique words: {len(words3)}")
-print(f"id: {len(words)+1}-{len(words2)}")
+print(f"id: {len(words)+1}-{len(words + words3)}")
