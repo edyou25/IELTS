@@ -720,5 +720,29 @@ words = [
 ]
 
 
+words = [
+    "samphire",
+    "staunfirth",
+    "wombat",
+    "Milperra",
+    "Manuja",
+    "Arbuthnot",
+    "Jamieson",
+    "Carrowniskey",
+    "Yentob",
+    "Grantingham",
+    "Jenny Chan",
+    "Kynchley",
+    "Tamer",
+    "Janet",
+    "Thomson",
+    "Yuichini",
+    "Keiko",
+    "Anita",
+    "Newman",
+    "Paynter",
+    "Alton"
+]
+
 
 print("Total words:", len(words))
