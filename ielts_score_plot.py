@@ -12,18 +12,26 @@ def read_scores_csv(filename):
     try:
         df = pd.read_csv(filename, encoding='utf-8')
         
-        # 假设CSV文件有列：编号, 听力, 阅读
+        # 假设CSV文件有列：编号, 听力, 阅读, 类型
         test_ids = df['ID'].tolist()
         listening_scores = df['Listening'].tolist()
         reading_scores = df['Reading'].tolist()
+        score_types = df['Type'].tolist() if 'Type' in df.columns else ['practice'] * len(test_ids)
         
         scores_dict = {
             'test_ids': test_ids,
             'listening': listening_scores,
-            'reading': reading_scores
+            'reading': reading_scores,
+            'types': score_types
         }
         
+        # 统计不同类型的分数
+        practice_count = score_types.count('practice')
+        real_count = score_types.count('real_exam')
+        
         print(f"✅ Successfully loaded {len(test_ids)} records from {filename}")
+        print(f"   📝 Practice tests: {practice_count}")
+        print(f"   🎯 Real exams: {real_count}")
         return scores_dict
         
     except Exception as e:
@@ -113,6 +121,19 @@ def main():
     test_ids = csv_dict['test_ids']
     listening_scores = csv_dict['listening']
     reading_scores = csv_dict['reading']
+    score_types = csv_dict['types']
+    
+    # 分离练习分数和真实考试分数
+    practice_indices = [i for i, t in enumerate(score_types) if t == 'practice']
+    real_indices = [i for i, t in enumerate(score_types) if t == 'real_exam']
+    
+    practice_ids = [test_ids[i] for i in practice_indices]
+    practice_listening = [listening_scores[i] for i in practice_indices]
+    practice_reading = [reading_scores[i] for i in practice_indices]
+    
+    real_ids = [test_ids[i] for i in real_indices] if real_indices else []
+    real_listening = [listening_scores[i] for i in real_indices] if real_indices else []
+    real_reading = [reading_scores[i] for i in real_indices] if real_indices else []
     
     # 计算统计数据
     def calculate_stats(scores, name):
@@ -137,40 +158,52 @@ def main():
         
         return stats
     
-    # 计算统计信息
-    listening_stats = calculate_stats(listening_scores, "Listening")
-    reading_stats = calculate_stats(reading_scores, "Reading")
+    # 计算统计信息（仅基于练习分数）
+    practice_listening_stats = calculate_stats(practice_listening, "Practice Listening")
+    practice_reading_stats = calculate_stats(practice_reading, "Practice Reading")
+    
+    # 计算所有分数的统计（包括真实考试）
+    listening_stats = calculate_stats(listening_scores, "All Listening")
+    reading_stats = calculate_stats(reading_scores, "All Reading")
     
     # 打印统计信息
     print("\n" + "="*60)
     print("📊 IELTS SCORES ANALYSIS")
     print("="*60)
     
-    if isinstance(listening_stats, dict):
+    # 打印真实考试成绩
+    if real_indices:
+        print("\n🎯 REAL EXAM RESULTS:")
+        for i, idx in enumerate(real_indices):
+            print(f"   Test {test_ids[idx]}: Listening {listening_scores[idx]}, Reading {reading_scores[idx]}")
+    
+    print(f"\n📊 PRACTICE STATISTICS (Based on {len(practice_indices)} practice tests):")
+    
+    if isinstance(practice_listening_stats, dict):
         print("\n🎧 LISTENING STATISTICS:")
-        print(f"   📈 Count: {listening_stats['count']} tests")
-        print(f"   📊 Mean: {listening_stats['mean']:.2f}")
-        print(f"   📊 Median: {listening_stats['median']:.2f}")
-        print(f"   📊 Mode: {listening_stats['mode']}")
-        print(f"   📊 Std Dev: {listening_stats['std']:.2f}")
-        print(f"   📊 Min: {listening_stats['min']:.1f}")
-        print(f"   📊 Max: {listening_stats['max']:.1f}")
-        print(f"   📊 Range: {listening_stats['range']:.1f}")
+        print(f"   📈 Count: {practice_listening_stats['count']} tests")
+        print(f"   📊 Mean: {practice_listening_stats['mean']:.2f}")
+        print(f"   📊 Median: {practice_listening_stats['median']:.2f}")
+        print(f"   📊 Mode: {practice_listening_stats['mode']}")
+        print(f"   📊 Std Dev: {practice_listening_stats['std']:.2f}")
+        print(f"   📊 Min: {practice_listening_stats['min']:.1f}")
+        print(f"   📊 Max: {practice_listening_stats['max']:.1f}")
+        print(f"   📊 Range: {practice_listening_stats['range']:.1f}")
     
-    if isinstance(reading_stats, dict):
+    if isinstance(practice_reading_stats, dict):
         print("\n📖 READING STATISTICS:")
-        print(f"   📈 Count: {reading_stats['count']} tests")
-        print(f"   📊 Mean: {reading_stats['mean']:.2f}")
-        print(f"   📊 Median: {reading_stats['median']:.2f}")
-        print(f"   📊 Mode: {reading_stats['mode']}")
-        print(f"   📊 Std Dev: {reading_stats['std']:.2f}")
-        print(f"   📊 Min: {reading_stats['min']:.1f}")
-        print(f"   📊 Max: {reading_stats['max']:.1f}")
-        print(f"   📊 Range: {reading_stats['range']:.1f}")
+        print(f"   📈 Count: {practice_reading_stats['count']} tests")
+        print(f"   📊 Mean: {practice_reading_stats['mean']:.2f}")
+        print(f"   📊 Median: {practice_reading_stats['median']:.2f}")
+        print(f"   📊 Mode: {practice_reading_stats['mode']}")
+        print(f"   📊 Std Dev: {practice_reading_stats['std']:.2f}")
+        print(f"   📊 Min: {practice_reading_stats['min']:.1f}")
+        print(f"   📊 Max: {practice_reading_stats['max']:.1f}")
+        print(f"   📊 Range: {practice_reading_stats['range']:.1f}")
     
-    # 计算线性拟合和预测
-    listening_fit_data = linear_fit_and_predict(test_ids, listening_scores, prediction_steps=3)
-    reading_fit_data = linear_fit_and_predict(test_ids, reading_scores, prediction_steps=3)
+    # 计算线性拟合和预测（基于练习分数）
+    listening_fit_data = linear_fit_and_predict(practice_ids, practice_listening, prediction_steps=3)
+    reading_fit_data = linear_fit_and_predict(practice_ids, practice_reading, prediction_steps=3)
     
     # 打印拟合信息
     if listening_fit_data[2] is not None:
@@ -203,29 +236,55 @@ def main():
     x_range = [test_ids[0], test_ids[-1]]
     
     # ============= 第一行：综合分析（跨3列） =============
-    # 添加听力分数线
-    fig.add_trace(go.Scatter(
-        x=test_ids, 
-        y=listening_scores, 
-        mode='lines+markers', 
-        name='Listening',
-        line=dict(color='blue', width=3),
-        marker=dict(size=8, color='blue'),
-        showlegend=True,
-        legendgroup="main"
-    ), row=1, col=1)
+    # 添加练习听力分数线
+    if practice_indices:
+        fig.add_trace(go.Scatter(
+            x=practice_ids, 
+            y=practice_listening, 
+            mode='lines+markers', 
+            name='Listening (Practice)',
+            line=dict(color='blue', width=3),
+            marker=dict(size=8, color='blue'),
+            showlegend=True,
+            legendgroup="main"
+        ), row=1, col=1)
     
-    # 添加阅读分数线
-    fig.add_trace(go.Scatter(
-        x=test_ids, 
-        y=reading_scores, 
-        mode='lines+markers', 
-        name='Reading',
-        line=dict(color='red', width=3),
-        marker=dict(size=8, color='red'),
-        showlegend=True,
-        legendgroup="main"
-    ), row=1, col=1)
+    # 添加练习阅读分数线
+    if practice_indices:
+        fig.add_trace(go.Scatter(
+            x=practice_ids, 
+            y=practice_reading, 
+            mode='lines+markers', 
+            name='Reading (Practice)',
+            line=dict(color='red', width=3),
+            marker=dict(size=8, color='red'),
+            showlegend=True,
+            legendgroup="main"
+        ), row=1, col=1)
+    
+    # 添加真实考试听力分数
+    if real_indices:
+        fig.add_trace(go.Scatter(
+            x=real_ids, 
+            y=real_listening, 
+            mode='markers', 
+            name='Listening (Real Exam)',
+            marker=dict(size=15, color='blue', symbol='star', line=dict(width=2, color='darkblue')),
+            showlegend=True,
+            legendgroup="main"
+        ), row=1, col=1)
+    
+    # 添加真实考试阅读分数
+    if real_indices:
+        fig.add_trace(go.Scatter(
+            x=real_ids, 
+            y=real_reading, 
+            mode='markers', 
+            name='Reading (Real Exam)',
+            marker=dict(size=15, color='red', symbol='star', line=dict(width=2, color='darkred')),
+            showlegend=True,
+            legendgroup="main"
+        ), row=1, col=1)
     
     # 听力统计线（综合图，默认隐藏）
     if isinstance(listening_stats, dict):
@@ -377,17 +436,30 @@ def main():
             ), row=1, col=1)
 
     # ============= 第二行第一列：听力详细分析 =============
-    # 听力分数线
-    fig.add_trace(go.Scatter(
-        x=test_ids, 
-        y=listening_scores, 
-        mode='lines+markers', 
-        name='Scores',
-        line=dict(color='blue', width=3),
-        marker=dict(size=8, color='blue'),
-        showlegend=True,
-        legendgroup="listening"
-    ), row=2, col=1)
+    # 练习听力分数线
+    if practice_indices:
+        fig.add_trace(go.Scatter(
+            x=practice_ids, 
+            y=practice_listening, 
+            mode='lines+markers', 
+            name='Practice Scores',
+            line=dict(color='blue', width=3),
+            marker=dict(size=8, color='blue'),
+            showlegend=True,
+            legendgroup="listening"
+        ), row=2, col=1)
+    
+    # 真实考试听力分数
+    if real_indices:
+        fig.add_trace(go.Scatter(
+            x=real_ids, 
+            y=real_listening, 
+            mode='markers', 
+            name='Real Exam',
+            marker=dict(size=15, color='gold', symbol='star', line=dict(width=2, color='darkblue')),
+            showlegend=True,
+            legendgroup="listening"
+        ), row=2, col=1)
     
     # 听力统计线（默认显示）
     if isinstance(listening_stats, dict):
@@ -477,17 +549,30 @@ def main():
                 )
 
     # ============= 第二行第二列：阅读详细分析 =============
-    # 阅读分数线
-    fig.add_trace(go.Scatter(
-        x=test_ids, 
-        y=reading_scores, 
-        mode='lines+markers', 
-        name='Scores',
-        line=dict(color='red', width=3),
-        marker=dict(size=8, color='red'),
-        showlegend=True,
-        legendgroup="reading"
-    ), row=2, col=2)
+    # 练习阅读分数线
+    if practice_indices:
+        fig.add_trace(go.Scatter(
+            x=practice_ids, 
+            y=practice_reading, 
+            mode='lines+markers', 
+            name='Practice Scores',
+            line=dict(color='red', width=3),
+            marker=dict(size=8, color='red'),
+            showlegend=True,
+            legendgroup="reading"
+        ), row=2, col=2)
+    
+    # 真实考试阅读分数
+    if real_indices:
+        fig.add_trace(go.Scatter(
+            x=real_ids, 
+            y=real_reading, 
+            mode='markers', 
+            name='Real Exam',
+            marker=dict(size=15, color='gold', symbol='star', line=dict(width=2, color='darkred')),
+            showlegend=True,
+            legendgroup="reading"
+        ), row=2, col=2)
     
     # 阅读统计线（默认显示）
     if isinstance(reading_stats, dict):
@@ -628,6 +713,240 @@ def main():
     fig.update_xaxes(title_text="Test ID", row=2, col=1)
     fig.update_xaxes(title_text="Test ID", row=2, col=2)
     
+    # 保存为HTML文件
+    output_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "html")
+    os.makedirs(output_dir, exist_ok=True)
+    html_file = os.path.join(output_dir, 'ielts_scores_dashboard.html')
+    
+    # 生成完整的HTML文件
+    fig.write_html(html_file, include_plotlyjs=True, div_id="ielts-dashboard")
+    
+    # 生成用于嵌入的HTML文件（内联CSS，CDN方式加载Plotly）
+    embed_html_file = os.path.join(output_dir, 'ielts_scores_embed.html')
+    fig.write_html(
+        embed_html_file, 
+        include_plotlyjs='cdn',  # 使用CDN加载Plotly
+        div_id="ielts-dashboard",
+        config={'displayModeBar': True, 'responsive': True}
+    )
+    
+    # 生成单独的子图HTML文件
+    # 听力分析子图
+    listening_fig = go.Figure()
+    if practice_indices:
+        listening_fig.add_trace(go.Scatter(
+            x=practice_ids, 
+            y=practice_listening, 
+            mode='lines+markers', 
+            name='Practice Scores',
+            line=dict(color='blue', width=3),
+            marker=dict(size=8, color='blue')
+        ))
+    if real_indices:
+        listening_fig.add_trace(go.Scatter(
+            x=real_ids, 
+            y=real_listening, 
+            mode='markers', 
+            name='Real Exam',
+            marker=dict(size=15, color='gold', symbol='star', line=dict(width=2, color='darkblue'))
+        ))
+    
+    # 添加听力统计线（默认隐藏）
+    if isinstance(listening_stats, dict):
+        listening_fig.add_trace(go.Scatter(
+            x=x_range,
+            y=[listening_stats['mean'], listening_stats['mean']],
+            mode='lines',
+            name=f'Mean ({listening_stats["mean"]:.2f})',
+            line=dict(color='lightblue', width=2, dash='solid'),
+            opacity=0.8,
+            visible='legendonly'  # 默认隐藏
+        ))
+        
+        listening_fig.add_trace(go.Scatter(
+            x=x_range,
+            y=[listening_stats['median'], listening_stats['median']],
+            mode='lines',
+            name=f'Median ({listening_stats["median"]:.2f})',
+            line=dict(color='darkblue', width=2, dash='dash'),
+            opacity=0.8,
+            visible='legendonly'  # 默认隐藏
+        ))
+        
+        if listening_stats['mode'] is not None:
+            mode_val = listening_stats['mode'] if isinstance(listening_stats['mode'], (int, float)) else listening_stats['mode'][0]
+            listening_fig.add_trace(go.Scatter(
+                x=x_range,
+                y=[mode_val, mode_val],
+                mode='lines',
+                name=f'Mode ({mode_val})',
+                line=dict(color='navy', width=2, dash='dot'),
+                opacity=0.8,
+                visible='legendonly'  # 默认隐藏
+            ))
+    
+    listening_fig.add_trace(go.Scatter(
+        x=x_range,
+        y=[6.5, 6.5],
+        mode='lines',
+        name='Target (6.5)',
+        line=dict(color='green', width=3, dash='dashdot')
+    ))
+    
+    if listening_fit_data[0] is not None:
+        fit_x, fit_y = listening_fit_data[0]
+        listening_fig.add_trace(go.Scatter(
+            x=fit_x, y=fit_y, mode='lines',
+            name=f'Trend (R²={listening_fit_data[2]["r_squared"]:.3f})',
+            line=dict(color='darkblue', width=2, dash='longdash')
+        ))
+        
+        if listening_fit_data[1] is not None:
+            future_x, future_y = listening_fit_data[1]
+            listening_fig.add_trace(go.Scatter(
+                x=future_x, y=future_y, mode='markers+lines',
+                name='Prediction',
+                line=dict(color='purple', width=2, dash='dot'),
+                marker=dict(color='purple', size=12, symbol='diamond')
+            ))
+            
+            # 添加预测值注释
+            for i, (px, py) in enumerate(zip(future_x, future_y)):
+                listening_fig.add_annotation(
+                    x=px, y=py + 0.3,
+                    text=f"{py:.1f}",
+                    showarrow=False,
+                    font=dict(color="purple", size=10)
+                )
+    
+    listening_fig.update_layout(
+        title='🎧 IELTS Listening Scores Analysis',
+        xaxis_title='Test ID',
+        yaxis_title='Listening Score',
+        yaxis=dict(range=[0, 9.5]),
+        template='plotly_white',
+        height=500,
+        legend=dict(
+            groupclick="toggleitem",
+            orientation="v",
+            x=1.02,
+            y=1,
+            xanchor="left",
+            yanchor="top"
+        )
+    )
+    
+    listening_html = os.path.join(output_dir, 'listening_scores.html')
+    listening_fig.write_html(listening_html, include_plotlyjs='cdn', div_id="listening-chart")
+    
+    # 阅读分析子图
+    reading_fig = go.Figure()
+    if practice_indices:
+        reading_fig.add_trace(go.Scatter(
+            x=practice_ids, 
+            y=practice_reading, 
+            mode='lines+markers', 
+            name='Practice Scores',
+            line=dict(color='red', width=3),
+            marker=dict(size=8, color='red')
+        ))
+    if real_indices:
+        reading_fig.add_trace(go.Scatter(
+            x=real_ids, 
+            y=real_reading, 
+            mode='markers', 
+            name='Real Exam',
+            marker=dict(size=15, color='gold', symbol='star', line=dict(width=2, color='darkred'))
+        ))
+    
+    # 添加阅读统计线（默认隐藏）
+    if isinstance(reading_stats, dict):
+        reading_fig.add_trace(go.Scatter(
+            x=x_range,
+            y=[reading_stats['mean'], reading_stats['mean']],
+            mode='lines',
+            name=f'Mean ({reading_stats["mean"]:.2f})',
+            line=dict(color='lightcoral', width=2, dash='solid'),
+            opacity=0.8,
+            visible='legendonly'  # 默认隐藏
+        ))
+        
+        reading_fig.add_trace(go.Scatter(
+            x=x_range,
+            y=[reading_stats['median'], reading_stats['median']],
+            mode='lines',
+            name=f'Median ({reading_stats["median"]:.2f})',
+            line=dict(color='darkred', width=2, dash='dash'),
+            opacity=0.8,
+            visible='legendonly'  # 默认隐藏
+        ))
+        
+        if reading_stats['mode'] is not None:
+            mode_val = reading_stats['mode'] if isinstance(reading_stats['mode'], (int, float)) else reading_stats['mode'][0]
+            reading_fig.add_trace(go.Scatter(
+                x=x_range,
+                y=[mode_val, mode_val],
+                mode='lines',
+                name=f'Mode ({mode_val})',
+                line=dict(color='maroon', width=2, dash='dot'),
+                opacity=0.8,
+                visible='legendonly'  # 默认隐藏
+            ))
+    
+    reading_fig.add_trace(go.Scatter(
+        x=x_range,
+        y=[6.5, 6.5],
+        mode='lines',
+        name='Target (6.5)',
+        line=dict(color='green', width=3, dash='dashdot')
+    ))
+    
+    if reading_fit_data[0] is not None:
+        fit_x, fit_y = reading_fit_data[0]
+        reading_fig.add_trace(go.Scatter(
+            x=fit_x, y=fit_y, mode='lines',
+            name=f'Trend (R²={reading_fit_data[2]["r_squared"]:.3f})',
+            line=dict(color='darkred', width=2, dash='longdash')
+        ))
+        
+        if reading_fit_data[1] is not None:
+            future_x, future_y = reading_fit_data[1]
+            reading_fig.add_trace(go.Scatter(
+                x=future_x, y=future_y, mode='markers+lines',
+                name='Prediction',
+                line=dict(color='orange', width=2, dash='dot'),
+                marker=dict(color='orange', size=12, symbol='diamond')
+            ))
+            
+            # 添加预测值注释
+            for i, (px, py) in enumerate(zip(future_x, future_y)):
+                reading_fig.add_annotation(
+                    x=px, y=py + 0.3,
+                    text=f"{py:.1f}",
+                    showarrow=False,
+                    font=dict(color="orange", size=10)
+                )
+    
+    reading_fig.update_layout(
+        title='📖 IELTS Reading Scores Analysis',
+        xaxis_title='Test ID',
+        yaxis_title='Reading Score',
+        yaxis=dict(range=[0, 9.5]),
+        template='plotly_white',
+        height=500,
+        legend=dict(
+            groupclick="toggleitem",
+            orientation="v",
+            x=1.02,
+            y=1,
+            xanchor="left",
+            yanchor="top"
+        )
+    )
+    
+    reading_html = os.path.join(output_dir, 'reading_scores.html')
+    reading_fig.write_html(reading_html, include_plotlyjs='cdn', div_id="reading-chart")
+    
     # 显示图表
     fig.show()
     
@@ -638,6 +957,10 @@ def main():
     print("   💡 Click legend items to show/hide traces")
     print("   📈 Trend lines show linear fitting with R² values")
     print("   🔮 Diamond markers show predicted future scores")
+    print(f"   💾 HTML file saved to: {html_file}")
+    print(f"   📋 Embed HTML saved to: {embed_html_file}")
+    print(f"   🎧 Listening chart: {listening_html}")
+    print(f"   📖 Reading chart: {reading_html}")
     
     # 打印预测结果
     if listening_fit_data[1] is not None:
