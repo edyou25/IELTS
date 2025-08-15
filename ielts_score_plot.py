@@ -716,19 +716,6 @@ def main():
     # 保存为HTML文件
     output_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "html")
     os.makedirs(output_dir, exist_ok=True)
-    html_file = os.path.join(output_dir, 'ielts_scores_dashboard.html')
-    
-    # 生成完整的HTML文件
-    fig.write_html(html_file, include_plotlyjs=True, div_id="ielts-dashboard")
-    
-    # 生成用于嵌入的HTML文件（内联CSS，CDN方式加载Plotly）
-    embed_html_file = os.path.join(output_dir, 'ielts_scores_embed.html')
-    fig.write_html(
-        embed_html_file, 
-        include_plotlyjs='cdn',  # 使用CDN加载Plotly
-        div_id="ielts-dashboard",
-        config={'displayModeBar': True, 'responsive': True}
-    )
     
     # 生成单独的子图HTML文件
     # 听力分析子图
@@ -951,14 +938,10 @@ def main():
     fig.show()
     
     print("="*60)
-    print("📊 Generated dashboard with 2 rows:")
-    print("   Row 1: Combined Listening & Reading Analysis (statistics & trends hidden by default)")
-    print("   Row 2: Individual Listening & Reading Analysis with Linear Fitting & Prediction")
+    print("📊 Generated individual score charts:")
     print("   💡 Click legend items to show/hide traces")
     print("   📈 Trend lines show linear fitting with R² values")
     print("   🔮 Diamond markers show predicted future scores")
-    print(f"   💾 HTML file saved to: {html_file}")
-    print(f"   📋 Embed HTML saved to: {embed_html_file}")
     print(f"   🎧 Listening chart: {listening_html}")
     print(f"   📖 Reading chart: {reading_html}")
     
