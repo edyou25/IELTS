@@ -823,9 +823,6 @@ def main():
         )
     )
     
-    listening_html = os.path.join(output_dir, 'listening_scores.html')
-    listening_fig.write_html(listening_html, include_plotlyjs='cdn', div_id="listening-chart")
-    
     # 阅读分析子图
     reading_fig = go.Figure()
     if practice_indices:
@@ -931,6 +928,61 @@ def main():
         )
     )
     
+    # 生成可嵌入的单独HTML文件
+    # 听力图表的JavaScript代码
+    listening_json = listening_fig.to_json()
+    listening_embed_template = """<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <style>
+        body { margin: 0; padding: 5px; font-family: Arial, sans-serif; background: transparent; }
+        .chart-container { width: 100%; height: 450px; }
+    </style>
+</head>
+<body>
+    <div id="listening-chart" class="chart-container"></div>
+    <script>
+        var figure = """ + listening_json + """;
+        Plotly.newPlot('listening-chart', figure.data, figure.layout, {responsive: true, displayModeBar: true});
+    </script>
+</body>
+</html>"""
+    
+    listening_embed_html = os.path.join(output_dir, 'listening_embed.html')
+    with open(listening_embed_html, 'w', encoding='utf-8') as f:
+        f.write(listening_embed_template)
+    
+    # 阅读图表的JavaScript代码
+    reading_json = reading_fig.to_json()
+    reading_embed_template = """<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <style>
+        body { margin: 0; padding: 5px; font-family: Arial, sans-serif; background: transparent; }
+        .chart-container { width: 100%; height: 450px; }
+    </style>
+</head>
+<body>
+    <div id="reading-chart" class="chart-container"></div>
+    <script>
+        var figure = """ + reading_json + """;
+        Plotly.newPlot('reading-chart', figure.data, figure.layout, {responsive: true, displayModeBar: true});
+    </script>
+</body>
+</html>"""
+    
+    reading_embed_html = os.path.join(output_dir, 'reading_embed.html')
+    with open(reading_embed_html, 'w', encoding='utf-8') as f:
+        f.write(reading_embed_template)
+    
+    # 生成原有的HTML文件
+    listening_html = os.path.join(output_dir, 'listening_scores.html')
+    listening_fig.write_html(listening_html, include_plotlyjs='cdn', div_id="listening-chart")
+    
     reading_html = os.path.join(output_dir, 'reading_scores.html')
     reading_fig.write_html(reading_html, include_plotlyjs='cdn', div_id="reading-chart")
     
@@ -944,6 +996,8 @@ def main():
     print("   🔮 Diamond markers show predicted future scores")
     print(f"   🎧 Listening chart: {listening_html}")
     print(f"   📖 Reading chart: {reading_html}")
+    print(f"   🎧 Listening embed chart: {listening_embed_html}")
+    print(f"   📖 Reading embed chart: {reading_embed_html}")
     
     # 打印预测结果
     if listening_fit_data[1] is not None:

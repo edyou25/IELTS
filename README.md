@@ -82,10 +82,10 @@ conda env create -f env_ext.yml
 ## 📈 分数分析图表
 
 ### 🎧 听力分数分析
-**[📊 查看交互式听力分数图表](https://htmlpreview.github.io/?https://github.com/yyf/IELTS/blob/main/html/listening_scores.html)**
+<iframe src="https://htmlpreview.github.io/?https://github.com/yyf/IELTS/blob/main/html/listening_embed.html" width="100%" height="500" frameborder="0"></iframe>
 
-### 📖 阅读分数分析  
-**[📊 查看交互式阅读分数图表](https://htmlpreview.github.io/?https://github.com/yyf/IELTS/blob/main/html/reading_scores.html)**
+### 📖 阅读分数分析
+<iframe src="https://htmlpreview.github.io/?https://github.com/yyf/IELTS/blob/main/html/reading_embed.html" width="100%" height="500" frameborder="0"></iframe>
 
 > **说明：** 
 > - 🔵 蓝色线条和点：练习分数
