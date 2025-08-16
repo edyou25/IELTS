@@ -2,6 +2,15 @@
 
 > 一些雅思学习工具，包括单词、听力、阅读、写作、考场分析
 
+#### 📊 My Score
+
+
+![Listening Scores](./html/listening_scores.svg)
+
+
+![Reading Scores](./html/reading_scores.svg)
+
+
 #### Setup
 安装听写基本环境（听写语音包、google翻译）
 ```shell

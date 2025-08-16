@@ -713,11 +713,45 @@ def main():
     fig.update_xaxes(title_text="Test ID", row=2, col=1)
     fig.update_xaxes(title_text="Test ID", row=2, col=2)
     
+    # ...existing code...
+    
+    # 显示图表
+    fig.show()
+    
+    print("="*60)
+    print("📊 Individual score charts will be generated...")
+    print("   💡 Click legend items to show/hide traces")
+    print("   📈 Trend lines show linear fitting with R² values") 
+    print("   🔮 Diamond markers show predicted future scores")
+    # print(f"   🎧 Listening HTML: {listening_html}")
+    # print(f"   🎧 Listening SVG: {listening_svg}")
+    # print(f"   📖 Reading HTML: {reading_html}")
+    # print(f"   📖 Reading SVG: {reading_svg}")
+    
+    # 打印预测结果
+    if listening_fit_data[1] is not None:
+        future_x, future_y = listening_fit_data[1]
+        print(f"\n🎧 LISTENING PREDICTIONS:")
+        for i, (test_id, score) in enumerate(zip(future_x, future_y)):
+            print(f"   Test {int(test_id)}: {score:.1f}")
+    
+    if reading_fit_data[1] is not None:
+        future_x, future_y = reading_fit_data[1]
+        print(f"\n📖 READING PREDICTIONS:")
+        for i, (test_id, score) in enumerate(zip(future_x, future_y)):
+            print(f"   Test {int(test_id)}: {score:.1f}")
+
     # 保存为HTML文件
     output_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "html")
     os.makedirs(output_dir, exist_ok=True)
     
-    # 生成单独的子图HTML文件
+    # 定义文件路径
+    listening_html = os.path.join(output_dir, 'listening_scores.html')
+    listening_svg = os.path.join(output_dir, 'listening_scores.svg')
+    reading_html = os.path.join(output_dir, 'reading_scores.html')
+    reading_svg = os.path.join(output_dir, 'reading_scores.svg')
+    
+    # 生成单独的子图HTML文件和SVG文件
     # 听力分析子图
     listening_fig = go.Figure()
     if practice_indices:
@@ -747,7 +781,7 @@ def main():
             name=f'Mean ({listening_stats["mean"]:.2f})',
             line=dict(color='lightblue', width=2, dash='solid'),
             opacity=0.8,
-            visible='legendonly'  # 默认隐藏
+            visible='legendonly'
         ))
         
         listening_fig.add_trace(go.Scatter(
@@ -757,7 +791,7 @@ def main():
             name=f'Median ({listening_stats["median"]:.2f})',
             line=dict(color='darkblue', width=2, dash='dash'),
             opacity=0.8,
-            visible='legendonly'  # 默认隐藏
+            visible='legendonly'
         ))
         
         if listening_stats['mode'] is not None:
@@ -769,7 +803,7 @@ def main():
                 name=f'Mode ({mode_val})',
                 line=dict(color='navy', width=2, dash='dot'),
                 opacity=0.8,
-                visible='legendonly'  # 默认隐藏
+                visible='legendonly'
             ))
     
     listening_fig.add_trace(go.Scatter(
@@ -797,7 +831,6 @@ def main():
                 marker=dict(color='purple', size=12, symbol='diamond')
             ))
             
-            # 添加预测值注释
             for i, (px, py) in enumerate(zip(future_x, future_y)):
                 listening_fig.add_annotation(
                     x=px, y=py + 0.3,
@@ -813,15 +846,20 @@ def main():
         yaxis=dict(range=[0, 9.5]),
         template='plotly_white',
         height=500,
+        width=800,
         legend=dict(
-            groupclick="toggleitem",
-            orientation="v",
-            x=1.02,
-            y=1,
+            x=0.02,
+            y=0.98,
             xanchor="left",
-            yanchor="top"
+            yanchor="top",
+            bgcolor="rgba(255,255,255,0.9)",
+            bordercolor="gray",
+            borderwidth=1
         )
     )
+    
+    listening_fig.write_html(listening_html, include_plotlyjs='cdn', div_id="listening-chart")
+    listening_fig.write_image(listening_svg, format='svg', width=800, height=500)
     
     # 阅读分析子图
     reading_fig = go.Figure()
@@ -852,7 +890,7 @@ def main():
             name=f'Mean ({reading_stats["mean"]:.2f})',
             line=dict(color='lightcoral', width=2, dash='solid'),
             opacity=0.8,
-            visible='legendonly'  # 默认隐藏
+            visible='legendonly'
         ))
         
         reading_fig.add_trace(go.Scatter(
@@ -862,7 +900,7 @@ def main():
             name=f'Median ({reading_stats["median"]:.2f})',
             line=dict(color='darkred', width=2, dash='dash'),
             opacity=0.8,
-            visible='legendonly'  # 默认隐藏
+            visible='legendonly'
         ))
         
         if reading_stats['mode'] is not None:
@@ -874,7 +912,7 @@ def main():
                 name=f'Mode ({mode_val})',
                 line=dict(color='maroon', width=2, dash='dot'),
                 opacity=0.8,
-                visible='legendonly'  # 默认隐藏
+                visible='legendonly'
             ))
     
     reading_fig.add_trace(go.Scatter(
@@ -902,7 +940,6 @@ def main():
                 marker=dict(color='orange', size=12, symbol='diamond')
             ))
             
-            # 添加预测值注释
             for i, (px, py) in enumerate(zip(future_x, future_y)):
                 reading_fig.add_annotation(
                     x=px, y=py + 0.3,
@@ -918,99 +955,28 @@ def main():
         yaxis=dict(range=[0, 9.5]),
         template='plotly_white',
         height=500,
+        width=800,
         legend=dict(
-            groupclick="toggleitem",
-            orientation="v",
-            x=1.02,
-            y=1,
+            x=0.02,
+            y=0.98,
             xanchor="left",
-            yanchor="top"
+            yanchor="top",
+            bgcolor="rgba(255,255,255,0.9)",
+            bordercolor="gray",
+            borderwidth=1
         )
     )
     
-    # 生成可嵌入的单独HTML文件
-    # 听力图表的JavaScript代码
-    listening_json = listening_fig.to_json()
-    listening_embed_template = """<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-    <style>
-        body { margin: 0; padding: 5px; font-family: Arial, sans-serif; background: transparent; }
-        .chart-container { width: 100%; height: 450px; }
-    </style>
-</head>
-<body>
-    <div id="listening-chart" class="chart-container"></div>
-    <script>
-        var figure = """ + listening_json + """;
-        Plotly.newPlot('listening-chart', figure.data, figure.layout, {responsive: true, displayModeBar: true});
-    </script>
-</body>
-</html>"""
-    
-    listening_embed_html = os.path.join(output_dir, 'listening_embed.html')
-    with open(listening_embed_html, 'w', encoding='utf-8') as f:
-        f.write(listening_embed_template)
-    
-    # 阅读图表的JavaScript代码
-    reading_json = reading_fig.to_json()
-    reading_embed_template = """<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-    <style>
-        body { margin: 0; padding: 5px; font-family: Arial, sans-serif; background: transparent; }
-        .chart-container { width: 100%; height: 450px; }
-    </style>
-</head>
-<body>
-    <div id="reading-chart" class="chart-container"></div>
-    <script>
-        var figure = """ + reading_json + """;
-        Plotly.newPlot('reading-chart', figure.data, figure.layout, {responsive: true, displayModeBar: true});
-    </script>
-</body>
-</html>"""
-    
-    reading_embed_html = os.path.join(output_dir, 'reading_embed.html')
-    with open(reading_embed_html, 'w', encoding='utf-8') as f:
-        f.write(reading_embed_template)
-    
-    # 生成原有的HTML文件
-    listening_html = os.path.join(output_dir, 'listening_scores.html')
-    listening_fig.write_html(listening_html, include_plotlyjs='cdn', div_id="listening-chart")
-    
-    reading_html = os.path.join(output_dir, 'reading_scores.html')
     reading_fig.write_html(reading_html, include_plotlyjs='cdn', div_id="reading-chart")
+    reading_fig.write_image(reading_svg, format='svg', width=800, height=500)
     
-    # 显示图表
-    fig.show()
-    
+    print("\n" + "="*60)
+    print("✅ Successfully generated IELTS score charts:")
+    print(f"   🎧 Listening HTML: {listening_html}")
+    print(f"   🎧 Listening SVG:  {listening_svg}")
+    print(f"   📖 Reading HTML:   {reading_html}")
+    print(f"   📖 Reading SVG:    {reading_svg}")
     print("="*60)
-    print("📊 Generated individual score charts:")
-    print("   💡 Click legend items to show/hide traces")
-    print("   📈 Trend lines show linear fitting with R² values")
-    print("   🔮 Diamond markers show predicted future scores")
-    print(f"   🎧 Listening chart: {listening_html}")
-    print(f"   📖 Reading chart: {reading_html}")
-    print(f"   🎧 Listening embed chart: {listening_embed_html}")
-    print(f"   📖 Reading embed chart: {reading_embed_html}")
-    
-    # 打印预测结果
-    if listening_fit_data[1] is not None:
-        future_x, future_y = listening_fit_data[1]
-        print(f"\n🎧 LISTENING PREDICTIONS:")
-        for i, (test_id, score) in enumerate(zip(future_x, future_y)):
-            print(f"   Test {int(test_id)}: {score:.1f}")
-    
-    if reading_fit_data[1] is not None:
-        future_x, future_y = reading_fit_data[1]
-        print(f"\n📖 READING PREDICTIONS:")
-        for i, (test_id, score) in enumerate(zip(future_x, future_y)):
-            print(f"   Test {int(test_id)}: {score:.1f}")
 
 if __name__ == "__main__":
     main()
