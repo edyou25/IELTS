@@ -4,11 +4,10 @@
 
 #### 📊 My Score
 
-
-![Listening Scores](./html/listening_scores.svg)
-
-
-![Reading Scores](./html/reading_scores.svg)
+<div align="center">
+  <img src="./html/listening_scores.svg" width="75%" alt="Listening Scores" />
+  <img src="./html/reading_scores.svg" width="75%" alt="Reading Scores" />
+</div>
 
 
 #### Setup
