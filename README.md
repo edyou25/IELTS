@@ -1,6 +1,8 @@
 # IELTS Tools
 
 > 一些雅思学习工具，包括单词、听力、阅读、写作、考场分析
+> As a Chinese developer, I initially created this tool specifically for Chinese students preparing for the IELTS. 
+> However, its structure is highly flexible, making it very easy to adapt or migrate to support learners of other languages if needed.
 
 #### 📊 My Score
 
