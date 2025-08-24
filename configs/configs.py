@@ -1,4 +1,4 @@
-vocabulary_name = "ielts-bro-269-629"
+vocabulary_name = "reddead"
 
 cols = 3
 
