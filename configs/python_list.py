@@ -849,6 +849,31 @@ words = [
     "corpse",    # 尸体
     "rotten",    # 腐烂的
     "magnate",    # 大亨，巨头
+    "tribe",       # 部落，族群
+    "repose",       # 休息，安息
+    "yarrow",       # 西洋蓍草，一种草本植物
+    "ginseng",      # 人参，一种草本植物，常用于中药
+    "prosper",       # 繁荣，兴旺
+    "noose",          # 绞索，套索
+    "stew",           # 炖菜，炖煮
+    "enchant",        # 施魔法，附魔
+    "enthrall",       # 迷住，吸引
+    "parasite",       # 寄生虫
+    "lackey",         # 走狗，仆从
+    "crawl",          # 爬行
+    "scrawl",         # 潦草地写，乱涂
+    "solitude",       # 孤独，独处
+    "wretch",         # 可怜的人，恶棍
+    "thee",           # 你（古英语）
+    "menial",         # 卑微的，低贱的
+    "antagonize",     # 激怒，敌对
+    "defuse",          # 拆除，解除
+    "maniac",          # 疯子，狂人
+    "prairie",         # 大草原
+    "servent",         # 仆人，服务员
+    "dock",            # 码头，船坞
+    "docker",            # 码头工人
+    "rob",              # 抢劫
     
 ]
 
